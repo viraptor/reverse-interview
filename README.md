@@ -17,8 +17,8 @@ Definitely don't try to ask everything from the list.
 
 # The Role
 
-- What's the on-call plan/schedule? (what's the pay)
-- What are the tasks on a usual day?
+- What's the on-call plan/schedule? (what's the pay for standby and call-out)
+- What are the tasks I would do on a usual day?
 - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
 - How much independent action vs working off a provided list is expected?
