@@ -26,6 +26,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does the onboarding look like?
 - How much independent action vs working off a provided list is expected?
 - What are the expected/core work hours?
+- How is success measured for this position?
+- Imagine it's one year after you've hired me and we're conducting my yearly performance review. I've had an exemplary year. What does that review sound like?
 
 # Tech
 
