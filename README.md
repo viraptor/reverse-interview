@@ -15,6 +15,9 @@ If you asked something not listed here, send in a PR.
 
 Definitely don't try to ask everything from the list.
 
+Remember that things tend to be fluid, re-organizations happens often.
+Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short. 
+
 # The Role
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
