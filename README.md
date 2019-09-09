@@ -68,7 +68,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - Are you profitable?
 - If not, how long is your runway?
-- Where does the funding come from and who influenced the high level plan/direction?
+- Where does the funding come from and who influences the high level plan/direction?
 - How do you make money?
 - What's preventing you from making more money?
 
