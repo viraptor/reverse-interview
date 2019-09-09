@@ -16,7 +16,7 @@ If you asked something not listed here, send in a PR.
 Definitely don't try to ask everything from the list.
 
 Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short. 
+Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
 # The Role
 
@@ -31,10 +31,12 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Tech
 
 - What are the usual stacks used at the company?
-- How do you use source control?
+- Is there default operating system used or is it up to employees to choose one?
+- How do you use source control? Is it git/svn?
 - How do you test code?
 - How do you track bugs?
 - How do you integrate and deploy changes? Is it CI/CD?
+- Are CI/CD pipelines setup under version control / available as code?
 - Is your infrastructure setup under version control / available as code?
 - What's the workflow from the planning to the finished task?
 - How do you prepare for disaster recovery?
@@ -42,10 +44,12 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
+- Do you follow ["12-factor app"](https://12factor.net/) methodology?
+- Are developers expected to participate in process of software architecture design?
 
 # The Team
 
-- How is the work organised?
+- How is the work organised? Do you use any issue tracking system like JIRA / Trello?
 - How does the intra/inter-team communication typically work?
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
@@ -54,6 +58,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
+- Do you employ any agile methodology? Is it scrum/kanban/waterfall?
 
 # The Company
 
@@ -67,6 +72,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+- What is your approach to working overtime? How often it is required to work overtime and what are the compensation rules for it?
+- Is there possibility to change projects / roles?
+- Do you organise internal/public meetups / attend conferences?
+- Is it allowed to allocate N hours per week for career development purposes?
 
 # The Business
 
