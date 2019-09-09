@@ -54,7 +54,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Company
 
-- Where does the funding come from and who decides the high level plan/direction?
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - Is there a separate tech and management career path?
@@ -64,6 +63,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
+
+# The Business
+
+- Are you profitable?
+- If not, how long is your runway?
+- Where does the funding come from and who influenced the high level plan/direction?
+- How do you make money?
+- What's preventing you from making more money?
 
 # Remote Work
 
