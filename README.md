@@ -30,13 +30,13 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Tech
 
 - What are the usual stacks used at the company?
-- Do you use source control?
-- Do you test code?
-- Do you use bug tracking?
-- Do you use CI/CD?
+- How do you use source control?
+- How do you test code?
+- How do you track bugs?
+- How do you integrate and deploy changes? Is it CI/CD?
 - Is your infrastructure setup under version control / available as code?
 - What's the workflow from the planning to the finished task?
-- Do you have backups / disaster recovery plan?
+- How do you prepare for disaster recovery?
 - Is there a standardised development environment? Is it enforced?
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
