@@ -75,6 +75,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Where does the funding come from and who influences the high level plan/direction?
 - How do you make money?
 - What's preventing you from making more money?
+- What have you identified as your competitive advantage?
 
 # Remote Work
 
