@@ -64,6 +64,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
+- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 
 # The Business
 
