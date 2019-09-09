@@ -40,6 +40,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a standardised development environment? Is it enforced?
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
+- Are all developers allowed to have local admin access of their computers?
 
 # The Team
 
