@@ -76,3 +76,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
+
+# Other resources
+
+- Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
