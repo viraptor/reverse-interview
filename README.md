@@ -52,6 +52,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What kind of meetings happen every week?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
+- What are some ongoing challenges the team is experiencing that you are yet to resolve?
 
 # The Company
 
