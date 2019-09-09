@@ -51,6 +51,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after pushback? ("this can't be done in the projected time")
 - What kind of meetings happen every week?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
+- What happens after production incidents? Is there a culture of blameless analysis?
 
 # The Company
 
