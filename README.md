@@ -26,8 +26,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does the onboarding look like?
 - How much independent action vs working off a provided list is expected?
 - What are the expected/core work hours?
-- How is success measured for this position?
-- Imagine it's one year after you've hired me and we're conducting my yearly performance review. I've had an exemplary year. What does that review sound like?
+- What is your definition of success for this role?
+- Imagine it's one year after you've hired me and we're conducting my yearly performance review and I have exceeded your expectations. What does that review sound like?
 
 # Tech
 
@@ -54,6 +54,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What kind of meetings happen every week?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
+- What are some ongoing challenges the team is experiencing that you are yet to resolve?
 
 # The Company
 
