@@ -69,6 +69,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+- Where do you see the company in the next 5/10 years? 
+
 
 # The Business
 
