@@ -62,7 +62,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - Is there a separate tech and management career path?
-- How much annual / personal / sick / parental / unpaid leave is available?
 - What's the status of / view on diverse hiring?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
@@ -84,6 +83,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
+- Is there a budget for co-working space or internet access?
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
@@ -91,6 +91,21 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
+
+# Compensation
+
+- If you have a bonus scheme, then how are bonuses determined?
+- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
+- Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
+
+# Paid Time Off (PTO)
+
+- How much PTO is offered?
+- Are sick time and vacation time separate or do they come from the same pool?
+- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
+- What is the roll over policy is there for PTO?
+- What is the parental leave policy?
+- What is the policy on unpaid leave?
 
 # Other resources
 
