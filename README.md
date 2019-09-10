@@ -29,6 +29,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How much independent action vs working off a provided list is expected?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
+- What is the performance review process like?
 
 # Tech
 
