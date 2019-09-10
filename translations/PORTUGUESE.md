@@ -23,7 +23,7 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 
 - Qual é a política para plantões? (Eu sou pago a mais para estar disponivel, caso aconteça algum incidente)
 - Quais tarefas eu faria em um dia normal?
-- Qual é a relação de desenvolvedores junniors e seniors? (E existe algum plano para mudar isso)
+- Qual é a relação de desenvolvedores juniores e seniores? (E existe algum plano para mudar isso)
 - Como o período de adaptação funciona?
 - Quanto de proatividade vs fazer o que foi pedido é esperado?
 - Qual é a quantidade de horas de trabalho esperada?
