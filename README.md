@@ -7,7 +7,10 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
-Translations: [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+Translations: 
+
+[Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
 
 ## Expected usage
 
