@@ -50,6 +50,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # The Team
 
 - How is the work organised? Do you use any issue tracking system like JIRA / Trello?
+- Do you have product backlog system? How do you govern it?
 - How does the intra/inter-team communication typically work?
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
@@ -59,6 +60,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
 - Do you employ any agile methodology? Is it scrum/kanban/waterfall?
+- Do you have scrum master or person in a similar role?
 
 # The Company
 
