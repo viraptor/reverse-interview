@@ -95,7 +95,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
 
-# PTO
+# Paid Time Off (PTO)
 
 - How much PTO is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
