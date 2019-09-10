@@ -7,6 +7,8 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
+Translations: [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+
 ## Expected usage
 
 - Check which questions are interesting for you specifically
