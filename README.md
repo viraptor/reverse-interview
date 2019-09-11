@@ -34,7 +34,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What are the usual stacks used at the company?
 - Is there default operating system used or is it up to employees to choose one?
-- How do you use source control? Is it git/svn?
+- What do you use for source control? Do you implement any particular branching strategy, like ["git flow"](https://nvie.com/posts/a-successful-git-branching-model/)?
 - How do you test code?
 - How do you track bugs?
 - How do you integrate and deploy changes? Is it CI/CD?
