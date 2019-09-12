@@ -7,10 +7,10 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
-Translations: 
+Translations:
 
 [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
+[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 
 ## Expected usage
 
@@ -21,7 +21,7 @@ Translations:
 Definitely don't try to ask everything from the list.
 
 Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short. 
+Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
 # The Role
 
