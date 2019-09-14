@@ -42,7 +42,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
-- Do you have any sort of technical principles or vision?
+- Tell me about your technical principles or vision.
 
 # The Team
 
