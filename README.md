@@ -10,7 +10,7 @@ If you asked something not listed here, send in a PR.
 Translations:
 
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 
 ## Expected usage
