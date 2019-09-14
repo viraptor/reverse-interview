@@ -9,7 +9,7 @@ If you asked something not listed here, send in a PR.
 
 Translations:
 
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh)
+- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
