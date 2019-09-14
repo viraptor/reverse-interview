@@ -9,6 +9,7 @@ If you asked something not listed here, send in a PR.
 
 Translations:
 
+- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
