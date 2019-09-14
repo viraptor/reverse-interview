@@ -7,7 +7,11 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 
 If you asked something not listed here, send in a PR.
 
-Translations: [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md), [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
+Translations:
+
+- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/PORTUGUESE.md)
+- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
@@ -62,13 +66,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - Is there a separate tech and management career path?
-- How much annual / personal / sick / parental / unpaid leave is available?
 - What's the status of / view on diverse hiring?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+- What do you think are the gaps in the company culture?
+- Could you tell me a story about a toxic situation and how the company dealt with it?
 
 # The Business
 
@@ -84,6 +89,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
+- Is there a budget for co-working space or internet access?
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
@@ -92,6 +98,27 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
 
+# Compensation
+
+- If you have a bonus scheme, then how are bonuses determined?
+- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
+- Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
+
+# Paid Time Off (PTO)
+
+- How much PTO is offered?
+- Are sick time and vacation time separate or do they come from the same pool?
+- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
+- What is the roll over policy is there for PTO?
+- What is the parental leave policy?
+- What is the policy on unpaid leave?
+
 # Other resources
 
 - Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
+# License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
