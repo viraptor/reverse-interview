@@ -9,8 +9,9 @@ If you asked something not listed here, send in a PR.
 
 Translations:
 
-[Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-[Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Portuguese](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
@@ -115,3 +116,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Other resources
 
 - Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
+# License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
