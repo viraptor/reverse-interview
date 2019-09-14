@@ -51,6 +51,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
+- Tell me about your technical principles or vision.
 
 # The Team
 
@@ -59,10 +60,19 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
 - What happens after pushback? ("this can't be done in the projected time")
+- What happens when the team misses a release target?
 - What kind of meetings happen every week?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
+- How do you balance technical vs business goals?
+
+# Your Potential Coworkers
+
+- What do you like best about working there?
+- What do you like least?
+- What would you change if you could?
+- How long has the longest team member been there?
 
 # The Company
 
@@ -85,6 +95,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Where does the funding come from and who influences the high level plan/direction?
 - How do you make money?
 - What's preventing you from making more money?
+- What is the company's growth plan for the next 1 year? 5 years?
+- What are the big challenges you see coming up?
 - What have you identified as your competitive advantage?
 
 # Remote Work
