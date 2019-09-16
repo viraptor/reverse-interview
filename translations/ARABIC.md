@@ -125,14 +125,14 @@ Translations:
 - إذا كان لديك نظام مكافآت ، فما هي نسب المكافآت النموذجية خلال السنوات القليلة الماضية؟
 -  هل لديك خطة التقاعد ٤٠١ أو غيرها؟ إذا كان الأمر كذلك ، هل هناك توزيع مساهمات؟
 
-# Paid Time Off (PTO)
+# أجازات مدفوعة
 
-- How much PTO is offered?
-- Are sick time and vacation time separate or do they come from the same pool?
-- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
-- What is the roll over policy is there for PTO?
-- What is the parental leave policy?
-- What is the policy on unpaid leave?
+- ما هي مدة الاجازات المدفوعة ؟
+- هل الوقت المرضي ووقت الإجازة منفصلان ام معاً؟
+- هل يمكنني استخدام وقت الإجازة قبل استحقاقه ، والوصول إلى رصيد الاجازات السلبي بشكل فعال؟
+- ما هي عند تعويضات عن الاجازات غير المستخدمه؟
+- ما هناك اجازة المولد الجديد؟
+- ما هي سياسة الإجازة غير المدفوعة؟
 
 # Other resources
 
