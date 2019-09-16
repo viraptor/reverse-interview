@@ -134,12 +134,12 @@ Translations:
 - ما هناك اجازة المولد الجديد؟
 - ما هي سياسة الإجازة غير المدفوعة؟
 
-# Other resources
+# موارد آخرى
 
-- Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- للبحث على مزيد من الأسئلة [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
-# License
+#  حقوق النشر
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+مرخص تحت [ نَسب المُصنَّف - الترخيص بالمثل 4.0 دولي](https://creativecommons.org/licenses/by-sa/4.0/).
