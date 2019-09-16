@@ -32,15 +32,15 @@ Translations:
 او العمل بالنظام بنظم التطوير المستمر او التسليم المستمر يعني انه يتم بشكل اسرع
 
 
-# The Role
+# الدور الوظيفي
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- What's the junior/senior balance of the team? (and are there plans to change it)
-- What does the onboarding look like?
-- How much independent action vs working off a provided list is expected?
-- What are the expected/core work hours?
-- What is your definition of success for this role?
+- ما هي الخطة / الجدول الزمني عند الطلب؟ (ما هو ثمن الاستعداد والاستدعاء)
+- ما هي المهام التي سأفعلها بشكل يومي؟
+- ما هو التوازن بين المبتدئين / والخبرة الفريق؟ (وهل هناك خطط للتطوير)
+- كيف تكون عميلة التأهيل للبدء العمل  فى المنظمة ؟
+- ما هى نسبة العمل من خلال خطة الي نسبة العمل المهام المنفصلة ؟
+- ما هي ساعات العمل المتوقعة / الأساسية؟
+- ما هي طرق قياس للنجاح فى هذا الدور؟
 
 # Tech
 
