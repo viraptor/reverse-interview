@@ -42,21 +42,22 @@ Translations:
 - ما هي ساعات العمل المتوقعة / الأساسية؟
 - ما هي طرق قياس للنجاح فى هذا الدور؟
 
-# Tech
+# تقنية
 
-- What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
-- Tell me about your technical principles or vision.
+- ما هي المنصات المعتادة المستخدمة في الشركة؟
+- كيف الادوات المستخدمة التحكم فى الاصدار؟
+- كيف يمكنك اختبار الكود؟
+- كيف يمكنك تتبع الخلل؟
+- كيف يمكنك دمج ونشر التغييرات؟ هل تتبع نظام بنظم التطوير المستمر او التسليم المستمر ؟
+- هل إعداد البنية التحتية الخاصة بك تحت التحكم في الإصدار / متاح كا كود؟
+- ما هو سير العمل من التخطيط إلى اكتمال المهمة ؟
+- ماهي الاستعداد للتعافي من الكوارث؟
+- هل هناك بيئة تطوير موحدة؟ هل يتم فرضها؟
+- ما مدى سرعة إعداد بيئة اختبار محلية جديدة للمنتج؟ (دقائق / ساعات / أيام)
+- ما مدى سرعة الرد على مشكلات الأمان في الكود أو التبعيات؟
+- هل يُسمح لجميع المطورين بالتحكم التام على أجهزة الكمبيوتر الخاصة بهم؟
+أخبرني عن رؤيتك الخاصه بالمجال.
+
 
 # The Team
 
