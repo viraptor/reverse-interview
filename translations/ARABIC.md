@@ -105,19 +105,19 @@ Translations:
 - ما هي التحديات الكبيرة التي تراها القادمة؟
 - ما الذي حددته كميزتك التنافسية؟
 
-# Remote Work
+# # العمل عن بعد
 
-- What's the ratio of remote to office workers?
-- Does the company provide hardware and what's the refresh schedule?
-- Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- Is there a budget for co-working space or internet access?
-- How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
+- ما هي نسبة العاملين عن بعد إلى العاملين في المكاتب؟
+- هل توفر الشركة الأجهزة وما هو جدول التحديث؟
+- هل يمكن شراء ملحقات / أثاث إضافي من خلال الشركة؟ هل هناك ميزانية لهم؟
+- هل هناك ميزانية لمساحة العمل المشتركة أو الوصول إلى الإنترنت؟
+- كم مرة تتوقع زيارات المكتب؟
+- هل غرف اجتماعات المكتب مستعدة دائمًا لمؤتمرات الفيديو؟
 
-# Office Work
+# العمل فى المكتب
 
-- What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
+- ما هو شكل المكاتب؟ (مفتوحة / حجرات / مكاتب)
+- هل هناك فريق دعم / تسويق / فريق اخر ذات مكالمات كتيرة قريب من فريقي الجديد؟
 
 # Compensation
 
