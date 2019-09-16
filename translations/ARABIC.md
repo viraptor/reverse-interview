@@ -73,12 +73,12 @@ Translations:
 - ما هي بعض التحديات المستمرة التي يواجهها الفريق والتي لم تحلها بعد؟
 - كيف توازن بين الأهداف الفنية وأهداف العمل؟
 
-# Your Potential Coworkers
+# زملائك عملك المحتملين
 
-- What do you like best about working there?
-- What do you like least?
-- What would you change if you could?
-- How long has the longest team member been there?
+- ما الذي تفضله في العمل فى هذا الشركة؟
+- ماذا لا تحبه كثيراَ فى الشركة؟
+- ما الذي ستغير إذا كنت تستطيع؟
+- من هو الاكثر اقدمية فى الفريق هنا و منذ متي؟
 
 # The Company
 
