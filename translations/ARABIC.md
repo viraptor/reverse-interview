@@ -1,4 +1,3 @@
-&rlm;
 # اسئلة تطرحها خلا مقابلة عمل
 هذة قائمة من الأسئلة التى قد تكون مهمه للبحاث عن وظيفة فى مجال التقنية
 ملاحظة هذة القائمة غير مسلسله ولا يجب تطبيقها بشكل بحت. 
@@ -18,16 +17,20 @@ Translations:
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
-## Expected usage
+## الاستخدام المتوقع
 
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
+- تحقق من الأسئلة التي تهمك على وجه التحديد
+- تحقق من الإجابات التي يمكنك عبر الإنترنت
+-  خلاف ذلك عليك ان تسأل و تبحث بنفسك
 
-Definitely don't try to ask everything from the list.
+**لا يجب عليك أن تسأل كل الاسئلة الموجودة في القائمة**
 
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
+تذاكر ان الامور يجب ان تسير بشكل سلس
+
+مثلا العمل من خلال نظام تتبع الأخطاء لا يعني ان معالجة الاخطاء تكون اكثر عملياً
+
+او العمل بالنظام بنظم التطوير المستمر او التسليم المستمر يعني انه يتم بشكل اسرع
+
 
 # The Role
 
@@ -139,5 +142,3 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-&lrm;
