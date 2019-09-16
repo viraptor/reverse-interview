@@ -94,16 +94,16 @@ Translations:
 -هل هناك الفجوات في ثقافة الشركة يجب ملئها؟
 - هل يمكن أن تخبرني قصة  شخص غير موفقة داخل الشركة  وكيف تعاملت الشركة معها؟
 
-# The Business
+# العمل
 
-- Are you profitable?
-- If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
-- How do you make money?
-- What's preventing you from making more money?
-- What is the company's growth plan for the next 1 year? 5 years?
-- What are the big challenges you see coming up?
-- What have you identified as your competitive advantage?
+- هل الشركة مربحه؟
+- إذا لم يكن كذلك ، ما هي الخطة لتحسين الوضع؟
+- من أين يأتي التمويل ومن يؤثر على الخطة / الاتجاه رفيع المستوى؟
+- كيف تجني الشرمة المال؟
+- ما الذي يمنعك من كسب المزيد من المال؟
+- ما هي خطة نمو الشركة للعام المقبل؟ 5 سنوات؟
+- ما هي التحديات الكبيرة التي تراها القادمة؟
+- ما الذي حددته كميزتك التنافسية؟
 
 # Remote Work
 
