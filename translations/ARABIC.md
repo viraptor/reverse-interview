@@ -80,19 +80,19 @@ Translations:
 - ما الذي ستغير إذا كنت تستطيع؟
 - من هو الاكثر اقدمية فى الفريق هنا و منذ متي؟
 
-# The Company
+# الشركة
 
-- Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
-- Is there a separate tech and management career path?
-- What's the status of / view on diverse hiring?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
-- Is there a budget for getting certifications?
-- What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
-- What do you think are the gaps in the company culture?
-- Could you tell me a story about a toxic situation and how the company dealt with it?
+- هل هناك ميزانية لحضور المؤتمرات و سفر وما هي القواعد لاستخدامها؟
+- ما هي طرق و مسار الترقية؟ كيف يتم تحقيقها / التوقعات المرتبطة بها؟
+- هل هناك مسار مهني منفصل للتكنولوجيا والإدارة؟
+- ما هناك توظيف أشخاص متنوعين ؟
+- هل هناك أي موارد على مستوى الشركة للتعلم ، مثل اشتراكات الكتب الإلكترونية ، أو الدورات التدريبية عبر الإنترنت؟
+- هل هناك ميزانية للحصول على شهادات؟
+- ما هي مرحلة النضج؟ (في وقت مبكر العثور على الاتجاه / ميزة العمل / الصيانة / ...)
+- هل يمكنني المساهمة في مشاريع البرمجيات الحرة والمفتوحة المصدر؟ هل هناك أي الموافقات اللازمة؟
+- هل هناك اتفاقات غير منافسة أو عدم إفشاء سيُطلب مني التوقيع؟
+-هل هناك الفجوات في ثقافة الشركة يجب ملئها؟
+- هل يمكن أن تخبرني قصة  شخص غير موفقة داخل الشركة  وكيف تعاملت الشركة معها؟
 
 # The Business
 
