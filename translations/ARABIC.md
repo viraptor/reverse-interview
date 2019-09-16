@@ -59,19 +59,19 @@ Translations:
 أخبرني عن رؤيتك الخاصه بالمجال.
 
 
-# The Team
+# الفريق
 
-- How is the work organised?
-- How does the intra/inter-team communication typically work?
-- How are differences of opinions resolved?
-- Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team misses a release target?
-- What kind of meetings happen every week?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
-- What are some ongoing challenges the team is experiencing that you are yet to resolve?
-- How do you balance technical vs business goals?
+- كيف يتم تنظيم العمل؟
+- كيف يعمل التواصل داخل الفريق / عادةً؟
+- كيف يتم حل الاختلافات في الآراء؟
+- من الذي يحدد الأولويات / الجدول الزمني؟
+- ماذا اذا كان هناك بعد التعطيل او الموانع؟ ("لا يمكن القيام بذلك في الوقت المتوقع")
+- ماذا يحدث عندما يفتقد الفريق هدف؟
+- ما نوع الاجتماعات التي تحدث كل أسبوع؟
+- ما هو جدول المنتج / الخدمة؟ (الإصدارات الأسبوعية / النشر المستمر / تدفقات النشر المتعددة / ...)
+- ماذا يحدث بعد حوادث الإنتاج؟ هل هناك ثقافة تحليل بلا لوم؟
+- ما هي بعض التحديات المستمرة التي يواجهها الفريق والتي لم تحلها بعد؟
+- كيف توازن بين الأهداف الفنية وأهداف العمل؟
 
 # Your Potential Coworkers
 
