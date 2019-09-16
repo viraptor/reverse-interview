@@ -119,11 +119,11 @@ Translations:
 - ما هو شكل المكاتب؟ (مفتوحة / حجرات / مكاتب)
 - هل هناك فريق دعم / تسويق / فريق اخر ذات مكالمات كتيرة قريب من فريقي الجديد؟
 
-# Compensation
+# المرتبات و المزايا
 
-- If you have a bonus scheme, then how are bonuses determined?
-- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
-- Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
+- إذا كان لديك نظام مكافآت ، فكيف يتم تحديد المكافآت؟
+- إذا كان لديك نظام مكافآت ، فما هي نسب المكافآت النموذجية خلال السنوات القليلة الماضية؟
+-  هل لديك خطة التقاعد ٤٠١ أو غيرها؟ إذا كان الأمر كذلك ، هل هناك توزيع مساهمات؟
 
 # Paid Time Off (PTO)
 
