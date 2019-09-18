@@ -21,7 +21,7 @@ Traduções:
 Definitivamente não tente perguntar tudo da lista.
 
 Lembre que as coisas tendem a serem fluidas, reorganizações acontecem com frequência.
-Ter um sistema de monitoramento de bug não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu temp de entrega é curto. 
+Ter um sistema de monitoramento de bug não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu tempo de entrega é curto. 
 
 # A função
 
