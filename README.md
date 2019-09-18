@@ -107,6 +107,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a budget for co-working space or internet access?
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
+- Are you using VPN to access the resources outside the office? What is the protocol? Will I be able to access it using OSS from my laptop?
 
 # Office Work
 
