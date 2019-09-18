@@ -52,6 +52,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
+- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
 
 # The Team
 
