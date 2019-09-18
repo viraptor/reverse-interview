@@ -1,6 +1,6 @@
 # Entrevista reversa
 
-Este repositório é uma lista de perguntas que podem ser interessantes para um candidato a uma vaga em uma empresa de tecnologia. As perguntas não estão ordenadas e muitas podem não aplicar para uma dada posição ou tipo de trabalho. Esse projeto começou com uma lista pessoal de perguntas, que cresceu com o tempo para incluir, perguntas que eu gostaria de ver mais e quais deveriam ser evitadas. Algo que eu percebi é como poucas perguntas são feitas durante as entrevistas que eu conduzi e como eu acho que essas são oportunidades perdidas.
+Este repositório é uma lista de perguntas que podem ser interessantes para um candidato à uma vaga em uma empresa de tecnologia. As perguntas não estão ordenadas e muitas podem não aplicar para uma dada posição ou tipo de trabalho. Esse projeto começou com uma lista pessoal de perguntas, que cresceu com o tempo para incluir, perguntas que eu gostaria de ver mais e quais deveriam ser evitadas. Algo que eu percebi é como poucas perguntas são feitas durante as entrevistas que eu conduzi e como eu acho que essas são oportunidades perdidas.
 
 Se você perguntou algo não listado aqui, mande um PR.
 
@@ -11,19 +11,19 @@ Traduções:
 ## Forma de uso
 
 - Analise quais perguntas são interessantes para você
-- Veja respostas você consegue achar online por conta própria
-- Caso contrário pergunte ela durante a entrevista
+- Veja quais respostas você consegue achar online por conta própria
+- Caso contrário, pergunte elas durante a entrevista
 
 Definitivamente não tente perguntar tudo da lista.
 
-Lembre que as coisas tendem a serem fluidas, reorganizações acontecem com frequência.
-Ter um sistema de monitoramento de bug não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu temp de entrega é curto. 
+Lembre que as coisas tendem a ser fluidas, reorganizações acontecem com frequência.
+Ter um sistema de monitoramento de bug não traz necessariamente um melhor tratamento e correções de bugs e ter CI/CD não significa que o seu tempo de entrega é curto. 
 
 # A função
 
-- Qual é a política para plantões? (Eu sou pago a mais para estar disponivel, caso aconteça algum incidente)
+- Qual é a política para plantões? (Eu sou pago a mais para estar disponível, caso aconteça algum incidente)
 - Quais tarefas eu faria em um dia normal?
-- Qual é a relação de desenvolvedores juniores e seniores? (E existe algum plano para mudar isso)
+- Qual é a relação de desenvolvedores juniores e seniores? (E existe algum plano para mudar isso?)
 - Como o período de adaptação funciona?
 - Quanto de proatividade vs fazer o que foi pedido é esperado?
 - Qual é a quantidade de horas de trabalho esperada?
@@ -35,14 +35,14 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 - Como vocês usam controle de versionamento?
 - Como vocês testam o código?
 - Como vocês monitoram bugs?
-- Como vocês integram e implantam mudanças? Vocês usam CI/CD?
+- Como vocês integram e implantam mudanças? Vocês utilizam CI/CD?
 - Como a infraesturtura é configurada, com controle de versionamento / disponível como código?
 - Como é o fluxo de desenvolvimento, desde o planejamento até uma tarefa ser finalizada?
 - Como vocês se preparam para recuperação de desastres?
 - Existe algum ambiente de desenvolvimento padronizado? Ele é obrigatório?
 - Quão rápido vocês conseguem configurar um novo ambiente de teste para o produto? (minutos / horas / dias)
-- Quão rápido você consegue responder a problemas de segurança ou dependências de código?
-- Todos os desenvolvedores tem permissão a acesso de administrador nos seus próprios computadores?
+- Quão rápido você consegue responder à problemas de segurança ou dependências de código?
+- Todos os desenvolvedores tem permissão ao acesso de administrador nos seus próprios computadores?
 
 # O time
 
@@ -54,11 +54,11 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 - Que tipo de reuniões acontecem toda semana?
 - Quais são os prazos de produtos / serviços? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
-- Quais são os desafios atuais que o time está experenciando e como vocês estão resolvendo?
+- Quais são os desafios atuais que o time está enfrentando e como vocês estão resolvendo?
 
 # A empresa
 
-- Existe algum orçamento para ir para conferências / viagens e quais são as regras para usa-lo?
+- Existe algum orçamento para ir para conferências / viagens e quais são as regras para utilizá-lo?
 - Como é o processo de promoção? Quais são os requisitos / expectativas transmitidas para os funcionários?
 - Existe uma separação de carreira a parte técnica e de gerência?
 - Qual é o estado / visão de diversidade na contratação ?
@@ -103,9 +103,9 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 
 - Como funciona a folga remunderada?
 - Faltas por férias ou por doenças são descontadas de um mesmo lugar. Os dias que ficar doente são descontados das minhas férias?
-- Posso antecipar minhas folgas, isso afeta o valor a ser pago de alguma forma?
+- Posso antecipar minhas folgas? Isso afeta o valor a ser pago de alguma forma?
 - Como funciona o rotacionamento de folgas remuneradas?
-- Qual é a política para faltas por parentilidade?
+- Qual é a política para faltas por parentalidade?
 - Qual é a política para licença não remunerada?
 
 # Outros recursos
