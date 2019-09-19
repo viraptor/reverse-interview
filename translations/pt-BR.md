@@ -76,7 +76,7 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 - Se não, quanto tempo até o dinheiro em caixa acabar?
 - De onde vem o dinheiro de investimento e quem tem influência nas decisões e direcionamento da empresa?
 - Como vocês lucram?
-- O que previne vocês de lucrarem ainda mais?
+- O que impede vocês de lucrarem ainda mais?
 - O que vocês identificam como sua vantagem competitiva?
 
 # Trabalho remoto
