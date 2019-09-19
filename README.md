@@ -12,10 +12,10 @@
 
 Переводы:
 * [Корейский](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- Китайский [Упрощенный](https://github.com/yifeikong/reverse-interview-zh) / [Традиционный](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Французский](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Португальский (Бразильский)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Испанский](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+* Китайский [Упрощенный](https://github.com/yifeikong/reverse-interview-zh) / [Традиционный](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+* [Французский](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+* [Португальский (Бразильский)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+* [Испанский](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
 ## Как пользоваться списком
 
