@@ -29,7 +29,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How much independent action vs working off a provided list is expected?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
-- What is the performance review process like?
 
 # Tech
 
@@ -62,6 +61,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
+- What is the performance review process like?
 - Is there a separate tech and management career path?
 - How much annual / personal / sick / parental / unpaid leave is available?
 - What's the status of / view on diverse hiring?
