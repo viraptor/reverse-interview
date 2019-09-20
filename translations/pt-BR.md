@@ -1,6 +1,6 @@
 # Entrevista reversa
 
-Este repositório é uma lista de perguntas que podem ser interessantes para um candidato a uma vaga em uma empresa de tecnologia. As perguntas não estão ordenadas e muitas podem não aplicar para uma dada posição ou tipo de trabalho. Esse projeto começou com uma lista pessoal de perguntas, que cresceu com o tempo para incluir, perguntas que eu gostaria de ver mais e quais deveriam ser evitadas. Algo que eu percebi é como poucas perguntas são feitas durante as entrevistas que eu conduzi e como eu acho que essas são oportunidades perdidas.
+Este repositório é uma lista de perguntas que podem ser interessantes para uma pessoa candidata a uma vaga em uma empresa de tecnologia. As perguntas não estão ordenadas e muitas podem não se aplicar para uma dada posição ou tipo de trabalho. Começou como minha lista pessoal de perguntas, que cresceu ao longo do tempo para incluir as coisas que eu gostaria de ver mais e alertas que eu gostaria de evitar. Também notei como poucas perguntas foram feitas por pessoas que entrevistei e acho que essas oportunidades foram perdidas.
 
 Se você perguntou algo não listado aqui, mande um PR.
 
@@ -12,24 +12,24 @@ Traduções:
 - [Russo](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Espanhol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
-## Forma de uso
+## Uso esperado
 
-- Analise quais perguntas são interessantes para você
-- Veja respostas você consegue achar online por conta própria
-- Caso contrário pergunte ela durante a entrevista
+- Verifique quais perguntas são interessantes para você especificamente
+- Verifique quais respostas você consegue achar online por conta própria
+- Caso contrário, pergunte
 
 Definitivamente não tente perguntar tudo da lista.
 
 Lembre que as coisas tendem a serem fluidas, reorganizações acontecem com frequência.
-Ter um sistema de monitoramento de bug não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu tempo de entrega é curto. 
+Ter um sistema de monitoramento de bugs não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu tempo de entrega é curto. 
 
-# A função
+# O cargo
 
-- Qual é a política para plantões? (Eu sou pago a mais para estar disponivel, caso aconteça algum incidente)
+- Qual é a política para plantões? (Existe pagamento para estar disponível ou por chamadas?)
 - Quais tarefas eu faria em um dia normal?
-- Qual é a relação de desenvolvedores juniores e seniores? (E existe algum plano para mudar isso)
+- Qual é média de desenvolvedores juniores e seniores? (E existe algum plano para mudar isso?)
 - Como o período de adaptação funciona?
-- Quanto de proatividade vs fazer o que foi pedido é esperado?
+- Quanto de proatividade versus fazer o que foi pedido é esperado?
 - Qual é a quantidade de horas de trabalho esperada?
 - Qual é sua definição de sucesso para essa função?
 
@@ -40,38 +40,38 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 - Como vocês testam o código?
 - Como vocês monitoram bugs?
 - Como vocês integram e implantam mudanças? Vocês usam CI/CD?
-- Como a infraesturtura é configurada, com controle de versionamento / disponível como código?
+- A configuração de sua infraestutura está versionada/disponível como código?
 - Como é o fluxo de desenvolvimento, desde o planejamento até uma tarefa ser finalizada?
 - Como vocês se preparam para recuperação de desastres?
 - Existe algum ambiente de desenvolvimento padronizado? Ele é obrigatório?
-- Quão rápido vocês conseguem configurar um novo ambiente de teste para o produto? (minutos / horas / dias)
-- Quão rápido você consegue responder a problemas de segurança ou dependências de código?
+- Quão rápido vocês conseguem configurar um novo ambiente de testes para o produto? (minutos / horas / dias)
+- Quão rápido você consegue responder a problemas de segurança ou dependências no código?
 - Todos os desenvolvedores tem permissão a acesso de administrador nos seus próprios computadores?
 
 # O time
 
 - Como o trabalho é organizado?
-- Como times internos / externos tipicamente trabalham em conjunto?
+- Como a comunicação interna e externa dos times geralmente funciona?
 - Como diferenças de opnião são resolvidas?
 - Quem define prioridades / prazos?
 - O que acontece quando existem atrasos? ("Isso não pode ser feito no prazo previsto")
 - Que tipo de reuniões acontecem toda semana?
-- Quais são os prazos de produtos / serviços? (n-weekly releases / continuous deployment / multiple release streams / ...)
+- Quais são os cronogramas para os produtos/serviços? (lançamento n-semanais / lançamento contínuo / múltiplas fontes de lançamento / ...)
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
-- Quais são os desafios atuais que o time está experenciando e como vocês estão resolvendo?
+- Quais são alguns desafios atuais que o time está experenciando e como vocês estão resolvendo?
 
 # A empresa
 
-- Existe algum orçamento para ir para conferências / viagens e quais são as regras para usa-lo?
-- Como é o processo de promoção? Quais são os requisitos / expectativas transmitidas para os funcionários?
-- Existe uma separação de carreira a parte técnica e de gerência?
-- Qual é o estado / visão de diversidade na contratação ?
-- Existe algum recurso na empresa para aprender, como subscrição de e-books ou cursos online?
+- Existe algum orçamento para ir para conferências/viagens e quais são as regras para usá-lo?
+- Como é o processo de promoção? Quais são os requisitos/expectativas transmitidas para os funcionários?
+- Existem progressões diferentes para desenvolvimento e gerência?
+- Qual é o estado/visão de diversidade na contratação?
+- Existe algum recurso na empresa para aprender, como assinatura de e-books ou cursos online?
 - Existe algum orçamento para adquirir certificações?
-- Qual é o estágio de maturidade? (descobrindo o que desenvolver / trabalhando em novas funcionalidades / manutenção / ...)
-- Eu posso contribuir para projetos FOSS? É necessário alguma autorização?
-- Existe algum acordo de confidencialidade ou algo parecido que eu tenha que assinar?
-- Você acredita que existe uma falha na cultura da empresa? Se sim quais?
+- Qual é o estágio de maturidade? (descobrindo o que desenvolver/trabalhando em novas funcionalidades/manutenção/...)
+- Eu posso contribuir para projetos open source? É necessária alguma autorização?
+- Existe algum acordo de não competição ou confidencialidade ou algo parecido que eu tenha que assinar?
+- Quais você acha que sejam as falhas na cultura de empresa?
 - Você poderia me contar uma história de uma situação tóxica na empresa e como vocês resolveram ela?
 
 # O negócio
@@ -86,15 +86,15 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 # Trabalho remoto
 
 - Qual é a relação de trabalhadores remotos com os presenciais?
-- A compania fornece equipamentos como notebooks, se sim qual de quanto e quanto tempo é renovado?
-- Acessorios e mobílias extras são possíveis de comprar através da empresa? Existe algum orçamento planejado para eles?
+- A compania fornece equipamentos como notebooks, se sim qual e de quanto em quanto tempo são renovados?
+- Acessórios e mobílias extras são possíveis de comprar através da empresa? Existe algum orçamento planejado para eles?
 - Existe algum orçamento para espaços de co-working ou acesso a internet?
-- Com frequente visitas a empresa são esperadas?
-- Salas de conferências na empresa estão sempre preparadas?
+- Quão frequente são esperadas visitas a empresa?
+- As salas de reunião estão sempre prontas para vídeoconferência?
 
-# Trabalho no ambiente de trabalho
+# Trabalho no escritório
 
-- Qual é o layout do ambiente de trabalho? (Espaço aberto / cubículos / vários ambientes)
+- Qual é o leiaute do ambiente de trabalho? (Espaço aberto/cubículos/vários ambientes)
 - Existe um time de suporte / marketing / ou outra função que esteja próximo ao o meu?
 
 # Compensação
@@ -105,7 +105,7 @@ Ter um sistema de monitoramento de bug não traz necessariamente um melhor trata
 
 # Folga remunerada
 
-- Como funciona a folga remunderada?
+- Como funciona a folga remunerada?
 - Faltas por férias ou por doenças são descontadas de um mesmo lugar. Os dias que ficar doente são descontados das minhas férias?
 - Posso antecipar minhas folgas, isso afeta o valor a ser pago de alguma forma?
 - Como funciona o rotacionamento de folgas remuneradas?
