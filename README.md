@@ -9,13 +9,13 @@ If you asked something not listed here, send in a PR.
 
 Translations:
 
+- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 
 ## Expected usage
 
