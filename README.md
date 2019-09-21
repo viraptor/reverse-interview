@@ -23,7 +23,7 @@ Translations:
 - Check which answers you can find yourself online
 - Otherwise ask
 
-Definitely don't try to ask everything from the list.
+Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
 
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
