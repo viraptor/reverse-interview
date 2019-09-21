@@ -108,6 +108,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
+- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
 - Is there a budget for co-working space or internet access?
 - How often are office visits expected?
