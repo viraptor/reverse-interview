@@ -8,8 +8,11 @@ I've also noticed how few questions were asked by people I interviewed and I thi
 If you asked something not listed here, send in a PR.
 
 Translations:
+
 - [Arabic](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
+- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
@@ -22,7 +25,7 @@ Translations:
 - Check which answers you can find yourself online
 - Otherwise ask
 
-Definitely don't try to ask everything from the list.
+Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
 
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
@@ -36,6 +39,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How much independent action vs working off a provided list is expected?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
+- Do you have any concerns about my application?
 
 # Tech
 
@@ -52,11 +56,13 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
+- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
 
 # The Team
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
+- Do you use any tools for project organization? What is your experience with them?
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
 - What happens after pushback? ("this can't be done in the projected time")
@@ -78,6 +84,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
+- What is the performance review process like?
 - Is there a separate tech and management career path?
 - What's the status of / view on diverse hiring?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
@@ -85,6 +92,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+- Where do you see the company in the next 5/10 years? 
 - What do you think are the gaps in the company culture?
 - Could you tell me a story about a toxic situation and how the company dealt with it?
 
@@ -103,6 +111,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
+- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
 - Is there a budget for co-working space or internet access?
 - How often are office visits expected?
