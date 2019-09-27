@@ -125,6 +125,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
+- When do medical benefits start?
 
 # Paid Time Off (PTO)
 
