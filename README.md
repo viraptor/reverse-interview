@@ -150,7 +150,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # Time Off
 
-- How much PTO is offered?
+- How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
 - What is the roll over policy is there for PTO?
