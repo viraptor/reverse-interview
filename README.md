@@ -144,6 +144,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
 
+# Catch all
+
+- What's the best and what's the worst aspect of working in this role / team / company?
+
 # Compensation
 
 - If you have a bonus scheme, then how are bonuses determined?
