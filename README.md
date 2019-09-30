@@ -36,10 +36,12 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What are the tasks I would do on a usual day?
 - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
-- How much independent action vs working off a provided list is expected?
+- How much freedom for decision making do individual developers have?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
 - Do you have any concerns about my application?
+- Tell me about who I would be working most closely with.
+- What management style does my immediate manager and their manager have? (from micro- to macro-)
 
 # Tech
 
@@ -57,6 +59,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
 - Do you have a developer documentation for your code? Do you have a separate documentation for customers?
+- Do you employ static code analysis?
+- How do you manage internal / external artifacts?
+- How do you manage dependencies?
 
 # The Team
 
@@ -71,10 +76,15 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
+- How do you track progress?
+- How are expectations and goals set, and who does the setting?
+- What does a code review look like here?
+- Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
 
 # Your Potential Coworkers
 
+- Who do developers tend to learn from?
 - What do you like best about working there?
 - What do you like least?
 - What would you change if you could?
@@ -94,6 +104,18 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
 - What do you think are the gaps in the company culture?
+- What does clean code mean to the majority of developers here?
+- When is the last time you noticed someone growing here, and in what way were they growing?
+- What does it mean to be successful here, and how do you measure success?
+- What does work-life balance mean here?
+
+# Conflict
+
+- How are differences of opinions resolved?
+- What happens after pushback? ("this can't be done in the projected time")
+- What happens when the team is under pressure and commits to work over their capacity / velocity?
+- If someone identifies areas of improvement in process / technology / etc, what happens?
+- When there is a gap between expectations from management and performance of an engineer or team, what happens?
 - Could you tell me a story about a toxic situation and how the company dealt with it?
 
 # The Business
@@ -117,7 +139,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
-# Office Work
+# Building Layout
 
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
@@ -128,9 +150,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
 
-# Paid Time Off (PTO)
+# Time Off
 
-- How much PTO is offered?
+- How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
 - What is the roll over policy is there for PTO?
