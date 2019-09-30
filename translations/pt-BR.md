@@ -32,6 +32,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quanto de proatividade versus fazer o que foi pedido é esperado?
 - Qual é a quantidade de horas de trabalho esperada?
 - Qual é sua definição de sucesso para essa função?
+- Existe um plano de carreira para subir de junior a pleno e de pleno a senior?
 
 # Tecnologia
 
