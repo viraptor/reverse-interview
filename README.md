@@ -92,6 +92,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Company
 
+- Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
@@ -108,6 +109,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
 - What does work-life balance mean here?
+- Does the company support open-source projects?
 
 # Conflict
 
