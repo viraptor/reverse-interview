@@ -54,6 +54,11 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quão rápido vocês conseguem configurar um novo ambiente de testes para o produto? (minutos / horas / dias)
 - Quão rápido você consegue responder a problemas de segurança ou dependências no código?
 - Todos os desenvolvedores tem permissão a acesso de administrador nos seus próprios computadores?
+- Me conte sobre seus princípios técnicos.
+- Vocês possuem uma documentação para o desenvolvedor? Vocês possuem uma documentação separada para os clientes?
+- Vocês usam análise estática no código?
+- Como vocês gerenciam artefatos internos / externos
+- Como vocês gerenciam dependências
 
 # O time
 
