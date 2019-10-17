@@ -71,6 +71,11 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quais são os cronogramas para os produtos/serviços? (lançamento n-semanais / lançamento contínuo / múltiplas fontes de lançamento / ...)
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
 - Quais são alguns desafios atuais que o time está experenciando e como vocês estão resolvendo?
+- Como vocês monitoram o progresso?
+- Como as expectativas e objetivos definidos, quem faz isso?
+- Como a revisão de código é feita?
+- Me conte um pouco sobre uma típica sprint nesse time?
+- Como vocês controlam os conflitos entre objetivos técnicos e de negócio
 
 # A empresa
 
