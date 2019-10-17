@@ -6,13 +6,9 @@ Se você perguntou algo não listado aqui, mande um PR.
 
 Traduções: 
 
-- [Arábico](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalão](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinês [Simplificado](https://github.com/yifeikong/reverse-interview-zh) / [Tradicional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Inglês](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Françes](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Francês](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Coreano](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Português (Brasil)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russo](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Espanhol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
