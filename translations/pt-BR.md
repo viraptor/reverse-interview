@@ -77,6 +77,14 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Me conte um pouco sobre uma típica sprint nesse time?
 - Como vocês controlam os conflitos entre objetivos técnicos e de negócio
 
+# Seus potências colegas de trabalho
+
+- Com quem os desenvolvedores procuram quando estão com dúvidas?
+- O que você mais gosta em trabalhar ai?
+- O que você menos gosta?
+- O que você mudaria se pudesse?
+- Quanto tempo o membro mais antigo está na empresa?
+
 # A empresa
 
 - Existe algum orçamento para ir para conferências/viagens e quais são as regras para usá-lo?
