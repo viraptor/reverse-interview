@@ -6,9 +6,13 @@ Se você perguntou algo não listado aqui, mande um PR.
 
 Traduções: 
 
+- [Arábico](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
+- [Catalão](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinês [Simplificado](https://github.com/yifeikong/reverse-interview-zh) / [Tradicional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Francês](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Inglês](https://github.com/viraptor/reverse-interview/blob/master/README.md)
+- [Françes](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Coreano](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Português (Brasil)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russo](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Espanhol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
@@ -33,6 +37,8 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Qual é a quantidade de horas de trabalho esperada?
 - Qual é sua definição de sucesso para essa função?
 - Existe um plano de carreira para subir de junior a pleno e de pleno a senior?
+- Me conte sobre as pessoas que eu trabalharia diariamente.
+- Que tipo de estilo de gerenciamento o meu gerente e o seu respectivo surpevisor possuem? (de micro- para macro-)
 
 # Tecnologia
 
@@ -48,6 +54,11 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quão rápido vocês conseguem configurar um novo ambiente de testes para o produto? (minutos / horas / dias)
 - Quão rápido você consegue responder a problemas de segurança ou dependências no código?
 - Todos os desenvolvedores tem permissão a acesso de administrador nos seus próprios computadores?
+- Me conte sobre seus princípios técnicos.
+- Vocês possuem uma documentação para o desenvolvedor? Vocês possuem uma documentação separada para os clientes?
+- Vocês usam análise estática no código?
+- Como vocês gerenciam artefatos internos / externos
+- Como vocês gerenciam dependências
 
 # O time
 
@@ -60,6 +71,19 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quais são os cronogramas para os produtos/serviços? (lançamento n-semanais / lançamento contínuo / múltiplas fontes de lançamento / ...)
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
 - Quais são alguns desafios atuais que o time está experenciando e como vocês estão resolvendo?
+- Como vocês monitoram o progresso?
+- Como as expectativas e objetivos definidos, quem faz isso?
+- Como a revisão de código é feita?
+- Me conte um pouco sobre uma típica sprint nesse time?
+- Como vocês controlam os conflitos entre objetivos técnicos e de negócio
+
+# Seus potências colegas de trabalho
+
+- Com quem os desenvolvedores procuram quando estão com dúvidas?
+- O que você mais gosta em trabalhar ai?
+- O que você menos gosta?
+- O que você mudaria se pudesse?
+- Quanto tempo o membro mais antigo está na empresa?
 
 # A empresa
 
@@ -103,6 +127,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Se você tem uma política de bônus, então como eles são determinados?
 - Se você tem uma política de bônus, então quais foram as porcentagens típicas nos últimos anos?
 - Vocês tem alguma política de aposentadoria?
+- Existe um seguro de saúde? 
 
 # Folga remunerada
 
