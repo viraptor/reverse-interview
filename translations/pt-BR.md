@@ -127,6 +127,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Se você tem uma política de bônus, então como eles são determinados?
 - Se você tem uma política de bônus, então quais foram as porcentagens típicas nos últimos anos?
 - Vocês tem alguma política de aposentadoria?
+- Existe um seguro de saúde? 
 
 # Folga remunerada
 
