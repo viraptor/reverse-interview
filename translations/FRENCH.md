@@ -5,6 +5,18 @@ Les points ne sont pas ordonnés et beaucoup peuvent ne pas s'appliquer à un po
 Au départ, il s'agissait de ma liste personnelle de questions, qui s'est allongée au fil du temps pour inclure à la fois des choses que j'aimerais voir plus et des signaux d'alarme que j'aimerais éviter.
 J'ai aussi remarqué le peu de questions posées par les personnes que j'ai interviewées et je pense qu'il s'agissait d'occasions manquées.
 
+Traductions:
+
+- [Arabic](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
+- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
+- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
+- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
+- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+
 ## Utilisation prévue
    
 - Cochez les questions qui vous intéressent plus particulièrement
