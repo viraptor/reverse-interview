@@ -42,6 +42,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
+- Do I Have regular 1on1 with my manager?
+- How can I develop in my new role / what opportunities are offered?
 
 # Tech
 
@@ -81,6 +83,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does a code review look like here?
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
+- How big are the teams?
 
 # Your Potential Coworkers
 
@@ -103,7 +106,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
-- What do you think are the gaps in the company culture?
+- What do you think are the gaps in the company culture? (and what is the companies culture?)
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
@@ -163,6 +166,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the roll over policy is there for PTO?
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
+- Is there any option for a sabbatical?
 
 # Other resources
 
