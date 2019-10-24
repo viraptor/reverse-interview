@@ -164,6 +164,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
 
+# How to contribute?
+
+- See the contribution guidelines [here](https://github.com/viraptor/reverse-interview/blob/master/CONTRIBUTION.md).
+
 # Other resources
 
 - Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
