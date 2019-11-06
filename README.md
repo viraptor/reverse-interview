@@ -81,6 +81,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does a code review look like here?
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
+- How big is the team?
 
 # Your Potential Coworkers
 
