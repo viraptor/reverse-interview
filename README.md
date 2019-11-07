@@ -108,6 +108,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
 - What does work-life balance mean here?
+- Is there a Sports / Team building Activity?
+- Are there any Hackathons conducted internally?
 
 # Conflict
 
