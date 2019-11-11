@@ -79,7 +79,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Cosa ti piace di più del lavorare lì?
 - Cosa ti piace di meno?
 - Cosa cambieresti se potessi?
-- Da quanto tempo c'è il membro della squadra più anziano?
+- Da quanto tempo c'è il membro del team più anziano?
 
 
 # L'azienda
