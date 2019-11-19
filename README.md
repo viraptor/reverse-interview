@@ -42,7 +42,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
-- Do I Have regular 1on1 with my manager?
 - How can I develop in my new role / what opportunities are offered?
 
 # Tech
@@ -75,6 +74,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
+- Would there be a regular 1-on-1 with my manager?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
