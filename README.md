@@ -18,6 +18,7 @@ Translations:
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 
 ## Expected usage
 
