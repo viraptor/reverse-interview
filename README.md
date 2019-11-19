@@ -166,7 +166,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the roll over policy is there for PTO?
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
-- Is there any option for a sabbatical?
+- What is the policy for sabbatical leave?
 
 # Other resources
 
