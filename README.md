@@ -15,10 +15,12 @@ Translations:
 - [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 
 ## Expected usage
 
@@ -43,6 +45,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
+- How can I develop in my new role / what opportunities are offered?
 
 # Tech
 
@@ -74,6 +77,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
+- Would there be a regular 1-on-1 with my manager?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
@@ -82,6 +86,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does a code review look like here?
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
+- How big are the teams?
 
 # Your Potential Coworkers
 
@@ -104,11 +109,13 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
-- What do you think are the gaps in the company culture?
+- What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
 - What does work-life balance mean here?
+- Is there a Sports / Team building Activity?
+- Are there any Hackathons conducted internally?
 
 # Conflict
 
@@ -164,6 +171,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the roll over policy is there for PTO?
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
+- What is the policy for sabbatical leave?
 
 # Other resources
 
