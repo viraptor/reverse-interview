@@ -1,97 +1,118 @@
-# Reverse interview
+# Обратное собеседование
 
-This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position, or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
-I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
+Это список вопросов, который может быть интересен соискателю должности технического специалиста.
+Пункты не упорядочены и могут быть неприменимы к конкретной должности или виду работы.
+Вначале это был просто список вопросов, но со временем он стал включать ещё и те вещи, которых хотелось бы видеть больше, и «красные флажки», то есть вещи, которых хочется избегать.
+Ещё я обратил внимание, что многие люди, которых я собеседовал, не задавали эти вопросы, и, я думаю, это были упущенные возможности.
 
-If you asked something not listed here, send in a PR.
+Если вы задавали вопросы, которых нет в этом списке, отправьте пожалуйста пулл-реквест!
 
-Translations: [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+Оригинал:
+* [Английский](https://github.com/viraptor/reverse-interview)
 
-## Expected usage
+Переводы:
+* Китайский [Упрощенный](https://github.com/yifeikong/reverse-interview-zh) / [Традиционный](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+* [Французский](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+* [Корейский](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+* [Португальский (Бразильский)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+* [Испанский](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
+## Как пользоваться списком
 
-Definitely don't try to ask everything from the list.
+- Проверьте, какие вопросы интересны конкретно вам
+- Проверьте, какие ответы вы сами можете найти в сети
+- Или задавайте вопросы!
 
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short. 
+Точно не стоит задавать все вопросы из списка.
 
-# The Role
+Помните, что многие вещи бывают очень гибкими, и реорганизации происходят довольно часто.
+Само по себе наличие багтрекера не делает работу над багами эффективной, а наличие CI/CD не означает, что время выполнения и выкатывания фич сокращается.
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- What's the junior/senior balance of the team? (and are there plans to change it)
-- What does the onboarding look like?
-- How much independent action vs working off a provided list is expected?
-- What are the expected/core work hours?
-- What is your definition of success for this role?
+# Должность
+- Есть ли план дежурств? И какой он? Оплачиваются ли дежурство и связанные с ним переработки?
+- Какие типичные задачи мне придётся решать в течение обычного рабочего дня?
+- Какой сейчас в команде баланс специалистов разных уровней (junior/senior), и есть ли планы его изменять?
+- Как выглядит процесс приёма на работу и погружения в рабочие процессы?
+- Как будут в должности соотноситься самостоятельные действия и работа по конкретным спискам?
+- Каковы ожидания по объему основного рабочего времени?
+- Назовите критерии успеха для специалиста в данной должности.
 
-# Tech
+# Технологии
+- Какой технический стек обычно используется в компании?
+- Как вы используете системы контроля версий/исходного кода?
+- Как вы тестируете код?
+- Как вы ведёте учёт багов?
+- Как вы сливаете и выгружаете изменения? Делается ли это через CI/CD?
+- Находится ли конфигурация инфраструктуры в системе контроля версий? И доступна ли она в виде кода?
+- Каков путь задачи от планирования до окончания и закрытия?
+- Как вы готовитесь к восстановлению после ЧП?
+- Есть ли в компании стандартизованная среда разработки? Является ли она принудительной?
+- Как быстро вы можете поднять новое локальное тестовое окружение для продукта? (в минутах/часах/днях)
+- Как быстро вы реагируете на проблемы безопасности в вашем собственном коде и в зависимостях?
+- Имеют ли все разработчики права локальных администраторов на своих рабочих компьютерах?
+- Расскажите мне о ваших технических принципах и взглядах?
 
-- What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
+# Команда
+- Как у вас организована работа?
+- Как обычно работает взаимодействие внутри и между командами?
+- Как разрешаются противоречия во мнениях?
+- Кто устанавливает внутренние графики и приоритеты?
+- Что происходит при внезапных срывах сроков?
+- Происходят ли какие-то встречи в течение недели? Если да, то какие?
+- Каков график релизов продукта? (Каждые n недель / continuous deployment / несколько каналов релизов / что-то ещё)
+- Что происходит в случае ЧП на продакшене? Есть ли у вас культура анализа инцидентов без обвинения конкретных лиц?
+- Какие сейчас есть проблемы у команды, которые ещё только предстоит решить?
+- Различаете ли вы цели на технические и бизнес? Если да, как вы оцениваете важность одних перед другими?
 
-# The Team
+# Ваши будущие коллеги
+- Что вам больше всего нравится в работе в текущей компании?
+- А что меньше всего?
+- Что бы вы хотели изменить, если бы могли?
+- Кто в команде старожил? Как долго он работает в компании?
 
-- How is the work organised?
-- How does the intra/inter-team communication typically work?
-- How are differences of opinions resolved?
-- Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What kind of meetings happen every week?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
-- What are some ongoing challenges the team is experiencing that you are yet to resolve?
+# Компания
+- Есть ли отдельный бюджет на конференции/рабочие путешествия, и как его можно использовать*
+- Как происходят повышения? Как вы договариваетесь о требованиях и ожиданиях в таком случае?
+- Разделены ли карьерные пути в менеджменте и разработке?
+- Как много дней можно пропустить ежегодно / по причине болезни / из-за детей / без сохранения зарплаты?
+- Каковы взгляды работодателя на культурное разнообразие при найме?
+- Доступны ли в компании ресурсы для обучения, такие как онлайн-курсы или подписка на электронные книги?
+- Есть ли бюджет для получения профессиональных сертификатов?
+- Какова стадия проекта? (ранняя, поиск направления / работа над функционалом / поддержка / ...)
+- Смогу ли я контрибьютить в проекты с открытым кодом? Нужны ли для этого разрешения?
+- Нужно ли мне будет подписать соглашения о неразглашении или о неконкуренции?
 
-# The Company
+# Бизнес
+- Доходен ли бизнес?
+- Если нет, как долго вы можете оставаться стабильными?
+- Откуда приходит финансирование, и кто влияет на планы на высоком уровне?
+- Как бизнес зарабатывает?
+- Что или кто мешает бизнесу зарабатывать ещё больше?
 
-- Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
-- Is there a separate tech and management career path?
-- How much annual / personal / sick / parental / unpaid leave is available?
-- What's the status of / view on diverse hiring?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
-- Is there a budget for getting certifications?
-- What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
+# Удалённая работа
+- Как соотносятся доли офисных и удалённых работников?
+- Предоставляет ли компания железо, и если да, то каков график его обновления?
+- Можно ли через компанию купить аксессуары или мебель? Есть ли на это бюджет?
+- Как часто нужно будет посещать офис?
+- Всегда ли переговорки готовы для проведения видеоконференций?
 
-# The Business
+# Офисная работа
+- Какой у вас офис? Опенспейс, кубиклы, отдельные комнаты?
+- Находятся ли команды поддержки, маркетинга или другие постоянно кому-то звонящие люди рядом с командой, в которую меня нанимают?
 
-- Are you profitable?
-- If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
-- How do you make money?
-- What's preventing you from making more money?
-- What have you identified as your competitive advantage?
+# Компенсация
+- Есть ли у вас бонусная программа?
+- Если да, то как рассчитывается бонус?
+- Если да, какой показатель был за последние годы?
 
-# Remote Work
+# Больничный, декретный период, отпуск
+- Как оплачивается больничный / декретный период / отпуск?
+- Количество дней которые я могу находится на больничном и отпуске как-то связаны?
+- Могу ли я воспользоваться отпуском до того как он будет начислен (Использовать отпускные дни авансом)?
+- Какова политика пролонгации больничного / декретного периода / отпуска?
+- Какова политика декретного периода?
+- Какова политика в отношении неоплачиваемого отпуска?
 
-- What's the ratio of remote to office workers?
-- Does the company provide hardware and what's the refresh schedule?
-- Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
+# Что ещё посмотреть
 
-# Office Work
-
-- What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
-
-# Other resources
-
-- Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+- Больше идей для вопросов есть в [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
