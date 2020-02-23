@@ -190,7 +190,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # Other resources
 
-- Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+Find more inspiration for questions in:
+
+  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
+  - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
 
 # License
 
