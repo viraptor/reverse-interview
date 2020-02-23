@@ -36,12 +36,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
+- Are there any specific goals for me?
 - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
 - How much freedom for decision making do individual developers have?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
 - What do you expect me to accomplish in the first 1 month/3 months?
+- How will you evaluate my performance at the end of the trial period?
 - What does a typical day/week look like in this role?
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
@@ -54,6 +56,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you use source control?
 - How do you test code?
 - How do you track bugs?
+- How do you monitor projects?
 - How do you integrate and deploy changes? Is it CI/CD?
 - Is your infrastructure setup under version control / available as code?
 - What's the workflow from the planning to the finished task?
@@ -64,6 +67,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
 - Do you have a developer documentation for your code? Do you have a separate documentation for customers?
+- Do you have some higher level documentation? (ER diagrams, database schema)
 - Do you employ static code analysis?
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
@@ -87,6 +91,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does a code review look like here?
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
+- How do you share knowledge?
 - How big are the teams?
 
 # Your Potential Coworkers
