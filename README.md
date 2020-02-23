@@ -41,6 +41,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How much freedom for decision making do individual developers have?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
+- What do you expect me to accomplish in the first 1 month/3 months?
+- What does a typical day/week look like in this role?
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
