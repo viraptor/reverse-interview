@@ -109,21 +109,25 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
 - Is there a separate tech and management career path?
-- What's the status of / view on diverse hiring?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
-- What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
-- What does work-life balance mean here?
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
+
+# Social issues
+
+- What's the status of / view on diverse hiring?
+- What do you think are the gaps in the company culture? (and what is the company culture?)
+- What does work-life balance mean here?
+- Does the company have a stance regarding climate change?
 
 # Conflict
 
