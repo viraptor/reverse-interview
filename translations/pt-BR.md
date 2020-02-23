@@ -32,6 +32,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quanto de proatividade versus fazer o que foi pedido é esperado?
 - Qual é a quantidade de horas de trabalho esperada?
 - Qual é sua definição de sucesso para essa função?
+- Existe um plano de carreira para subir de júnior a pleno e de pleno a sênior?
 
 # Tecnologia
 
@@ -40,7 +41,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Como vocês testam o código?
 - Como vocês monitoram bugs?
 - Como vocês integram e implantam mudanças? Vocês usam CI/CD?
-- A configuração de sua infraestutura está versionada/disponível como código?
+- A configuração de sua infraestrutura está versionada/disponível como código?
 - Como é o fluxo de desenvolvimento, desde o planejamento até uma tarefa ser finalizada?
 - Como vocês se preparam para recuperação de desastres?
 - Existe algum ambiente de desenvolvimento padronizado? Ele é obrigatório?
@@ -52,13 +53,13 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 
 - Como o trabalho é organizado?
 - Como a comunicação interna e externa dos times geralmente funciona?
-- Como diferenças de opnião são resolvidas?
+- Como diferenças de opinião são resolvidas?
 - Quem define prioridades / prazos?
 - O que acontece quando existem atrasos? ("Isso não pode ser feito no prazo previsto")
 - Que tipo de reuniões acontecem toda semana?
 - Quais são os cronogramas para os produtos/serviços? (lançamento n-semanais / lançamento contínuo / múltiplas fontes de lançamento / ...)
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
-- Quais são alguns desafios atuais que o time está experenciando e como vocês estão resolvendo?
+- Quais são alguns desafios atuais que o time está experienciando e como vocês estão resolvendo?
 
 # A empresa
 
@@ -80,17 +81,17 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Se não, quanto tempo até o dinheiro em caixa acabar?
 - De onde vem o dinheiro de investimento e quem tem influência nas decisões e direcionamento da empresa?
 - Como vocês lucram?
-- O que previne vocês de lucrarem ainda mais?
+- O que impede vocês de lucrarem ainda mais?
 - O que vocês identificam como sua vantagem competitiva?
 
 # Trabalho remoto
 
 - Qual é a relação de trabalhadores remotos com os presenciais?
-- A compania fornece equipamentos como notebooks, se sim qual e de quanto em quanto tempo são renovados?
+- A companhia fornece equipamentos como notebooks, se sim qual e de quanto em quanto tempo são renovados?
 - Acessórios e mobílias extras são possíveis de comprar através da empresa? Existe algum orçamento planejado para eles?
 - Existe algum orçamento para espaços de co-working ou acesso a internet?
 - Quão frequente são esperadas visitas a empresa?
-- As salas de reunião estão sempre prontas para vídeoconferência?
+- As salas de reunião estão sempre prontas para videoconferência?
 
 # Trabalho no escritório
 
@@ -109,7 +110,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Faltas por férias ou por doenças são descontadas de um mesmo lugar. Os dias que ficar doente são descontados das minhas férias?
 - Posso antecipar minhas folgas, isso afeta o valor a ser pago de alguma forma?
 - Como funciona o rotacionamento de folgas remuneradas?
-- Qual é a política para faltas por parentilidade?
+- Qual é a política para faltas por parentalidade?
 - Qual é a política para licença não remunerada?
 
 # Outros recursos
