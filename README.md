@@ -168,6 +168,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Catch all
 
 - What's the best and what's the worst aspect of working in this role / team / company?
+- What got you to choose to work for the company initially?
+- What keeps you at the company?
 
 # Compensation
 
