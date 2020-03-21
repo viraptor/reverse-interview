@@ -179,6 +179,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 - Are there medical benefits and if so, when do they start?
+- Do you pay for relocation?
 
 # Time Off
 
