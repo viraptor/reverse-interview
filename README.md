@@ -14,10 +14,15 @@ Translations:
 - Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
@@ -34,14 +39,19 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
+- Are there any specific goals for me?
 - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
 - How much freedom for decision making do individual developers have?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
+- What do you expect me to accomplish in the first 1 month/3 months?
+- How will you evaluate my performance at the end of the trial period?
+- What does a typical day/week look like in this role?
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
+- How can I develop in my new role / what opportunities are offered?
 
 # Tech
 
@@ -49,6 +59,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you use source control?
 - How do you test code?
 - How do you track bugs?
+- How do you monitor projects?
 - How do you integrate and deploy changes? Is it CI/CD?
 - Is your infrastructure setup under version control / available as code?
 - What's the workflow from the planning to the finished task?
@@ -59,6 +70,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
 - Do you have a developer documentation for your code? Do you have a separate documentation for customers?
+- Do you have some higher level documentation? (ER diagrams, database schema)
 - Do you employ static code analysis?
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
@@ -73,6 +85,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
+- Would there be a regular 1-on-1 with my manager?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
@@ -81,7 +94,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does a code review look like here?
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
-- How big is the team?
+- How do you share knowledge?
+- How big are the teams?
 
 # Your Potential Coworkers
 
@@ -93,22 +107,30 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Company
 
+- Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
 - Is there a separate tech and management career path?
-- What's the status of / view on diverse hiring?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
-- What do you think are the gaps in the company culture?
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
+- Is there a Sports / Team building Activity?
+- Are there any Hackathons conducted internally?
+- Does the company support open-source projects?
+
+# Social issues
+
+- What's the status of / view on diverse hiring?
+- What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does work-life balance mean here?
+- Does the company have a stance regarding climate change?
 
 # Conflict
 
@@ -148,12 +170,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Catch all
 
 - What's the best and what's the worst aspect of working in this role / team / company?
+- What got you to choose to work for the company initially?
+- What keeps you at the company?
 
 # Compensation
 
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
-- Do you have a 401k or other retirement plan? If so, is there a company match to plan contributions?
+- Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
 
@@ -165,10 +189,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the roll over policy is there for PTO?
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
+- What is the policy for sabbatical leave?
 
 # Other resources
 
-- Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+Find more inspiration for questions in:
+
+  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
+  - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
 
 # License
 

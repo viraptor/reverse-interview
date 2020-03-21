@@ -31,10 +31,10 @@ Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace
 - Comment testez-vous le code ?
 - Comment suivez-vous les bogues ?
 - Comment déployez-vous les changements ? Est-ce avec de l'intégration continue ?
-- Comment est gérer votre infrastructure ?
+- Comment est gérée votre infrastructure ?
 - Quel est le workflow de travail pour une tâche du début à la fin ?
 - Comment vous préparez-vous à la reprise après un désastre ?
-- Existe-t-il un environnement de développement standardisé ? Est-elle appliquée ?
+- Existe-t-il un environnement de développement standardisé ? Est-il réellement utilisé ?
 - En combien de temps pouvez-vous configurer un nouvel environnement de test local pour le produit ? (minutes / heures / jours)
 - En combien de temps pouvez-vous répondre aux problèmes de sécurité dans le code ou les dépendances ?
 - Est-ce que tous les développeurs ont le droit d'avoir un accès local à l'administration de leurs ordinateurs ?
@@ -45,7 +45,7 @@ Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace
 - Comment fonctionne généralement la communication intra/inter-équipe ?
 - Comment les divergences d'opinions sont-elles résolues ?
 - Qui établit les priorités et le calendrier ?
-- Que se passe-t-il après un repoussement de la tâche ? ("ceci ne peut pas être fait dans le temps projeté")
+- Que se passe-t-il après un retardement de la tâche ? ("ceci ne peut pas être fait dans le temps projeté")
 - Quel genre de réunions ont lieu chaque semaine ?
 - Quel est le calendrier des produits/services ? (rejets toutes les n semaines / déploiement continu / flux de rejets multiples / …)
 - Que se passe-t-il après un incident de production ? Existe-t-il une culture d'analyse ?
