@@ -151,6 +151,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the company's growth plan for the next 1 year? 5 years?
 - What are the big challenges you see coming up?
 - What have you identified as your competitive advantage?
+- How do your customers subscribe for your services? How do you charge them? Is it on monthly/yearly/usage of service based?
+- Is there any SLA for your service? How do you try to achieve them?
 
 # Remote Work
 
