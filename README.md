@@ -52,6 +52,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
 - How can I develop in my new role / what opportunities are offered?
+- What animal describes you the best?
 
 # Tech
 
