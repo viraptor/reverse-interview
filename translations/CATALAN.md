@@ -122,7 +122,7 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Quina és la política de l'empresa sobre les baixes per maternitat/paternitat?
 - Quina és la política de l'empresa sobre les vacances no pagades?
 
-# Alres recursos
+# Altres recursos
 
 - Cerca més inspiració per a noves preguntes a [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
