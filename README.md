@@ -97,6 +97,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you balance technical vs business goals?
 - How do you share knowledge?
 - How big are the teams?
+- Is there a dedicated product owner? What is their role?
 
 # Your Potential Coworkers
 
@@ -125,6 +126,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
+- Whats the exit strategy? (sell to Google / IPO / none - family business / ...)
+- Do you have a design team? Do they own the UI and UX for the product? Who does?
 
 # Social issues
 
