@@ -105,6 +105,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What do you like least?
 - What would you change if you could?
 - How long has the longest team member been there?
+- If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
 
 # The Company
 
@@ -125,6 +126,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
+- What kind of social events does the team/company host and are these attended by everyone?
 
 # Social issues
 
