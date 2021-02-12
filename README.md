@@ -125,6 +125,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
+- Why did the company decide to hire an outsider over promoting an internal employee? 
 
 # Social issues
 
