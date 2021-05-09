@@ -74,6 +74,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Existe algum acordo de não competição ou confidencialidade ou algo parecido que eu tenha que assinar?
 - Quais você acha que sejam as falhas na cultura de empresa?
 - Você poderia me contar uma história de uma situação tóxica na empresa e como vocês resolveram ela?
+- Porque a empresa decidiu contratar alguém de fora em vez de promover alguém de dentro?
 
 # O negócio
 
