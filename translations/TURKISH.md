@@ -81,7 +81,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 # Olası Çalışma Arkadaşlarınız
 
 - Geliştiriciler kimlerden bir şeyler öğrenir?
-- Orada çalışmakla ilgili en çok neyi seviorsun?
+- Orada çalışmakla ilgili en çok neyi seviyorsun?
 - En az neyi seviyorsun?
 - Yapabilseydin neyi değiştirirdin?
 - En uzun süredir orada olan takım üyesi ne zamandır orada?
