@@ -83,7 +83,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you use any tools for project organization? What is your experience with them?
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
 - Would there be a regular 1-on-1 with my manager?
