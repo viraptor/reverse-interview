@@ -9,7 +9,7 @@ If you asked something not listed here, send in a PR.
 
 Translations:
 
-- [Arabic](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
+- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
 - [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
