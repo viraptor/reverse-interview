@@ -162,7 +162,10 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 
 # Diğer Kaynaklar
 
-- [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)'te sorularınız için daha fazla ilham bulabilirsiniz
+Aşağıdaki linki verilen makalelerde sorularınız için daha fazla ilham kaynağı bulabilirsiniz:
+
+  - Joel Spolsky tarafından [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 
+  - Julia Evans tarafından [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) 
 
 # Lisans
 
