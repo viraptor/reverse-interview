@@ -11,10 +11,16 @@ Eğer siz burada listelenmeyen bir şey sorduysanız, lütfen bir PR ile gönder
 - Çince [Basitleştirilmiş](https://github.com/yifeikong/reverse-interview-zh) / [Geleneksel](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [İngilizce](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [Fransızca](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Almanca](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [Hintçe](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [Endonezyaca](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
+- [İtalyanca](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Korece](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portekizce (Brezilya Dili)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Rusça](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [İspanyolca](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Türkçe](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [Vietnamca](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Beklenen Kullanım
 
