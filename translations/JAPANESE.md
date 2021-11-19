@@ -18,7 +18,6 @@ Translations:
 - [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
 - [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
@@ -120,7 +119,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
 - Are there any non-compete or non-disclosure agreements I'll be asked to sign?
-- Where do you see the company in the next 5/10 years? 
+- Where do you see the company in the next 5/10 years?
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
@@ -128,7 +127,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
 - What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee? 
+- Why did the company decide to hire an outsider over promoting an internal employee?
 
 # Social issues
 
@@ -200,8 +199,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 Find more inspiration for questions in:
 
-  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
-  - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
+- [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
 
 # License
 
