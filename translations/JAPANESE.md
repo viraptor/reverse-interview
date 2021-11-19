@@ -1,201 +1,182 @@
-# Reverse interview
+# 逆質問(Reverse interview)
 
-This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position, or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
-I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
+これは、技術職の応募者が興味を持つであろう質問のリストです。
+重要順に並んでいるわけではなく、多くは特定のポジションや職種に当てはまらないかもしれません。
+このリストは私が個人的に作成したものですが、時間の経過とともに、より多くの質問を見たいと思うものや、避けたいと思う赤信号を含むようになりました。
+また、私が面接した人たちにはほとんど質問がなかったことに気付き、これは機会損失だと思います。
 
-If you asked something not listed here, send in a PR.
+## 使用用途 (Expected usage)
 
-Translations:
+- どの質問が特に自分にとって興味深いかをチェック
+- どの答えが自分で見つけられるかを調べて確認する
+- そうでなければ尋ねる
 
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+絶対にリストの中のすべてを聞こうとしないでください。(面接官の時間を尊重し、すでに公表されている内容は自分で調べてください）。
 
-## Expected usage
+物事は流動的であり、再編成が頻繁に行われることを忘れないでください。
+バグトラッキングシステムを導入したからといって、バグ処理が効率的になるわけではありませんし、CI/CD を導入したからといって、納品までの時間が短くなるわけではありません。
 
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
+# 役割 (The Role)
 
-Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
+- 待機時のプラン/スケジュールはどうなっていますか？(待機や呼び出しの際の給与はどうなりますか？）
+- 通常の日に行うタスクは何ですか？
+- 私に期待される具体的な目標はありますか？
+- チームのジュニアとシニアのバランスはどうなっていますか？(また、変更する予定はありますか？）
+- オンボーディングはどのように行われていますか？
+- 個々の開発者にはどのくらいの意思決定の自由がありますか？
+- 想定される勤務時間／コアタイムはどのくらいですか？
+- この職務における成功の定義は何ですか？
+- 最初の 1 ヶ月、3 ヶ月で私が何を達成することを期待していますか？
+- 試用期間終了後、私のパフォーマンスはどのように評価されますか？
+- この職務における典型的な 1 日／1 週間はどのようなものですか？
+- 私の応募書類について何か懸念事項はありますか？
+- 私が最も近くで働くことになる人について教えてください。
+- 直属の上司とその上司はどのようなマネジメントスタイルをとっていますか？(ミクロからマクロまで)
+- 新しい役割でどのように成長できるか／どのような機会が提供されるか
 
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
+# 技術 (Tech)
 
-# The Role
+- 会社では通常どのような技術スタックを使用していますか？
+- ソース管理はどのように行っていますか？
+- コードのテストはどのように行っていますか？
+- バグの追跡はどのように行っていますか？
+- プロジェクトの監視はどのように行っていますか？
+- インテグレーションとデプロイはどのように行っていますか？CI/CD を採用していますか？
+- インフラストラクチャはバージョンコントロールの下で設定されているか、コードとして利用可能か？
+- 企画から完成までのワークフローはどうなっていますか？
+- 障害からのリカバリの準備はどうなってますか？
+- 標準化された開発環境はありますか？それは実施されていますか？
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- Are there any specific goals for me?
-- What's the junior/senior balance of the team? (and are there plans to change it)
-- What does the onboarding look like?
-- How much freedom for decision making do individual developers have?
-- What are the expected/core work hours?
-- What is your definition of success for this role?
-- What do you expect me to accomplish in the first 1 month/3 months?
-- How will you evaluate my performance at the end of the trial period?
-- What does a typical day/week look like in this role?
-- Do you have any concerns about my application?
-- Tell me about who I would be working most closely with.
-- What management style does my immediate manager and their manager have? (from micro- to macro-)
-- How can I develop in my new role / what opportunities are offered?
+- 製品の新しいローカルテスト環境をどれだけ早くセットアップできますか？(数分/数時間/数日)
+- コードや依存関係にあるセキュリティ問題にどれだけ早く対応できますか？
+- すべての開発者は、自分のコンピュータのローカル管理者アクセスを許可されていますか？
+- あなたの技術的な原則やビジョンについて教えてください。
+- コードの開発者向けドキュメントはありますか？顧客向けに別のドキュメントを用意していますか？
+- より高いレベルのドキュメントがありますか？(ER ダイアグラム、データベーススキーマなど）
+- 静的コード解析を行っていますか？
+- 内部/外部の成果物をどのように管理していますか？
+- 依存関係はどのように管理していますか？
 
-# Tech
+# チーム (The Team)
 
-- What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you monitor projects?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
-- Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
-- Do you have some higher level documentation? (ER diagrams, database schema)
-- Do you employ static code analysis?
-- How do you manage internal / external artifacts?
-- How do you manage dependencies?
+- 仕事はどのように組織化されているか？
+- チーム内／チーム間のコミュニケーションは通常どのように行われていますか？
+- プロジェクト組織のために何かツールを使用していますか？それらについての経験はどれくらいですか？
+- 意見の相違はどのように解決されますか？
+- 誰が優先順位やスケジュールを決めるのですか？
+- スケジュールの遅延の後はどうなりますか？
+- チームがリリース日を達成できなかった場合はどうしますか？
+- 毎週どのようなミーティングが行われていますか？
+- マネージャーとの定期的な 1on1 はありますか？
+- 製品やサービスのスケジュールはどうなっていますか？(n 週ごとにリリース / 継続的デプロイ / マルチリリースストリーム / ...)
+- 本番のインシデントの後はどうなりますか？非難抜きの分析をする文化はありますか？
+- チームが現在経験している課題のうち、まだ解決していないものはありますか？
+- 進捗状況はどのように把握していますか？
+- 期待値や目標はどのように設定され、誰が設定するのですか？
+- コードレビューはどのように行われていますか？
+- このチームの一般的なスプリントについて教えてください。
+- 技術的な目標とビジネス的な目標のバランスはどのようにとるのですか？
+- 知識の共有はどのようにしていますか？
+- チームの規模はどのくらいですか？
 
-# The Team
+# 同僚 (Your Potential Coworkers)
 
-- How is the work organised?
-- How does the intra/inter-team communication typically work?
-- Do you use any tools for project organization? What is your experience with them?
-- How are differences of opinions resolved?
-- Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team misses a release target?
-- What kind of meetings happen every week?
-- Would there be a regular 1-on-1 with my manager?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
-- What are some ongoing challenges the team is experiencing that you are yet to resolve?
-- How do you track progress?
-- How are expectations and goals set, and who does the setting?
-- What does a code review look like here?
-- Walk me through a typical sprint on this team
-- How do you balance technical vs business goals?
-- How do you share knowledge?
-- How big are the teams?
+- 開発者は何・誰から学ぶことが多いですか？
+- 働いていて一番気に入っていることは何ですか？
+- 一番嫌なことは何ですか？
+- できることなら、何を変えたいですか？
+- 一番長く働いているチームメンバーは何年いますか？
+- 少人数のチームの場合、性格の衝突などがあった場合、どのように対処しましたか？
 
-# Your Potential Coworkers
+# 会社 (The Company)
 
-- Who do developers tend to learn from?
-- What do you like best about working there?
-- What do you like least?
-- What would you change if you could?
-- How long has the longest team member been there?
-- If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
+- なぜ会社は採用しているのか？(製品の成長/新製品/変動/・・・）。
+- 会議・出張予算はあるのか、またそれを使うためのルールは？
+- 昇進のプロセスはどうなっていますか？要件や期待値はどのように伝達されますか？
+- 業績評価のプロセスはどのようなものですか？
+- 技術職と管理職のキャリアパスは分かれていますか？
+- 購読している電子書籍やオンラインコースなど、会社全体で利用できる学習リソースはありますか？
+- 認定資格を取得するための予算はありますか？
+- 企業の成熟ステージはどの状態ですか？(初期の方向性の発見/機能作業/メンテナンス/...)
+- FOSS プロジェクトに貢献することはできますか？必要な承認はありますか？
+- 競業避止義務や秘密保持契約の締結を求められることはありますか？
+- 5 年後、10 年後の会社の姿はどうなっていますか？
+- クリーンコードとは、大多数の開発者にとってどのような意味を持つのでしょうか？
+- 最近、この現場で誰かが成長していることに気付いたのはいつですか、そしてその人たちはどのような方法で成長しているのですか？
+- この会社で成功するとはどういうことか、また成功をどのように評価するのか？
+- スポーツやチームビルディングの活動はありますか？
+- 社内で行われるハッカソンはありますか？
+- 会社はオープンソース・プロジェクトをサポートしていますか？
+- チームや会社ではどのようなソーシャルイベントを開催していますか、またそれらには全員が参加していますか？
+- なぜ会社は、社内の従業員を昇進させるのではなく、外部の人間を採用することにしたのですか？
 
-# The Company
+# 社会問題 (Social issues)
 
-- Why is the company hiring? (product growth / new product / fluctuation / ...)
-- Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
-- What is the performance review process like?
-- Is there a separate tech and management career path?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
-- Is there a budget for getting certifications?
-- What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
-- Where do you see the company in the next 5/10 years?
-- What does clean code mean to the majority of developers here?
-- When is the last time you noticed someone growing here, and in what way were they growing?
-- What does it mean to be successful here, and how do you measure success?
-- Is there a Sports / Team building Activity?
-- Are there any Hackathons conducted internally?
-- Does the company support open-source projects?
-- What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee?
+- ダイバーシティを考慮した採用の状況／見解は？
+- 社風とのギャップは何だと思いますか？(そして、企業文化とは何か？)
+- ここではワークライフバランスをどう定義していますか？
+- 会社は気候変動問題に関してなにかしらのスタンスを持っていますか？
 
-# Social issues
+# 対立したとき (Conflict)
 
-- What's the status of / view on diverse hiring?
-- What do you think are the gaps in the company culture? (and what is the company culture?)
-- What does work-life balance mean here?
-- Does the company have a stance regarding climate change?
+- 意見の違いはどのように解決しますか？
+- スケジュールが遅延したあとはどうなりますか？(「予測された時間内にこれはできない」とか。）
+- チームがプレッシャーにさらされ、キャパシティやベロシティを超えて仕事をすることを約束した場合はどうなりますか？
+- 誰かがプロセスや技術などの改善点を指摘した場合、どうなりますか？
+- 経営陣からの期待と、エンジニアやチームのパフォーマンスにギャップがあった場合、どうなりますか？
+- 過去の最悪な状況と、会社がそれにどう対処したかについての話を聞かせてください。
 
-# Conflict
+# ビジネス (The Business)
 
-- How are differences of opinions resolved?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team is under pressure and commits to work over their capacity / velocity?
-- If someone identifies areas of improvement in process / technology / etc, what happens?
-- When there is a gap between expectations from management and performance of an engineer or team, what happens?
-- Could you tell me a story about a toxic situation and how the company dealt with it?
+- 利益を出していますか？
+- そうでない場合、その期間はどのくらいの見込みですか？
+- 資金はどこから来るのか、誰がハイレイヤーのプランや方向性に影響を与えるのか？
+- どのようにお金を稼いでいますか？
+- 何があなたがより多くのお金を稼ぐことを妨げているのか？
+- 今後 1~5 年間の会社の成長計画は何ですか？
+- これから起こるであろう大きな課題は何ですか？
+- 自社の競争力として認識しているものは何ですか？
 
-# The Business
+# リモートワーク (Remote Work)
 
-- Are you profitable?
-- If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
-- How do you make money?
-- What's preventing you from making more money?
-- What is the company's growth plan for the next 1 year? 5 years?
-- What are the big challenges you see coming up?
-- What have you identified as your competitive advantage?
+- リモートワーカーとオフィスワーカーの比率はどうなっていますか？
+- 会社はハードウェアを提供していますか？また、リフレッシュのスケジュールはどうなっていますか？
+- [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)についてどう思いますか？そのためのポリシーはありますか？
+- 追加のアクセサリーや家具は、会社を通して購入することができますか？そのための予算はありますか？
+- コワーキングスペースやインターネットに接続するための予算はありますか？
+- オフィスへの訪問はどのくらいの頻度で行われますか？
+- オフィスの会議室は常にビデオ会議ができるように準備されていますか？
 
-# Remote Work
+# オフィス (Building Layout)
 
-- What's the ratio of remote to office workers?
-- Does the company provide hardware and what's the refresh schedule?
-- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
-- Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- Is there a budget for co-working space or internet access?
-- How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
+- オフィスのレイアウトはどうなっていますか？(オープンプラン/キュービクル/オフィス)
+- 私の新しいチームの近くに、サポート/マーケティング/その他の電話が多いチームはありますか？
 
-# Building Layout
+# 就労理由 (Catch all)
 
-- What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
+- この職務／チーム／会社で働く上で、最も良い点と最も悪い点は何ですか？
+- 最初にこの会社で働くことを選んだ理由は何ですか？
+- その会社で働き続ける理由は何ですか？
 
-# Catch all
+# 福利厚生 (Compensation)
 
-- What's the best and what's the worst aspect of working in this role / team / company?
-- What got you to choose to work for the company initially?
-- What keeps you at the company?
+- ボーナス制度がある場合、ボーナスはどのように決定されるのですか？
+- ボーナス制度がある場合、過去数年間の一般的なボーナスの割合はどのくらいですか？
+- 401k やその他の退職金制度はありますか？ある場合、会社はプランへの追加拠出にマッチしますか？
+- 医療手当はありますか？ある場合はいつから始まりますか？
+- 転勤手当はありますか？
 
-# Compensation
+# 休憩時間 (Time Off)
 
-- If you have a bonus scheme, then how are bonuses determined?
-- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
-- Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
-- Are there medical benefits and if so, when do they start?
-- Do you pay for relocation?
+- 有給休暇(PTO)はどのくらいありますか？
+- 病欠と休暇は別々のものですか、それとも同じ手持ち休暇数から出ているのですか？
+- 有給休暇(PTO)が発生する前に休暇を使用して、実質的に PTO 残高がマイナスになることはありますか？
+- 有給休暇(PTO)にはどのようなロールオーバーポリシーがありますか？
+- 育児休暇についてはどのようになっていますか？
+- 無給休暇に関するポリシーを教えてください。
+- サバティカル休暇に関するポリシーを教えてください。
 
-# Time Off
-
-- How much Paid Time Off (PTO) is offered?
-- Are sick time and vacation time separate or do they come from the same pool?
-- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
-- What is the roll over policy is there for PTO?
-- What is the parental leave policy?
-- What is the policy on unpaid leave?
-- What is the policy for sabbatical leave?
-
-# Other resources
+# 参考文献 (Other resources)
 
 Find more inspiration for questions in:
 
