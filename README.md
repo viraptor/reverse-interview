@@ -98,6 +98,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you balance technical vs business goals?
 - How do you share knowledge?
 - How big are the teams?
+- How about the growth of the teams?
 
 # Your Potential Coworkers
 
