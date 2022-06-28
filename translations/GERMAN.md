@@ -101,7 +101,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Ist ein Budget für den Erwerb von Zertifizierungen vorgesehen?
 - Was ist der aktuelle Reifegrad? (Frühe Findungsphase / Featureentwicklung / Wartungsphase / ...)
 - Kann ich zu FOSS-Projekten beitragen? Muss man sich dazu Genehmigungen einholen?
-- Muss ich irgenclwelche Wettbewerbsverbotsklauseln oder Vertraulichkeitsvereinbarungen unterschreiben?
+- Muss ich irgendwelche Wettbewerbsverbotsklauseln oder Vertraulichkeitsvereinbarungen unterschreiben?
 - Wo sehen Sie das Unternehmen in den nächsten 5/10 Jahren?
 - Wo denken Sie besteht noch Nachholbedarf in der Unternehmenskultur?
 - Was bedeutet den meisten Entwicklern hier Clean Code?
