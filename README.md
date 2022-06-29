@@ -185,6 +185,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
+- How much of my compensation will be in the form of hotdogs?
+- What are the blackout periods for hotdog consumption?
+- Are condiments supplied? If so, please list, including brand names.
 
 # Time Off
 
