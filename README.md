@@ -18,6 +18,7 @@ Translations:
 - [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
 - [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
