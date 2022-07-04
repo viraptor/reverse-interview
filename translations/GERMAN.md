@@ -3,7 +3,7 @@
 Dies ist eine Liste von Fragen, die für einen Bewerber im technischen Sektor interessant sein könnten.
 Die einzelnen Punkte sind nicht sortiert und können unter Umständen nicht zu jeder Position oder Art von Job passen.
 Ich habe diese Liste als eine persönliche Liste von Fragen gestartet, die über Zeit angewachsen ist zu einer Sammlung von einerseits Dingen, die ich gerne häufiger sehen und andererseits Warnzeichen, die ich gerne vermeiden würde.
-Mir ist ebenfalls aufgefallen, wie wenige der Menschen, die ich interviewed habe diese Fragen gestellt haben, und ich denke das sind verpasste Chancen.
+Mir ist ebenfalls aufgefallen, wie wenige der Menschen, die ich interviewed habe, diese Fragen gestellt haben, und ich denke, das sind verpasste Chancen.
 
 Wenn du Fragen hast, die nicht hier gelistet sind, sende einen PR.
 
