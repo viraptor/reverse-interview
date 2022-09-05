@@ -1,10 +1,8 @@
-‪#‬ معکوس کردن مصاحبه
-
+# معکوس کردن مصاحبه
 
 این، لیستی از سوالاتی است که ممکن است برای یک متقاضی شغل فنی جالب باشد. ایده‌ها وحی منزل نیستند و لزوما بسیاری از آنها برای یک موقعیت خاص یا نوع کاری ممکن است مناسب نباشند. این، به عنوان لیست شخصی من از سؤالات شروع شد، که با گذشت زمان افزایش یافت و شامل مواردی شد که می خواهم ببینم و خط قرمزهایی که می خواهم از آنها اجتناب کنم. همچنین متوجه شده‌ام که افرادی که با آنها مصاحبه کردم چقدر سؤالات کمی پرسیدند و فکر می‌کنم این فرصت‌ها از دست رفته بودند.
 
-
-If you asked something not listed here, send in a PR.
+اگر سوالی مدنظرت بود ک توی این لیست نیست، یه PR بفرست.
 
 Translations:
 
@@ -19,6 +17,7 @@ Translations:
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
 - [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
@@ -27,186 +26,182 @@ Translations:
 - [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
-## Expected usage
+## نحوه استفاده از این لیست
+- بررسی کنید که کدام سؤال به طور خاص برای شما جالب است
+- بررسی کنید که کدام پاسخ‌ها را می‌توانید در اینترنت پیدا کنید
+- وگرنه از مصاحبه‌کننده بپرس
 
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
+قطعا سعی نکنید همه سوالات این لیست را بپرسید. (به وقت مصاحبه‌گر احترام بگذارید و با یافتن پاسخ‌هایی که قبلاً منتشر شده‌اند، ابتکار عمل نشان دهید)
 
-Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
+به یاد داشته باشید که چیزها معمولاً پویا هستند، سازماندهی مجدد اغلب اتفاق می افتد. داشتن یک سیستم ردیابی اشکال، رسیدگی به اشکال را کارآمد نمی کند و CI/CD به این معنی نیست که زمان شما برای ارائه لزوما کوتاه است.
 
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
+# نقش
 
-# The Role
+- برنامه زمانی و دفعات on-call بودن چگونه است؟ (هزینه پرداختی آماده به کار و فراخوان چقدر است)
+- کارهایی که در یک روز معمول انجام می دهم چیست؟
+- آیا اهداف خاصی برای من وجود دارد؟
+- تراز جونیور به سنیور در تیم چه شکلی است؟ (و آیا برنامه ای برای تغییر آن وجود دارد)
+- فرآیند onboarding یبه چه صورت انجام می‌شود؟
+- هر توسعه دهنده چقدر آزادی عمل دارد؟
+- ساعت کاری مورد انتظار چقدر است؟
+- تعریف شما از موفقیت برای این نقش چیست؟
+- در ۱ یا ۳ ماه اول، انتظار دارید چه کاری انجام دهم؟
+- عملکرد من را در پایان دوره آزمایشی چگونه ارزیابی خواهید کرد؟
+- یک روز/هفته معمول در این نقش چگونه است؟
+- آیا در مورد درخواست من نکته‌ای به نظرتان میرسد؟
+- به من بگویید که با چه کسی بیشتر کار خواهم کرد.
+- مدیر مستقیم من و مدیر آنها چه سبک مدیریتی دارند؟ (از خرد تا کلان)
+- چگونه می توانم در نقش جدید خود پیشرفت کنم / چه فرصت هایی ارائه می شود؟
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- Are there any specific goals for me?
-- What's the junior/senior balance of the team? (and are there plans to change it)
-- What does the onboarding look like?
-- How much freedom for decision making do individual developers have?
-- What are the expected/core work hours?
-- What is your definition of success for this role?
-- What do you expect me to accomplish in the first 1 month/3 months?
-- How will you evaluate my performance at the end of the trial period?
-- What does a typical day/week look like in this role?
-- Do you have any concerns about my application?
-- Tell me about who I would be working most closely with.
-- What management style does my immediate manager and their manager have? (from micro- to macro-)
-- How can I develop in my new role / what opportunities are offered?
+# تک
 
-# Tech
+- استک رایجی که در شرکت استفاده می شود چیست؟
+- چگونه از کنترل کد منبع استفاده می کنید؟
+- چگونه کد را تست می کنید؟
+- چگونه اشکالات را ردیابی می کنید؟
+- چگونه پروژه ها را مانیتور می کنید؟
+- چگونه تغییرات را ادغام و دیپلوی می کنید؟ آیا CI/CD است؟
+- آیا راه اندازی زیرساخت شما تحت کنترل نسخه است / به عنوان کد موجود است؟
+- جریان کاری از برنامه ریزی تا اتمام تسک چه شکلی است؟
+- چگونه برای disaster ریکاوری آماده می‌شوید؟
+- آیا یک محیط توسعه استاندارد وجود دارد؟ آیا اجرا می شود؟
+- با چه سرعتی می توانید یک محیط تست لوکال جدید برای محصول راه اندازی کنید؟ (دقیقه / ساعت / روز)
+- چقدر سریع می توانید به مشکلات امنیتی در کد یا وابستگی ها واکنش نشان دهید؟
+- آیا همه توسعه‌دهندگان دسترسی ادمین لوکال از سیستمشان دارند؟
+- درمورد اصول یا دیدگاه فنی خود به من بگویید.
+- آیا برای کدبیس، داکیومنتی برای توسعه‌دهندگان دارید؟ آیا داکیومنت جداگانه‌ای برای مشتریان دارید؟
+- آیا داکیومنت‌های سطح بالاتری دارید؟ (نمودارهای ER، شمای پایگاه داده)
+- آیا از تحلیل کد استاتیک استفاده می کنید؟
+- چگونه آرتیفکت‌های داخلی/خارجی را مدیریت می کنید؟
+- چگونه وابستگی‌ها را مدیریت می کنید؟
 
-- What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you monitor projects?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
-- Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
-- Do you have some higher level documentation? (ER diagrams, database schema)
-- Do you employ static code analysis?
-- How do you manage internal / external artifacts?
-- How do you manage dependencies?
+# تیم
 
-# The Team
+- کار چگونه سازماندهی می شود؟
+- ارتباط درون تیمی یا بین تیمی معمولاً چگونه کار می کند؟
+- آیا از ابزاری برای سازماندهی پروژه استفاده می کنید؟ تجربه شما از آنها چیست؟
+- اختلاف نظرها چگونه حل می شود؟
+- چه کسی اولویت ها / برنامه زمانی را تعیین می کند؟
+- وقتی تیم به تارگت ریلیز نمیرسد چه می‌شود؟
+- چه نوع جلساتی هر هفته برگزار می‌شود؟
+- آیا جلسات مرتب با منیجرم خواهم داشت؟
+- برنامه زمانی ریلیز محصول/سرویس چیست؟ (هر n هفته یک ریلیز/ دیپلوی مداوم/ جریان‌های ریلیز چندگانه/ …)
+- پس از بروز حوادث در پروداکشن چه اتفاقی می افتد؟ آیا فرهنگ تحلیل بدون سرکوفت وجود دارد؟
+- چه چالش‌هایی وجود دارد که تیم تجربه می‌کند و شما هنوز آنها را حل نکرده‌اید؟
+- چگونه پیشرفت کار را دنبال می کنید؟
+- انتظارات و اهداف چگونه تعیین می شوند و چه کسی این تنظیم را انجام می دهد؟
+- کد ریویو در اینجا به چه صورت است؟
+- مرحله به مرحله یه اسپرینت روتین در تیم را توصیف کنید.
+- چگونه بین اهداف فنی و تجاری تعادل برقرار می کنید؟
+- چگونه دانش را به اشتراک می گذارید؟
+- تیم ها چقدر بزرگ هستند؟
 
-- How is the work organised?
-- How does the intra/inter-team communication typically work?
-- Do you use any tools for project organization? What is your experience with them?
-- How are differences of opinions resolved?
-- Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team misses a release target?
-- What kind of meetings happen every week?
-- Would there be a regular 1-on-1 with my manager?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
-- What are some ongoing challenges the team is experiencing that you are yet to resolve?
-- How do you track progress?
-- How are expectations and goals set, and who does the setting?
-- What does a code review look like here?
-- Walk me through a typical sprint on this team
-- How do you balance technical vs business goals?
-- How do you share knowledge?
-- How big are the teams?
 
-# Your Potential Coworkers
+# همکاران بالقوه شما
 
-- Who do developers tend to learn from?
-- What do you like best about working there?
-- What do you like least?
-- What would you change if you could?
-- How long has the longest team member been there?
-- If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
+- توسعه دهندگان تمایل دارند از چه کسانی یاد بگیرند؟
+- چه چیزی را در مورد کار در آنجا بیشتر دوست دارید؟
+- چه چیزی را کمتر دوست دارید؟
+- اگر می توانستی چه چیزی را تغییر می دادی؟
+- طولانی ترین عضو تیم چه مدت آنجا بوده است؟
+- اگر یک تیم کوچک است، آیا تجربیاتی از شخصیت های متضاد وجود داشته است و چگونه با آن برخورد شد؟
 
-# The Company
+# شرکت
 
-- Why is the company hiring? (product growth / new product / fluctuation / ...)
-- Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
-- What is the performance review process like?
-- Is there a separate tech and management career path?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
-- Is there a budget for getting certifications?
-- What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
-- Where do you see the company in the next 5/10 years? 
-- What does clean code mean to the majority of developers here?
-- When is the last time you noticed someone growing here, and in what way were they growing?
-- What does it mean to be successful here, and how do you measure success?
-- Is there a Sports / Team building Activity?
-- Are there any Hackathons conducted internally?
-- Does the company support open-source projects?
-- What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee? 
+- چرا شرکت استخدام می کند؟ (رشد محصول / محصول جدید / نوسان / ...)
+- آیا بودجه کنفرانس/سفر وجود دارد و قوانین استفاده از آن چیست؟
+- روند ارتقاء چیست؟ الزامات / انتظارات چگونه بیان می شود؟
+- فرآیند بررسی عملکرد چگونه است؟
+- آیا مسیر شغلی فنی و مدیریتی جداگانه ای وجود دارد؟
+- آیا منابعی در سطح شرکت برای یادگیری در دسترس است، مانند اشتراک کتاب های الکترونیکی یا دوره های آنلاین؟
+- آیا بودجه ای برای گرفتن سرتیفیکیت وجود دارد؟
+- مرحله بلوغ چیست؟ (پیدا کردن مسیر اولیه / کار ویژه / تعمیر و نگهداری / ...)
+- آیا می توانم در پروژه های FOSS مشارکت کنم؟ آیا تاییدیه ای لازم است؟
+- آیا قراردادهای غیر رقابتی یا عدم افشا وجود دارد که از من خواسته شود امضا کنم؟
+- شرکت را در ۵-۱۰ سال آینده کجا می بینید؟
+- کد تمیز برای اکثر توسعه دهندگان در اینجا چه معنایی دارد؟
+- آخرین باری که متوجه رشد شخصی در اینجا شدید چه زمانی است و به چه صورت رشد کرده است؟
+- در اینجا موفقیت به چه معناست و چگونه موفقیت را می سنجید؟
+- آیا فعالیت ورزشی / تیم سازی وجود دارد؟
+- آیا هکاتونی وجود دارد که به صورت داخلی انجام شود؟
+- آیا این شرکت از پروژه های متن باز پشتیبانی می کند؟
+- تیم/شرکت میزبان چه رویدادهای اجتماعی است و آیا همه در این رویدادها حضور دارند؟
+- چرا شرکت تصمیم به استخدام یک فرد خارجی برای ارتقای یک کارمند داخلی گرفت؟
 
-# Social issues
+# مسائل اجتماعی
 
-- What's the status of / view on diverse hiring?
-- What do you think are the gaps in the company culture? (and what is the company culture?)
-- What does work-life balance mean here?
-- Does the company have a stance regarding climate change?
+- وضعیت / دیدگاه در مورد استخدام های متنوع چگونه است؟
+- به نظر شما چه شکاف هایی در فرهنگ شرکت وجود دارد؟ (و فرهنگ شرکت چیست؟)
+- تعادل کار و زندگی در اینجا به چه معناست؟
+- آیا این شرکت در مورد تغییرات آب و هوایی موضعی دارد؟
 
-# Conflict
+# تعارض
 
-- How are differences of opinions resolved?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team is under pressure and commits to work over their capacity / velocity?
-- If someone identifies areas of improvement in process / technology / etc, what happens?
-- When there is a gap between expectations from management and performance of an engineer or team, what happens?
-- Could you tell me a story about a toxic situation and how the company dealt with it?
+- اختلاف نظرها چگونه حل می شود؟
+- بعد پوش‌بک چه اتفاقی می‌افتد؟ (“این را نمی‌توان در زمان پیشبینی شده انجام داد”)
+- وقتی تیم تحت فشار است و متعهد می شود که بیش از ظرفیت / سرعت خود کار کند چه اتفاقی می افتد؟
+- اگر کسی زمینه های بهبود فرآیند / فناوری / غیره را شناسایی کند، چه اتفاقی می افتد؟
+- وقتی بین انتظارات از مدیریت و عملکرد یک مهندس یا تیم فاصله وجود دارد، چه اتفاقی می‌افتد؟
+- آیا می توانید داستانی در مورد یک وضعیت سمی و نحوه برخورد شرکت با آن به من بگویید؟
 
-# The Business
+# تجارت
 
-- Are you profitable?
-- If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
-- How do you make money?
-- What's preventing you from making more money?
-- What is the company's growth plan for the next 1 year? 5 years?
-- What are the big challenges you see coming up?
-- What have you identified as your competitive advantage?
+- آیا شرکت شما سودآور هستید؟
+- اگر نه، ظرفیت شما چقدر است؟
+- بودجه از کجا می آید و چه کسی بر طرح/جهت سطح بالا تأثیر می گذارد؟
+- شرکت شما چگونه پول در می آورد؟
+- چه چیزی شما را از کسب درآمد بیشتر باز می دارد؟
+- برنامه رشد شرکت برای 1 سال آینده چیست؟ 5 سال؟
+- چالش های بزرگی که پیش رو می بینید چیست؟
+- چه چیزی را به عنوان مزیت رقابتی خود شناسایی کرده اید؟
 
-# Remote Work
+# دورکاری
 
-- What's the ratio of remote to office workers?
-- Does the company provide hardware and what's the refresh schedule?
-- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
-- Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- Is there a budget for co-working space or internet access?
-- How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
+- نسبت کارمندان دورکار به حضوری چقدر است؟
+- آیا شرکت سخت افزار ارائه می دهد و برنامه به روز رسانی چیست؟
+- نظر شما در مورد BYOD چیست؟ آیا در حال حاضر سیاست هایی پیرامون آن وجود دارد؟
+- آیا خرید لوازم جانبی/مبلمان اضافی از طریق شرکت امکان پذیر است؟ آیا بودجه ای برای آنها وجود دارد؟
+- آیا بودجه ای برای فضای کار مشترک یا دسترسی به اینترنت وجود دارد؟
+- هر چند وقت یک بار انتظار می رود که از دفتر بازدید شود؟
+- آیا اتاق های جلسات اداری همیشه برای کنفرانس های ویدئویی آماده هستند؟
 
-# Building Layout
+# چیدمان ساختمان
 
-- What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
+- چیدمان دفتر چگونه است؟ (پلان باز / اتاقک / دفاتر)
+- آیا تیم پشتیبانی / بازاریابی / دیگر تیمی نزدیک به تیم جدید من وجود دارد؟
 
-# Catch all
+# باقی سوالات
 
-- What's the best and what's the worst aspect of working in this role / team / company?
-- What got you to choose to work for the company initially?
-- What keeps you at the company?
+- بهترین و بدترین جنبه کار در این نقش / تیم / شرکت چیست؟
+- چه چیزی باعث شد که در ابتدا کار در این شرکت انتخاب کنید؟
+- چه چیزی شما را در شرکت نگه می دارد؟
 
-# Compensation
+# جبران خسارت
+- اگر طرح پاداش دارید، پاداش ها چگونه تعیین می شوند؟
+- اگر یک طرح پاداش دارید، روتین درصدهای پاداش در چند سال گذشته چقدر بوده است؟
+- آیا برنامه 401k یا برنامه بازنشستگی دیگری دارید؟ اگر چنین است، آیا شرکت با کمک های طرح اضافی مطابقت دارد؟
+- آیا مزایای پزشکی وجود دارد و اگر چنین است، چه زمانی شروع می شود؟
+- آیا برای جابجایی هزینه می کنید؟
 
-- If you have a bonus scheme, then how are bonuses determined?
-- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
-- Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
-- Are there medical benefits and if so, when do they start?
-- Do you pay for relocation?
+# زمان استراحت
+- مدت زمان مرخصی با حقوق (PTO) چقدر ارائه می شود؟
+- زمان بیماری و مرخصی از هم جدا هستند یا خیر؟
+- آیا می توانم از زمان تعطیلات قبل از تخصیص آن استفاده کنم و به طور موثر وارد تراز PTO منفی شوم؟
+- سیاست roll over برای PTO چیست؟
+- سیاست مرخصی والدین چیست؟
+- سیاست مرخصی بدون حقوق چیست؟
+- سیاست مرخصی تعطیلات چیست؟
 
-# Time Off
+# منابع دیگر
 
-- How much Paid Time Off (PTO) is offered?
-- Are sick time and vacation time separate or do they come from the same pool?
-- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
-- What is the roll over policy is there for PTO?
-- What is the parental leave policy?
-- What is the policy on unpaid leave?
-- What is the policy for sabbatical leave?
-
-# Other resources
-
-Find more inspiration for questions in:
+ایده‌های بیشتری برای سوالات میتوانید اینجاها بیابید:
 
   - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
-# License
+# مجوز
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+اینکار تحت لیسانس [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) است.
