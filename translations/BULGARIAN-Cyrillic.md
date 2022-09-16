@@ -28,6 +28,7 @@
 - [Испански](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Турски](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [Виетнамски](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [Български](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
 
 ## Очаквана употреба
 
