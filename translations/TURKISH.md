@@ -11,10 +11,16 @@ Eğer siz burada listelenmeyen bir şey sorduysanız, lütfen bir PR ile gönder
 - Çince [Basitleştirilmiş](https://github.com/yifeikong/reverse-interview-zh) / [Geleneksel](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [İngilizce](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [Fransızca](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Almanca](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [Hintçe](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [Endonezyaca](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
+- [İtalyanca](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Korece](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portekizce (Brezilya Dili)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Rusça](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [İspanyolca](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Türkçe](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [Vietnamca](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Beklenen Kullanım
 
@@ -140,9 +146,11 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Ofis yerleşimi nasıl? (Açık plan / kübikler / ofisler)
 - Yeni takımıma yakın destek / pazarlama / çağrı ekibi var mı?
 
-# kapsamlı
+# Kapsamlı
 
 - En iyi nedir ve bu rolde / ekipte / şirkette çalışmanın en kötü yönü nedir?
+- Başlangıçta şirkette çalışmayı seçmenize ne sebep oldu?
+- Sizi şirkette tutan şey nedir?
 
 # Tazminat
 
@@ -162,7 +170,10 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 
 # Diğer Kaynaklar
 
-- [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)'te sorularınız için daha fazla ilham bulabilirsiniz
+Aşağıdaki linki verilen makalelerde sorularınız için daha fazla ilham kaynağı bulabilirsiniz:
+
+  - Joel Spolsky tarafından [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 
+  - Julia Evans tarafından [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) 
 
 # Lisans
 
