@@ -11,10 +11,20 @@ Eğer siz burada listelenmeyen bir şey sorduysanız, lütfen bir PR ile gönder
 - Çince [Basitleştirilmiş](https://github.com/yifeikong/reverse-interview-zh) / [Geleneksel](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [İngilizce](https://github.com/viraptor/reverse-interview/blob/master/README.md)
 - [Fransızca](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [Almanca](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [Hintçe](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [Endonezyaca](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
+- [İtalyanca](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+- [Japonca](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 - [Korece](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Farsça](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
+- [Lehçe](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
 - [Portekizce (Brezilya Dili)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Rusça](https://github.com/kix/reverse-interview/blob/master/README.md)
+- Sırpça [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Kiril](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
 - [İspanyolca](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Vietnamca](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [Bulgarca](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
 
 ## Beklenen Kullanım
 
@@ -120,7 +130,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Eğer kar elde etmiyorsanız, kara geçişiniz ne kadar sürecek?
 - Fonlama nereden geliyor ve üst düzey planı / yönü kim etkiliyor?
 - Nasıl para kazanıyorsunuz?
-- Daha fazla para kazanmanızı engelleyen nedir? 
+- Daha fazla para kazanmanızı engelleyen nedir?
 - Önümüzdeki 1 yıl için şirketin büyüme planı nedir? 5 yıl için nedir?
 - Karşılaştığınız en büyük zorluklar nelerdir?
 - Rekabet avantajınız olarak neler tanımlarsınız?
@@ -130,7 +140,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Uzaktan çalışanların ofis çalışanlarına oranı nedir?
 - Şirket donanım sağlıyor mu ve yenileme programı nedir?
 - "Kendi Cihazını Getir" ([BYOD])(https://en.wikipedia.org/wiki/Bring_your_own_device) hakkında ne düşünüyorsun? Zaten bununla ilgili bir politika var mı?
-- Şirket aracılığıyla ekstra aksesuar / mobilya satın almak mümkün mü? Bunlar için bütçe var mı? 
+- Şirket aracılığıyla ekstra aksesuar / mobilya satın almak mümkün mü? Bunlar için bütçe var mı?
 - Ortak çalışma alanı veya internet erişimi için bütçe var mı?
 - Ofis ziyaretlerinin ne sıklıkla yapılması bekleniyor?
 - Ofis toplantı odaları video konferans görüşmeleri için her zaman hazır mı?
@@ -146,7 +156,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 
 # Tazminat
 
-- İkramiye planınız varsa, ikramiyeler nasıl hesaplanır ? 
+- İkramiye planınız varsa, ikramiyeler nasıl hesaplanır ?
 - İkramiye planınız varsa, son birkaç yıldaki tipik ikramiye yüzdeleri neydi?
 - 401k(Amerika'daki bir emeklilik planı) veya başka bir emeklilik planınız var mı? Eğer varsa, katkıları planlamak için bir şirket eşleşmesi var mı?
 - Sağlık yardımları var mı ve varsa, ne zaman başlıyor?
@@ -165,7 +175,6 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)'te sorularınız için daha fazla ilham bulabilirsiniz
 
 # Lisans
-
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
