@@ -150,7 +150,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Ofis yerleşimi nasıl? (Açık plan / kübikler / ofisler)
 - Yeni takımıma yakın destek / pazarlama / çağrı ekibi var mı?
 
-# kapsamlı
+# Kapsamlı
 
 - En iyi nedir ve bu rolde / ekipte / şirkette çalışmanın en kötü yönü nedir?
 
