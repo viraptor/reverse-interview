@@ -127,6 +127,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - L'azienda fornisce hardware e quale è il programma di aggiornamento?
 - Cosa ne pensa del [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Ci sono già delle politiche in merito?
 - È possibile acquistare accessori/accessori extra attraverso l'azienda? C'è un budget per questo?
+- E' previsto un budget per acquistare della strumentazione/mobilio per l'home office?
 - C'è un budget per lo spazio di co-working o per l'accesso a internet?
 - Con quale frequenza sono previste visite in ufficio?
 - Le sale riunioni degli uffici sono sempre preparate per videoconferenze?
@@ -145,11 +146,13 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Se si dispone di un sistema di bonus, come vengono determinati i bonus?
 - Se avete un sistema di bonus, quali sono state le percentuali di bonus tipiche degli ultimi anni?
 - C'è l'assicurazione sanitaria aziendale?
+- Sono previsti i buoni pasto? 
+- E' attivo in azienda un portale di Welfare aziendale?
 
 # Tempo libero
 
 - Quante ferie pagate sono offerte?
-- Il giorni di malattia e il tempo di vacanza sono separati o provengono dallo stesso pool?
+- I giorni di malattia e i giorni di ferie sono separati o provengono dallo stesso pool?
 - Posso usare il tempo di ferie prima che sia maturato, andando effettivamente in un saldo negativo delle ferie?
 
 # Altre risorse
