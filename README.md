@@ -10,6 +10,7 @@ If you asked something not listed here, send in a PR.
 Translations:
 
 - [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
+- [Bulgarian](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
 - [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 - Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
 - [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
@@ -27,8 +28,8 @@ Translations:
 - Serbian [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Cyrillic](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [Ukrainian](https://github.com/viraptor/reverse-interview/blob/master/translations/UKRAINIAN.md)
 - [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-- [Bulgarian](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
 
 ## Expected usage
 
