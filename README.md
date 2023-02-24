@@ -1,8 +1,8 @@
 # Reverse interview
 
-This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position, or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
+This is a list of questions that may be interesting to a tech job applicant.
+The points are not ordered and many may not apply to a given position or work type.
+It was started as my list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
 I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
 
 If you asked something not listed here, send in a PR.
@@ -35,9 +35,9 @@ Translations:
 
 - Check which questions are interesting for you specifically
 - Check which answers you can find yourself online
-- Otherwise ask
+- Otherwise, ask
 
-Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
+Don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
 
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
@@ -67,28 +67,28 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you test code?
 - How do you track bugs?
 - How do you monitor projects?
-- How do you integrate and deploy changes? Is it CI/CD?
+- How do you integrate and deploy changes? Is it a CI/CD?
 - Is your infrastructure setup under version control / available as code?
 - What's the workflow from the planning to the finished task?
 - How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
+- Is there a standardized development environment? Is it enforced?
+- How quickly can you set up a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
+- Are all developers allowed to have local admin access to their computers?
 - Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
-- Do you have some higher level documentation? (ER diagrams, database schema)
+- Do you have developer documentation for your code? Do you have separate documentation for customers?
+- Do you have some higher-level documentation? (ER diagrams, database schema)
 - Do you employ static code analysis?
-- How do you manage internal / external artifacts?
+- How do you manage internal/external artifacts?
 - How do you manage dependencies?
 
-# The Team
+# Team
 
-- How is the work organised?
+- How is the work organized?
 - How does the intra/inter-team communication typically work?
 - Do you use any tools for project organization? What is your experience with them?
 - How are differences of opinions resolved?
-- Who sets the priorities / schedule?
+- Who sets the priorities/schedule?
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
@@ -117,7 +117,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
+- What's the promotion process? How are the requirements/expectations communicated?
 - What is the performance review process like?
 - Is there a separate tech and management career path?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
@@ -129,7 +129,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does clean code mean to the majority of developers here?
 - When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
-- Is there a Sports / Team building Activity?
+- Is there a Sports / Teambuilding Activity?
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
 - What kind of social events does the team/company host and are these attended by everyone?
@@ -146,16 +146,16 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - How are differences of opinions resolved?
 - What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team is under pressure and commits to work over their capacity / velocity?
-- If someone identifies areas of improvement in process / technology / etc, what happens?
-- When there is a gap between expectations from management and performance of an engineer or team, what happens?
+- What happens when the team is under pressure and commits to working over their capacity/velocity?
+- If someone identifies areas of improvement in process/technology / etc, what happens?
+- When there is a gap between expectations from the management and performance of an engineer or team, what happens?
 - Could you tell me a story about a toxic situation and how the company dealt with it?
 
 # The Business
 
 - Are you profitable?
 - If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
+- Where does the funding come from and who influences the high-level plan/direction?
 - How do you make money?
 - What's preventing you from making more money?
 - What is the company's growth plan for the next 1 year? 5 years?
@@ -175,11 +175,11 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Building Layout
 
 - What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
+- Is there a support/marketing / another call-heavy team close to my new team?
 
 # Catch all
 
-- What's the best and what's the worst aspect of working in this role / team / company?
+- What's the best and what's the worst aspect of working in this role/team/company?
 - What got you to choose to work for the company initially?
 - What keeps you at the company?
 
@@ -196,7 +196,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
-- What is the roll over policy is there for PTO?
+- What is the rollover policy is there for PTO?
 - What is the parental leave policy?
 - What is the policy on unpaid leave?
 - What is the policy for sabbatical leave?
