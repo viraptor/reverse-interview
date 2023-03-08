@@ -1,7 +1,7 @@
 # Reverse interview
 
 This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position, or work type.
+The points are not ordered and many may not apply to a given position or work type.
 It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
 I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
 
@@ -120,7 +120,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
 - Is there a separate tech and management career path?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
+- Are there any company-wide resources for learning available, like ebooks subscriptions or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
