@@ -102,7 +102,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Walk me through a typical sprint on this team
 - How do you balance technical vs business goals?
 - How do you share knowledge?
-- How are teams structured and how many services is one in charge of?
+- How big is each team?
+- How are services and projects delegated to each team?
 
 # Your Potential Coworkers
 
