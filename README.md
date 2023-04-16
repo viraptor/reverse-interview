@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Reverse interview
 
 This is a list of questions which may be interesting to a tech job applicant.
@@ -42,7 +47,7 @@ Definitely don't try to ask everything from the list. (Respect the interviewer's
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
-# The Role
+## The Role
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
@@ -60,7 +65,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
 - How can I develop in my new role / what opportunities are offered?
 
-# Tech
+## Tech
 
 - What are the usual stacks used at the company?
 - How do you use source control?
@@ -82,7 +87,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
 
-# The Team
+## The Team
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
@@ -105,7 +110,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How big is each team?
 - How are services and projects delegated to each team?
 
-# Your Potential Coworkers
+## Your Potential Coworkers
 
 - Who do developers tend to learn from?
 - What do you like best about working there?
@@ -114,7 +119,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How long has the longest team member been there?
 - If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
 
-# The Company
+## The Company
 
 - Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
@@ -136,14 +141,14 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What kind of social events does the team/company host and are these attended by everyone?
 - Why did the company decide to hire an outsider over promoting an internal employee? 
 
-# Social issues
+## Social issues
 
 - What's the status of / view on diverse hiring?
 - What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does work-life balance mean here?
 - Does the company have a stance regarding climate change?
 
-# Conflict
+## Conflict
 
 - How are differences of opinions resolved?
 - What happens after pushback? ("this can't be done in the projected time")
@@ -152,7 +157,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - When there is a gap between expectations from management and performance of an engineer or team, what happens?
 - Could you tell me a story about a toxic situation and how the company dealt with it?
 
-# The Business
+## The Business
 
 - Are you profitable?
 - If not, how long is your runway?
@@ -163,7 +168,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What are the big challenges you see coming up?
 - What have you identified as your competitive advantage?
 
-# Remote Work
+## Remote Work
 
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
@@ -173,18 +178,18 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
-# Building Layout
+## Building Layout
 
 - What's the office layout? (open plan / cubicles / offices)
 - Is there a support / marketing / other call-heavy team close to my new team?
 
-# Catch all
+## Catch all
 
 - What's the best and what's the worst aspect of working in this role / team / company?
 - What got you to choose to work for the company initially?
 - What keeps you at the company?
 
-# Compensation
+## Compensation
 
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
@@ -192,7 +197,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
 
-# Time Off
+## Time Off
 
 - How much Paid Time Off (PTO) is offered?
 - Are sick time and vacation time separate or do they come from the same pool?
@@ -202,7 +207,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What is the policy on unpaid leave?
 - What is the policy for sabbatical leave?
 
-# Other resources
+## Other resources
 
 Find more inspiration for questions in:
 
@@ -210,7 +215,7 @@ Find more inspiration for questions in:
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
-# License
+## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
