@@ -47,6 +47,8 @@ theme:
     # for navigation features see https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     - navigation.top
     - navigation.tracking
+    # keep all sections in the navigation expanded by default
+    - navigation.expand
   palette:
     # light mode
     - media: "(prefers-color-scheme: light)"
