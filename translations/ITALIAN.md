@@ -20,7 +20,7 @@ Ricordate che le riorganizzazioni avvengono spesso.
 Avere un sistema di bug tracking non rende efficiente la gestione dei bug e avere un sistema di CI/CD non significa che il tempo per applicare le modifiche sia necessariamente breve.
 
 
-# Il ruolo
+## Il ruolo
 
 - Quali sono i compiti che svolgerei in un giorno normale?
 - Qual è il rapporto junior/senior del team? (e se ci sono piani per modificarlo)
@@ -33,7 +33,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Che stile di gestione hanno il mio manager immediato e il loro manager? (da micro a macro)
 
 
-# Tech
+## Tech
 
 - Quale è lo stack tecnologico usato in azienda?
 - Come utilizzate gli strumenti di version control?
@@ -54,7 +54,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Come gestite le dipendenze?
 
 
-# Il Team
+## Il Team
 
 - Come è organizzato il lavoro?
 - Come funziona tipicamente la comunicazione intra/inter-team?
@@ -73,7 +73,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Come si fa a bilanciare gli obiettivi tecnici con quelli aziendali?
 
 
-# I tuoi potenziali colleghi
+## I tuoi potenziali colleghi
 
 - Da chi tendono ad imparare gli sviluppatori?
 - Cosa ti piace di più del lavorare lì?
@@ -82,7 +82,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Da quanto tempo c'è il membro del team più anziano?
 
 
-# L'azienda
+## L'azienda
 
 - Esiste un budget per conferenze/viaggi e quali sono le regole per utilizzarlo?
 - Qual è il processo di promozione? Come vengono comunicati i requisiti/aspettative?
@@ -101,7 +101,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Cosa significa avere successo qui, e come misurate il successo?
 - Cosa significa qui equilibrio tra lavoro e vita privata?
 
-# Conflitti
+## Conflitti
 
 - Come si risolvono le divergenze di opinione?
 - Cosa succede dopo il pushback? ("questo non può essere fatto nel tempo previsto")
@@ -110,7 +110,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Quando c'è un divario tra le aspettative del management e le prestazioni di un ingegnere o di un team, cosa succede?
 - Potrebbe raccontarmi una storia su una situazione tossica e su come l'azienda l'ha affrontata?
 
-# Il business
+## Il business
 
 - È redditizio?
 - In caso contrario, quanto ci vorrà per iniziare a guadagnare?
@@ -121,7 +121,7 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Quali sono le grandi sfide che vedete affrontare?
 - Qual è stato identificato come il vostro vantaggio competitivo?
 
-# Telelavoro
+## Telelavoro
 
 - Quale è il rapporto tra lavoratori a distanza e impiegati?
 - L'azienda fornisce hardware e quale è il programma di aggiornamento?
@@ -132,16 +132,16 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Con quale frequenza sono previste visite in ufficio?
 - Le sale riunioni degli uffici sono sempre preparate per videoconferenze?
 
-# Struttura dell'edificio
+## Struttura dell'edificio
 
 - Qual è la disposizione dell'ufficio? (pianta aperta / cubicoli / uffici)
 - C'è un team di supporto / marketing vicino al mio nuovo team?
 
-# Catch all
+## Catch all
 
 - Quali sono gli aspetti migliori e peggiori di lavorare in questo ruolo / team / azienda?
 
-# Stipendio
+## Stipendio
 
 - Se si dispone di un sistema di bonus, come vengono determinati i bonus?
 - Se avete un sistema di bonus, quali sono state le percentuali di bonus tipiche degli ultimi anni?
@@ -149,17 +149,17 @@ Avere un sistema di bug tracking non rende efficiente la gestione dei bug e aver
 - Sono previsti i buoni pasto? 
 - E' attivo in azienda un portale di Welfare aziendale?
 
-# Tempo libero
+## Tempo libero
 
 - Quante ferie pagate sono offerte?
 - I giorni di malattia e i giorni di ferie sono separati o provengono dallo stesso pool?
 - Posso usare il tempo di ferie prima che sia maturato, andando effettivamente in un saldo negativo delle ferie?
 
-# Altre risorse
+## Altre risorse
 
 - Ispirazione per altre domande su [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
-# License
+## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

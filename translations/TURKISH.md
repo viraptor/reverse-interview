@@ -15,7 +15,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 
 İşlerin değişken olma eğiliminde olduğunu, yeniden yapılandırmaların sıkça gerçekleştiğini hatırlayın. Bir hata takip sistemine sahip olmak hata idare etmeyi verimli yapmaz ve CI/CD teslim sürenizin mutlaka kısa olduğu anlamına gelmez.
 
-# Rol
+## Rol
 
 - Mesai planı/programı nedir? (mesaiye kalma ve çağrılma ücreti ne kadar?)
 - Normal bir günde yapacağım işler neler?
@@ -28,7 +28,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - En çok birlikte çalışacağım kişiden bahseder misiniz?
 - Benim yöneticimin ve onun yöneticisinin nasıl bir yönetim şekli var? (mikrodan makroya)
 
-# Teknik
+## Teknik
 
 - Şirkette kullanılan genel yığınlar nelerdir?
 - Kaynak kontrolünü nasıl kullanıyorsunuz?
@@ -48,7 +48,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - İç / dış yapıları nasıl yönetiyorsunuz?
 - Bağımlılıkları nasıl yönetiyorsunuz?
 
-# Takım
+## Takım
 
 - İşler nasıl organize edilir?
 - Ekip içi iletişim genelde nasıl yürür?
@@ -67,7 +67,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Bu takımdaki tipik bir sprint nasıl olur?
 - Teknik ve işletme hedeflerini nasıl dengeliyorsunuz?
 
-# Olası Çalışma Arkadaşlarınız
+## Olası Çalışma Arkadaşlarınız
 
 - Geliştiriciler kimlerden bir şeyler öğrenir?
 - Orada çalışmakla ilgili en çok neyi seviyorsun?
@@ -75,7 +75,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Yapabilseydin neyi değiştirirdin?
 - En uzun süredir orada olan takım üyesi ne zamandır orada?
 
-# Şirket
+## Şirket
 
 - Konferans/Gezi için herhangi bir bütçe var mı ve varsa kullanmak için kurallar neler?
 - Terfi süreci nasıldır? Gereksinimler / beklentiler nasıl iletilir?
@@ -94,7 +94,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Burada başarılı olmak ne anlama gelir, ve başarıyı nasıl ölçersiniz?
 - İş-hayat dengesi burada ne anlama gelir?
 
-# Çelişki
+## Çelişki
 
 - Fikir farklılıkları nasıl çözülür?
 - Geri itme(pushback)'den sonra ne olur? ("bu, öngörülen zamanda yapılamaz")
@@ -103,7 +103,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Bir mühendis veya ekibin performansı ve yönetimin beklentileri arasında bir boşluk olduğunda ne olur?
 - Bana toksik bir durumu ve şirketin bununla nasıl başa çıktığını anlatabilir misiniz?
 
-# İş
+## İş
 
 - Kar elde ediyor musunuz?
 - Eğer kar elde etmiyorsanız, kara geçişiniz ne kadar sürecek?
@@ -114,7 +114,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Karşılaştığınız en büyük zorluklar nelerdir?
 - Rekabet avantajınız olarak neler tanımlarsınız?
 
-# Uzaktan Çalışma
+## Uzaktan Çalışma
 
 - Uzaktan çalışanların ofis çalışanlarına oranı nedir?
 - Şirket donanım sağlıyor mu ve yenileme programı nedir?
@@ -124,23 +124,23 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Ofis ziyaretlerinin ne sıklıkla yapılması bekleniyor?
 - Ofis toplantı odaları video konferans görüşmeleri için her zaman hazır mı?
 
-# Ofis Çalışması
+## Ofis Çalışması
 
 - Ofis yerleşimi nasıl? (Açık plan / kübikler / ofisler)
 - Yeni takımıma yakın destek / pazarlama / çağrı ekibi var mı?
 
-# Kapsamlı
+## Kapsamlı
 
 - En iyi nedir ve bu rolde / ekipte / şirkette çalışmanın en kötü yönü nedir?
 
-# Tazminat
+## Tazminat
 
 - İkramiye planınız varsa, ikramiyeler nasıl hesaplanır ?
 - İkramiye planınız varsa, son birkaç yıldaki tipik ikramiye yüzdeleri neydi?
 - 401k(Amerika'daki bir emeklilik planı) veya başka bir emeklilik planınız var mı? Eğer varsa, katkıları planlamak için bir şirket eşleşmesi var mı?
 - Sağlık yardımları var mı ve varsa, ne zaman başlıyor?
 
-# Çalışılmayan Saatler
+## Çalışılmayan Saatler
 
 - Ne kadar ücretli izin verilir?
 - Hastalık ve seyahat zamanı ayrı mı yoksa aynı havuzdan mı geliyor?
@@ -149,11 +149,11 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 - Doğum/Ebeveyn izni politikası nedir?
 - Ücretsiz izin politikası nedir?
 
-# Diğer Kaynaklar
+## Diğer Kaynaklar
 
 - [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)'te sorularınız için daha fazla ilham bulabilirsiniz
 
-# Lisans
+## Lisans
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

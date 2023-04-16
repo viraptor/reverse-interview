@@ -19,7 +19,7 @@ Zdecydowanie nie próbuj pytać o wszystko z listy. (Szanuj czas drugiej strony 
 Pamiętaj, że rzeczy są płynne i reorganizacje mają miejsce.
 Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie sprawna a CI/DI nie powodują, że czas dostarczenia na produkcję będzie krótki.
 
-# Stanowisko
+## Stanowisko
 
 - Jaki jest plan bycia pod telefonie? (Jak są rozliczany czas bycia w gotowości i na żądanie)
 - Jakie zadania będę zwykle realizował? 
@@ -37,7 +37,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jaki styl zarządzania ma mój najbliższy a jaki jego menadżer? (mikro- czy makro-)
 - Jak mogę się rozwijać na tym stanowisku / jakie opcje są oferowane?
 
-# Technologia
+## Technologia
 
 - Jakie stosy technologiczne są używane w firmie? 
 - Jak korzystacie z systemu kontroli wersji?
@@ -59,7 +59,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jak zarządzacie wewnętrznymi / zewnętrznymi artefaktami?
 - Jak zarządzacie zależnościami?
 
-# Zespół
+## Zespół
 
 - Jak jest zorganizowana praca?
 - Jak zwykle przebiega komunikacja wewnętrza i między-zespołowa?
@@ -81,7 +81,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jak dzielicie się wiedzą?
 - Jak duże są zespoły?
 
-# Potencjalni współpracownicy
+## Potencjalni współpracownicy
 
 - Od kogo zwykle uczą się programiści?
 - Co najbardziej lubisz w pracy tutaj?
@@ -90,7 +90,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Ile lat stażu pracy ma najbardziej doświadczony pracownik zespołu?
 - Czy były sytuacje konfliktowe w zespole i jak sobie z nimi poradzono?
 
-# Firma
+## Firma
 
 - Dlaczego firma zatrudnia? (wzrost / nowy produkt / rotacja / ...)
 - Czy jest budżet konferencyjny/podróżny i jakie są reguły korzystania z niego?
@@ -112,14 +112,14 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jakiego rodzaju imprezy są organizowane przez zespół/firmę i czy wszyscy w nich uczestniczą?
 - Czemu firma zdecydowała się zatrudnić osobę z zewnątrz zamiast wypromować pracownika?
 
-# Kwestie społeczne
+## Kwestie społeczne
 
 - Jaki jest stosunek / pogląd na zróżnicowane zatrudnianie? (diversity hiring)
 - Czy są jakieś luki w kulturze organizacyjnej firmy (i jaka jest ona)?
 - Jak rozumiana jest równowaga między życiem zawodowym a prywatnym? (work-life balance) 
 - Jakie jest stanowisko firmy odnośnie zmian klimatycznych?
 
-# Konflikt
+## Konflikt
 
 - Jak rozwiązywane są różnice zdań?
 - Co dzieje się w przypadku odpowiedzi odmownej ("nie jesteśmy tego w stanie zrealizować w założonym czasie")
@@ -128,7 +128,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Gdy jest rozdział pomiędzy oczekiwaniami managementu a wydajnością inżyniera lub zespołu, co wtedy? 
 - Czy możesz opowiedzieć mi o toksycznej sytuacji w firmie jak sobie z nią poradzono?
 
-# Biznes
+## Biznes
 
 - Czy firma jest dochodowa?
 - Jeśli nie, jaki jest horyzont czasowy aby zaczęła być?
@@ -139,7 +139,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jakie są nadchodzące największe wyzwania?
 - Czy została zidentyfikowana przewaga konkurencyjna?
 
-# Praca zdalna
+## Praca zdalna
 
 - Jaki jest stosunek osób pracujących zdalnie do tych pracujących z biura?
 - Czy firma dostarcza sprzęt i jak często jest on uaktualniany?
@@ -149,18 +149,18 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jak często wymagane jest bycie w biurze?
 - Czy sale konferencyjne są zawsze przygotowane na wideo-konferencje?
 
-# Plan biura
+## Plan biura
 
 - Jaki jest plan biura? (otwarte biuro / boksy / biura)
 - Czy mój zespół będzie znajdował się obok działu wsparcie / marketingu lub innego rozmawiającego dużo przez telefon?
 
-# Inne
+## Inne
 
 - Jaki jest najlepszy i najgorszy aspekt pracy na tym stanowisku / w tym zespole / w tej firmie?
 - Co zdecydowało, o twojej pracy w tej firmie?
 - Co trzyma ciebie w tej pracy?
 
-# Wynagrodzenie
+## Wynagrodzenie
 
 - Czy są przyznawane bonusy, jeśli tak to jak są określane?
 - Jeśli są przyznawane bonusy, jaka jest typowa procentowa wartość bonusu za okres ostatnich 5 lat?
@@ -169,7 +169,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Czy pokrywane są koszty relokacji?
 
 
-# Wolne
+## Wolne
 
 - Ile jest płatnych dni urlopu?
 - Czy chorobowe i urlop są w tej samej puli dostępnych dni wolnych?
@@ -179,7 +179,7 @@ Posiadanie systemu do śledzenie błędów nie sprawia, że ich obsługa będzie
 - Jaka jest polityka odnośnie bezpłatnych urlopów?
 - Jaka jest polityka odnośnie dłuższych urlopów? (sabbatical)
 
-# Inne zasoby
+## Inne zasoby
 
 Więcej inspiracji do pytań:
 
@@ -187,7 +187,7 @@ Więcej inspiracji do pytań:
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
-# Licencja
+## Licencja
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
