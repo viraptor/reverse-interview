@@ -6,19 +6,6 @@
 
 यदि आपने किसी चीज़ को यहां सूचीबद्ध नहीं करने के लिए कहा है, तो एक पीआर में भेजें।
 
-अनुवाद:
-
-- [अरबी](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [कैटलन](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- चीनी [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [अंग्रेज़ी](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [फ्रेंच](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [कोरियाई](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [पुर्तगाली (ब्राजील)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [रूसी](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [स्पेनिश](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [हिंदी](https://github.com/viraptor/reverse-interview/blob/master/translations/Hindi.md)
-
 
 ## अपेक्षित उपयोग
 

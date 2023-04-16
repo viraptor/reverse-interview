@@ -7,28 +7,6 @@
 
 Якщо на інтервʼю ви питали про щось, чого нема в цьому списку — надішліть PR і ми розширимо його.
 
-Переклади:
-
-- [Англійською](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Арабською](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Болгарською](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
-- [Вʼєтнамською](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-- [Індонезійською](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Іспанською](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Італійською](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Каталонською](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Китайською [Спрощеною](https://github.com/yifeikong/reverse-interview-zh) / [Традиційною](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Корейською](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Німецькою](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Перською](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Польською](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Португальською (Бразильська)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Російською](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Сербською [Латиницею](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Кирилицею](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Турецькою](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Французькою](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Хінді](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Японською](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 
 ## Очікуване використання
 

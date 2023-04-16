@@ -7,26 +7,6 @@
 
 Уколико имаш своја питања која нису поменута овде, пошаљи ми pull request.
 
-Преводи:
-
-- [арапски](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [каталонски](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- кинески [упрошћен](https://github.com/yifeikong/reverse-interview-zh) / [традиционални](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [енглески](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [француски](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [немачки](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [хинди](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [индонежански](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [италијански](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [јапански](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [корејски](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [пољски](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [португалски (Бразил)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [руски](https://github.com/kix/reverse-interview/blob/master/README.md)
-- српски [латиница](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [ћирилица](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [шпански](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [турски](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [вијетнамски](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Очекивана употреба ове листе
 

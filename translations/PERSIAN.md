@@ -4,27 +4,6 @@
 
 اگر سوالی مدنظرت بود ک توی این لیست نیست، یه PR بفرست.
 
-Translations:
-
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Serbian [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Cyrillic](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## نحوه استفاده از این لیست
 - بررسی کنید که کدام سؤال به طور خاص برای شما جالب است

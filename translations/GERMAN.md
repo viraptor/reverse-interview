@@ -7,17 +7,6 @@ Mir ist ebenfalls aufgefallen, wie wenige der Menschen, die ich interviewed habe
 
 Wenn du Fragen hast, die nicht hier gelistet sind, sende einen PR.
 
-Übersetzungen:
-
-- [Arabisch](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalanisch](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinesisch [Vereinfacht](https://github.com/yifeikong/reverse-interview-zh) / [Traditionell](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Englisch](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Französisch](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Koreanisch](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portugiesisch (Brazilianisch)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russisch](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanisch](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
 ## Bevorzugte Anwendung
 

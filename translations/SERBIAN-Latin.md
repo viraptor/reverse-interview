@@ -7,26 +7,6 @@ Takođe sam primetio da ljudi koje sam intervjuisao za posao postavljaju jako ma
 
 Ukoliko imaš svoja pitanja koja nisu pomenuta ovde, pošalji mi pull request.
 
-Prevodi:
-
-- [arapski](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [katalonski](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- kineski [uprošćen](https://github.com/yifeikong/reverse-interview-zh) / [tradicionalni](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [engleski](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [francuski](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [nemački](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [indonežanski](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [italijanski](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [japanski](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [korejski](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [poljski](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [portugalski (Brazil)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [ruski](https://github.com/kix/reverse-interview/blob/master/README.md)
-- srpski [latinica](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [ćirilica](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [španski](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [turski](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [vijetnamski](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Očekivana upotreba ove liste
 

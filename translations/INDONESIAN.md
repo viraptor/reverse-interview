@@ -7,22 +7,6 @@ Saya juga memperhatikan betapa sedikitnya pertanyaan yang ditanyakan oleh orang 
 
 Jika anda menanyakan hal yang tidak berada pada daftar ini, silahkan kirim *Pull Request* anda.
 
-Terjemahan:
-
-- [Arab](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Katalonia](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Mandarin [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Inggris](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Prancis](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Jerman](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Itali](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Korea](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portugis (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russia](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanyol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turki](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnam](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Penggunaan yang diharapkan
 

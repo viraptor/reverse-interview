@@ -7,28 +7,6 @@
 
 Ако сте задавали нещо, което не е посочено тук, изпратете PR (pull request).
 
-Преводи:
-
-- [Арабски](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Каталонски](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Китайски [Опростен](https://github.com/yifeikong/reverse-interview-zh) / [Традиционен](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Английски](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Френски](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Немски](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Хинди](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Индонезийски](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Италиански](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Японски](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [Корейски](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Персийски](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Полски](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Португалски (Бразилски)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Руски](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Сръбски [Латински](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Кирилица](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Испански](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Турски](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Виетнамски](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-- [Български](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
 
 ## Очаквана употреба
 

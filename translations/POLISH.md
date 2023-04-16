@@ -7,24 +7,6 @@ Zauważyłem również, jak mało pytań zadają kandydaci których ja rekrutowa
 
 Jeśli masz coś czego nie ma na liście, wyślij PR.
 
-Tłumaczenia:
-
-- [arabski](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [kataloński](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- chiński [uproszczony](https://github.com/yifeikong/reverse-interview-zh) / [tradycyjny](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [angielski](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [francuski](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [niemiecki](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [indyjski](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [indonezyjski](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [włoski](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [koreański](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [polski](https://github.com/virapror/reverse-interview/blog/master/translations/POLISH.md)
-- [portugalski (brazylijski)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [rosyjski](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [hiszpański](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [turecki](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [wietnamski](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Użycie
 
