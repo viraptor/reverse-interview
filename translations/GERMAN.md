@@ -7,17 +7,6 @@ Mir ist ebenfalls aufgefallen, wie wenige der Menschen, die ich interviewed habe
 
 Wenn du Fragen hast, die nicht hier gelistet sind, sende einen PR.
 
-Übersetzungen:
-
-- [Arabisch](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalanisch](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinesisch [Vereinfacht](https://github.com/yifeikong/reverse-interview-zh) / [Traditionell](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Englisch](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Französisch](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Koreanisch](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portugiesisch (Brazilianisch)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russisch](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanisch](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
 ## Bevorzugte Anwendung
 
@@ -30,7 +19,7 @@ Verhindere auf jeden Fall alle Fragen von der Liste zu stellen. (Respektiere die
 Denke daran, dass Dinge sich oft im Wandel befinden. Neuorganisationen passieren oft.
 Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effizient darin bugs zu finden, und eine CI/CD zu einzusetzen heißt nicht dass die Entwicklungszeiten bis zur Auslieferung zwingend kurz sind.
 
-# Die Stelle
+## Die Stelle
 
 - Wie sieht der Bereitschaftszeitplan aus? (Wie ist die Bezahlung bei Bereitschaftsdienst und Einsatz?)
 - Was sind die Aufgaben, die ich an einem typischen Tag erledigen würde?
@@ -43,7 +32,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Mit wem würde ich am engsten zusammenarbeiten?
 - Was für einen Managementstil haben mein direkter und deren Manager? (von mikro- bis makro-)
 
-# Tech
+## Tech
 
 - Was sind die üblichen technologien, die im Unternehmen zum Einsatz kommen?
 - Wie nutzen Sie Versionskontrolle?
@@ -63,7 +52,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Wie gehen Sie mit internen oder externen Artefakten um?
 - Wie verwalten Sie Abhängigkeiten?
 
-# Das Team
+## Das Team
 
 - Wie ist die Arbeit organisiert?
 - Wie funktioniert die Intra-/Interteamkommunikation üblicherweise?
@@ -82,7 +71,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Wie funktioniert ein typischer Sprint in diesem Team Schritt für Schritt?
 - Wie balancieren Sie zwischen technischen und Businesszielen?
 
-# Deine potentiellen KollegInnen
+## Deine potentiellen KollegInnen
 
 - Von wem lernen die Entwickler typischerweise?
 - Was gefällt Ihnen am meisten daran hier zu arbeiten?
@@ -90,7 +79,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Was würden Sie ändern, wenn Sie könnten?
 - Wie lange arbeitet das dienstälteste Teammitglied schon hier?
 
-# Das Unternehmen
+## Das Unternehmen
 
 - Gibt es ein Konferenz- bzw. Reisebudget und wie sind die Nutzungsregeln?
 - Wie sieht der Prozess bezüglich Beförderungen aus? Wie werden Anforderungen und Erwartungen kommuniziert?
@@ -109,7 +98,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Was bedeutet es hier erfolgreich zu sein und wie wird Erfolg gemessen?
 - Wie sieht die Work-Life Balance hier aus?
 
-# Konflikt
+## Konflikt
 
 - Wie werden Meinungsverschiedenheiten gelöst?
 - Was passiert, wenn etwas zeitlich verschoben werden muss? ("Das kann in der vorgesehenen Zeit nicht fertig gestellt werden")
@@ -118,7 +107,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Was passiert, wenn es eine Lücke zwischen den Erwartungen des Managements und der Leistung eines Engineurs oder Teams gibt?
 - Können Sie mir von einem Beispiel berichten in dem eine toxische Situation statt fand? Wie ist das Unternehmen damit umgegangen?
 
-# Das Business
+## Das Business
 
 - Ist das Unternehmen profitabel?
 - Wenn nicht, wie lange kann das Unternehmen ohne Veränderungen weiter machen?
@@ -129,7 +118,7 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Was sind die großen Herausfoderungen die Sie in der Zukunft sehen?
 - Was haben Sie als Ihren Wettbewerbsvorteil ausgemacht?
 
-# Heim- / Telearbeit
+## Heim- / Telearbeit
 
 - Wie ist der Anteil von Telearbeitern zu Leuten vor Ort?
 - Stellt das Unternehmen Hardware und wie oft wird diese aktualisiert?
@@ -139,23 +128,23 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Wie oft wird man im Büro erwartet?
 - Gibt es dedizierte Räume für Videomeetings?
 
-# Gebäudeaufteilung
+## Gebäudeaufteilung
 
 - Wie sieht die Gebäudeaufteilung aus? (Offenes Büro / Kabinen / Büros)
 - Sitzt ein Support- / Marketing- / oder anderes Telefonlastiges Team in der Nähe von meinem?
 
-# Allgemeines
+## Allgemeines
 
 - Was ist der schlechteste und der beste Aspekt von Arbeit in dieser Rolle / diesem Team / diesem Unternehmen?
 
-# Bezahlung
+## Bezahlung
 
 - Wenn Bonuszahlungen existieren, wie werden diese festgelegt?
 - Wenn Bonuszahlungen existieren, wie sahen die letzten Jahre die typischen Auszahlungen in Prozent vom Jahresgehalt aus?
 - Bieten Sie eine Altersvorsorge an? Wenn ja, leistet das Unternehmen einen Beitrag dazu?
 - Bietet das Unternehmen besondere Krankenversicherungszusätze an?
 
-# Auszeit
+## Auszeit
 
 - Wie viele bezahlte Urlaubstage hat man?
 - Sind Krankheitstage und Urlaubstage separat? (Diese Frage ist in Deutschland nicht relevant)
@@ -164,11 +153,11 @@ Nur weil man ein Bugtrackingsystem besitzt, macht das einen nicht zwingend effiz
 - Wie sieht es mit Elternzeit aus?
 - Kann man sich unbezahlten Urlaub nehmen?
 
-# Andere Ressourcen
+## Andere Ressourcen
 
 - Mehr Inspiration und Fragen bei [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
-# Lizenz
+## Lizenz
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

@@ -1,0 +1,97 @@
+# RECOMMENDATION: set up the JSON schema as described in https://squidfunk.github.io/mkdocs-material/creating-your-site/#minimal-configuration
+# this will provide auto-completion and pop-up annotations of invividual parameters.
+# This configuration is heavily based on https://github.com/copier-org/copier/blob/master/mkdocs.yml
+site_name: "Reverse interview questions"
+# to be validated and filled according to the place where you push the repository
+# the git repo link in the header
+repo_url: https://github.com/viraptor/reverse-interview
+# the title to use for the git repo link
+repo_name: "reverse-interview"
+# main directory with markdown files (default is `docs`)
+docs_dir: translations
+# relative path to the markdown files on github
+edit_uri: blob/master/translations/
+
+nav:
+  - English: "README.md"
+  - Arabic: "ARABIC.md"
+  - Bulgarian: "BULGARIAN-Cyrillic.md"
+  - Catalan: "CATALAN.md"
+  - Chinese:
+      - Simplified [external]: https://github.com/yifeikong/reverse-interview-zh
+      - Traditional [external]: https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md
+  - French: FRENCH.md
+  - German: GERMAN.md
+  - Hindi: Hindi.md
+  - Indonesian: INDONESIAN.md
+  - Italian: ITALIAN.md
+  - Japanese: JAPANESE.md
+  - Korean [external]: https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md
+  - Persian: PERSIAN.md
+  - Polish: POLISH.md
+  - Portuguese (Brazilian): pt-BR.md
+  - Russian [external]: https://github.com/kix/reverse-interview/blob/master/README.md
+  - Serbian:
+      - Cyrillic: SERBIAN-Cyrillic.md
+      - Latin: SERBIAN-Latin.md
+  - Spanish [external]: https://github.com/felHR85/Entrevista-inversa/blob/master/README.md
+  - Turkish: TURKISH.md
+  - Ukrainian: UKRAINIAN.md
+  - Vietnamese [external]: https://github.com/tuannh99/reverse-interview/blob/master/README.md
+
+theme:
+  name: material
+  # icon:
+  #   repo: fontawesome/brands/gitlab
+  features:
+    # enables annotations, see https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#code-annotations
+    - content.code.annotate
+    # for navigation features see https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+    - navigation.top
+    - navigation.tracking
+    # keep all sections in the navigation expanded by default
+    - navigation.expand
+    # add icon and link to the document on gihub for each page
+    - content.action.edit
+  icon:
+    # icon for the git repository link on the top-right
+    repo: fontawesome/brands/github
+    # icon for the view of the current page in the repository
+    edit: material/eye
+  palette:
+    # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      # main theme color
+      primary: deep orange
+      # the color to change to for a hover on an interactive element
+      accent: amber
+      # definition of the  header icon for this mode
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      # main theme color
+      primary: deep orange
+      # the color to change to for a hover on an interactive element
+      accent: amber
+      # definition of the  header icon for this mode
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+# use a long list of recommended extensions from https://squidfunk.github.io/mkdocs-material/setup/extensions/?h=pymdownx#recommended-configuration
+markdown_extensions:
+  # Python Markdown
+  - admonition
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.tilde

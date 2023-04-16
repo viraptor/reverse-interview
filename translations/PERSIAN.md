@@ -1,30 +1,14 @@
+<script>
+  // set text direction Right-To-Left (RTL)
+  document.body.dir = "rtl"
+</script>
+
 # معکوس کردن مصاحبه
 
 این، لیستی از سوالاتی است که ممکن است برای یک متقاضی شغل فنی جالب باشد. ایده‌ها وحی منزل نیستند و لزوما بسیاری از آنها برای یک موقعیت خاص یا نوع کاری ممکن است مناسب نباشند. این، به عنوان لیست شخصی من از سؤالات شروع شد، که با گذشت زمان افزایش یافت و شامل مواردی شد که می خواهم ببینم و خط قرمزهایی که می خواهم از آنها اجتناب کنم. همچنین متوجه شده‌ام که افرادی که با آنها مصاحبه کردم چقدر سؤالات کمی پرسیدند و فکر می‌کنم این فرصت‌ها از دست رفته بودند.
 
 اگر سوالی مدنظرت بود ک توی این لیست نیست، یه PR بفرست.
 
-Translations:
-
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Serbian [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Cyrillic](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## نحوه استفاده از این لیست
 - بررسی کنید که کدام سؤال به طور خاص برای شما جالب است
@@ -35,7 +19,7 @@ Translations:
 
 به یاد داشته باشید که چیزها معمولاً پویا هستند، سازماندهی مجدد اغلب اتفاق می افتد. داشتن یک سیستم ردیابی اشکال، رسیدگی به اشکال را کارآمد نمی کند و CI/CD به این معنی نیست که زمان شما برای ارائه لزوما کوتاه است.
 
-# نقش
+## نقش
 
 - برنامه زمانی و دفعات on-call بودن چگونه است؟ (هزینه پرداختی آماده به کار و فراخوان چقدر است)
 - کارهایی که در یک روز معمول انجام می دهم چیست؟
@@ -53,7 +37,7 @@ Translations:
 - مدیر مستقیم من و مدیر آنها چه سبک مدیریتی دارند؟ (از خرد تا کلان)
 - چگونه می توانم در نقش جدید خود پیشرفت کنم / چه فرصت هایی ارائه می شود؟
 
-# تک
+## تک
 
 - استک رایجی که در شرکت استفاده می شود چیست؟
 - چگونه از کنترل کد منبع استفاده می کنید؟
@@ -75,7 +59,7 @@ Translations:
 - چگونه آرتیفکت‌های داخلی/خارجی را مدیریت می کنید؟
 - چگونه وابستگی‌ها را مدیریت می کنید؟
 
-# تیم
+## تیم
 
 - کار چگونه سازماندهی می شود؟
 - ارتباط درون تیمی یا بین تیمی معمولاً چگونه کار می کند؟
@@ -97,7 +81,7 @@ Translations:
 - تیم ها چقدر بزرگ هستند؟
 
 
-# همکاران بالقوه شما
+## همکاران بالقوه شما
 
 - توسعه دهندگان تمایل دارند از چه کسانی یاد بگیرند؟
 - چه چیزی را در مورد کار در آنجا بیشتر دوست دارید؟
@@ -106,7 +90,7 @@ Translations:
 - طولانی ترین عضو تیم چه مدت آنجا بوده است؟
 - اگر یک تیم کوچک است، آیا تجربیاتی از شخصیت های متضاد وجود داشته است و چگونه با آن برخورد شد؟
 
-# شرکت
+## شرکت
 
 - چرا شرکت استخدام می کند؟ (رشد محصول / محصول جدید / نوسان / ...)
 - آیا بودجه کنفرانس/سفر وجود دارد و قوانین استفاده از آن چیست؟
@@ -128,14 +112,14 @@ Translations:
 - تیم/شرکت میزبان چه رویدادهای اجتماعی است و آیا همه در این رویدادها حضور دارند؟
 - چرا شرکت تصمیم به استخدام یک فرد خارجی برای ارتقای یک کارمند داخلی گرفت؟
 
-# مسائل اجتماعی
+## مسائل اجتماعی
 
 - وضعیت / دیدگاه در مورد استخدام های متنوع چگونه است؟
 - به نظر شما چه شکاف هایی در فرهنگ شرکت وجود دارد؟ (و فرهنگ شرکت چیست؟)
 - تعادل کار و زندگی در اینجا به چه معناست؟
 - آیا این شرکت در مورد تغییرات آب و هوایی موضعی دارد؟
 
-# تعارض
+## تعارض
 
 - اختلاف نظرها چگونه حل می شود؟
 - بعد پوش‌بک چه اتفاقی می‌افتد؟ (“این را نمی‌توان در زمان پیشبینی شده انجام داد”)
@@ -144,7 +128,7 @@ Translations:
 - وقتی بین انتظارات از مدیریت و عملکرد یک مهندس یا تیم فاصله وجود دارد، چه اتفاقی می‌افتد؟
 - آیا می توانید داستانی در مورد یک وضعیت سمی و نحوه برخورد شرکت با آن به من بگویید؟
 
-# تجارت
+## تجارت
 
 - آیا شرکت شما سودآور هستید؟
 - اگر نه، ظرفیت شما چقدر است؟
@@ -155,7 +139,7 @@ Translations:
 - چالش های بزرگی که پیش رو می بینید چیست؟
 - چه چیزی را به عنوان مزیت رقابتی خود شناسایی کرده اید؟
 
-# دورکاری
+## دورکاری
 
 - نسبت کارمندان دورکار به حضوری چقدر است؟
 - آیا شرکت سخت افزار ارائه می دهد و برنامه به روز رسانی چیست؟
@@ -165,25 +149,25 @@ Translations:
 - هر چند وقت یک بار انتظار می رود که از دفتر بازدید شود؟
 - آیا اتاق های جلسات اداری همیشه برای کنفرانس های ویدئویی آماده هستند؟
 
-# چیدمان ساختمان
+## چیدمان ساختمان
 
 - چیدمان دفتر چگونه است؟ (پلان باز / اتاقک / دفاتر)
 - آیا تیم پشتیبانی / بازاریابی / دیگر تیمی نزدیک به تیم جدید من وجود دارد؟
 
-# باقی سوالات
+## باقی سوالات
 
 - بهترین و بدترین جنبه کار در این نقش / تیم / شرکت چیست؟
 - چه چیزی باعث شد که در ابتدا کار در این شرکت انتخاب کنید؟
 - چه چیزی شما را در شرکت نگه می دارد؟
 
-# جبران خسارت
+## جبران خسارت
 - اگر طرح پاداش دارید، پاداش ها چگونه تعیین می شوند؟
 - اگر یک طرح پاداش دارید، روتین درصدهای پاداش در چند سال گذشته چقدر بوده است؟
 - آیا برنامه 401k یا برنامه بازنشستگی دیگری دارید؟ اگر چنین است، آیا شرکت با کمک های طرح اضافی مطابقت دارد؟
 - آیا مزایای پزشکی وجود دارد و اگر چنین است، چه زمانی شروع می شود؟
 - آیا برای جابجایی هزینه می کنید؟
 
-# زمان استراحت
+## زمان استراحت
 - مدت زمان مرخصی با حقوق (PTO) چقدر ارائه می شود؟
 - زمان بیماری و مرخصی از هم جدا هستند یا خیر؟
 - آیا می توانم از زمان تعطیلات قبل از تخصیص آن استفاده کنم و به طور موثر وارد تراز PTO منفی شوم؟
@@ -192,7 +176,7 @@ Translations:
 - سیاست مرخصی بدون حقوق چیست؟
 - سیاست مرخصی تعطیلات چیست؟
 
-# منابع دیگر
+## منابع دیگر
 
 ایده‌های بیشتری برای سوالات میتوانید اینجاها بیابید:
 
@@ -200,7 +184,7 @@ Translations:
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
-# مجوز
+## مجوز
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

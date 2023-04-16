@@ -4,13 +4,6 @@ Este repositório é uma lista de perguntas que podem ser interessantes para uma
 
 Se você perguntou algo não listado aqui, mande um PR.
 
-Traduções: 
-
-- Chinês [Simplificado](https://github.com/yifeikong/reverse-interview-zh) / [Tradicional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Francês](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Coreano](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Russo](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Espanhol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 
 ## Uso esperado
 
@@ -23,7 +16,7 @@ Definitivamente não tente perguntar tudo da lista.
 Lembre que as coisas tendem a serem fluidas, reorganizações acontecem com frequência.
 Ter um sistema de monitoramento de bugs não traz necessariamente um melhor tratamento e correções de bug e ter CI/CD não significa que o seu tempo de entrega é curto. 
 
-# O cargo
+## O cargo
 
 - Qual é a política para plantões? (Existe pagamento para estar disponível ou por chamadas?)
 - Quais tarefas eu faria em um dia normal?
@@ -34,7 +27,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Qual é sua definição de sucesso para essa função?
 - Existe um plano de carreira para subir de júnior a pleno e de pleno a sênior?
 
-# Tecnologia
+## Tecnologia
 
 - Quais são as tecnologias utilizadas na empresa?
 - Como vocês usam controle de versionamento?
@@ -49,7 +42,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quão rápido você consegue responder a problemas de segurança ou dependências no código?
 - Todos os desenvolvedores tem permissão a acesso de administrador nos seus próprios computadores?
 
-# O time
+## O time
 
 - Como o trabalho é organizado?
 - Como a comunicação interna e externa dos times geralmente funciona?
@@ -61,7 +54,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - O que acontece quando acontece um incidente em produção? Existe alguma cultura de analisar quem foi o responsável?
 - Quais são alguns desafios atuais que o time está experienciando e como vocês estão resolvendo?
 
-# A empresa
+## A empresa
 
 - Existe algum orçamento para ir para conferências/viagens e quais são as regras para usá-lo?
 - Como é o processo de promoção? Quais são os requisitos/expectativas transmitidas para os funcionários?
@@ -76,7 +69,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Você poderia me contar uma história de uma situação tóxica na empresa e como vocês resolveram ela?
 - Porque a empresa decidiu contratar alguém de fora em vez de promover alguém de dentro?
 
-# O negócio
+## O negócio
 
 - Vocês estão lucrando?
 - Se não, quanto tempo até o dinheiro em caixa acabar?
@@ -85,7 +78,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - O que impede vocês de lucrarem ainda mais?
 - O que vocês identificam como sua vantagem competitiva?
 
-# Trabalho remoto
+## Trabalho remoto
 
 - Qual é a relação de trabalhadores remotos com os presenciais?
 - A companhia fornece equipamentos como notebooks, se sim qual e de quanto em quanto tempo são renovados?
@@ -94,18 +87,18 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Quão frequente são esperadas visitas a empresa?
 - As salas de reunião estão sempre prontas para videoconferência?
 
-# Trabalho no escritório
+## Trabalho no escritório
 
 - Qual é o leiaute do ambiente de trabalho? (Espaço aberto/cubículos/vários ambientes)
 - Existe um time de suporte / marketing / ou outra função que esteja próximo ao o meu?
 
-# Compensação
+## Compensação
 
 - Se você tem uma política de bônus, então como eles são determinados?
 - Se você tem uma política de bônus, então quais foram as porcentagens típicas nos últimos anos?
 - Vocês tem alguma política de aposentadoria?
 
-# Folga remunerada
+## Folga remunerada
 
 - Como funciona a folga remunerada?
 - Faltas por férias ou por doenças são descontadas de um mesmo lugar. Os dias que ficar doente são descontados das minhas férias?
@@ -114,6 +107,6 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 - Qual é a política para faltas por parentalidade?
 - Qual é a política para licença não remunerada?
 
-# Outros recursos
+## Outros recursos
 
 - Ache mais inspirações para perguntas em [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)

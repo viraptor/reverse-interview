@@ -7,15 +7,6 @@ També m'he adonat que els candidats que he entrevistat feien poques preguntes i
 
 Si alguna vegada has fet alguna pregunta que no apareix en aquesta llista, inclou-la mitjançant un PR.
 
-Traduccions:
-
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
 
 ## Com utilitzar aquesta llista
 
@@ -27,7 +18,7 @@ En cap cas facis totes les preguntes d'aquesta llista durant una entrevista.
 
 Tingues en compte que els interessos d'una empresa poden canviar amb el temps, de la mateixa manera que també pot canviar-ne l'estructura organitzativa. Tenir un sistema de gestió d'incidències no vol dir que aquestes es gestionin de manera eficient. Emprar CI/CD (integració contínua/desplegament continu) tampoc vol dir que necessàriament les entregues hagin de ser ràpides.
 
-# El rol
+## El rol
 
 - Com gestioneu i planifiqueu els horaris de les guàrdies?
 - Quines són les tasques que hauré de fer diàriament?
@@ -37,7 +28,7 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Quina és la quantitat d'hores productives que s'espera que faci?
 - Quina és la definició d'èxit per a aquest lloc de treball?
 
-# Tecnologia
+## Tecnologia
 
 - Quin és l'stack tecnològic habitual de l'empresa?
 - Com utilitzeu el sistema de control de versions?
@@ -52,7 +43,7 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Amb quina celeritat doneu resposta a un problema de seguretat detectat al codi o en una dependència?
 - Els desenvolupadors tenen accés d'administrador als seus ordinadors?  
 
-# L'equip
+## L'equip
 
 - Com s'organitza la feina dins de l'equip?
 - Com us comuniqueu normalment dins d'un equip i entre equips?
@@ -64,14 +55,14 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Què passa després de produir-se una incidència en l'entorn de producció? Hi ha cultura d'anàlisi de la situació sense buscar culpables?
 - Quins són els reptes que té ara mateix l'equip i que encara cal resoldre?
 
-# Els teus possibles companys de treball
+## Els teus possibles companys de treball
 
 - Què és el que més t'agrada de treballar aquí?
 - Què és el que menys t'agrada?
 - Quines coses canviaries si poguessis fer-ho?
 - Quant de temps porta treballant aquí el company més vetarà?
 
-# L'empresa
+## L'empresa
 
 - Disposeu d'algun pressupost per a conferències o viatges? Quines són les normes per utilitzar-lo?
 - Quin és el procés de promoció dins de l'empresa? De quina manera comuniqueu les expectatives als treballadors?
@@ -85,7 +76,7 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Quines creieu que són les mancances de la vostra cultura d'empresa?
 - Podeu explicar alguna història que hagueu viscut de situació laboral tòxica? Com l'heu gestionat?
 
-# El negoci
+## El negoci
 
 - L'empresa és rendible?
 - Si no ho és, quin marge té l'empresa per arribar a ser-ho?
@@ -93,7 +84,7 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Com guanyeu diners?
 - Quin és el vostre avantatge competitiu?
 
-# Treball en remot
+## Treball en remot
 
 - Quina és la proporció de treballadors a l'oficina i treballadors en remot?
 - L'empresa proporciona el hardware necessari per treballar? Amb quina freqüència s'actualitza?
@@ -102,18 +93,18 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Cada quan és necessari visitar l'oficina?
 - Les sales de reunions estan preparades per poder realitzar videoconferències?
 
-# L'oficina
+## L'oficina
 
 - Quina és la distribució de l'oficina? (espai obert/cubicles/despatxos)
 - Hi ha equip de suport/marketing a prop del meu equip?
 
-# Compensacions
+## Compensacions
 
 - Hi ha algun sistema de bonificacions. Si n'hi ha, com es determina?
 - Si hi ha algun sistema de bonificacions, quins han sigut els percentatges de bonificació dels anys anteriors?
 - Hi ha plans de pensió/jubilació?
 
-# Vacances
+## Vacances
 
 - Quants dies de vacances pagades ofereix l'empresa?
 - Els dies de permís per malaltia van separats o s'inclouen dins del mateix paquet de les vacances?
@@ -122,11 +113,11 @@ Tingues en compte que els interessos d'una empresa poden canviar amb el temps, d
 - Quina és la política de l'empresa sobre les baixes per maternitat/paternitat?
 - Quina és la política de l'empresa sobre les vacances no pagades?
 
-# Altres recursos
+## Altres recursos
 
 - Cerca més inspiració per a noves preguntes a [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
-# Llicència
+## Llicència
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

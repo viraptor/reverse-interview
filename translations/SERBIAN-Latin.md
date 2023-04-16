@@ -7,26 +7,6 @@ Takođe sam primetio da ljudi koje sam intervjuisao za posao postavljaju jako ma
 
 Ukoliko imaš svoja pitanja koja nisu pomenuta ovde, pošalji mi pull request.
 
-Prevodi:
-
-- [arapski](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [katalonski](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- kineski [uprošćen](https://github.com/yifeikong/reverse-interview-zh) / [tradicionalni](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [engleski](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [francuski](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [nemački](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [indonežanski](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [italijanski](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [japanski](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [korejski](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [poljski](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [portugalski (Brazil)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [ruski](https://github.com/kix/reverse-interview/blob/master/README.md)
-- srpski [latinica](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [ćirilica](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [španski](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [turski](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [vijetnamski](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Očekivana upotreba ove liste
 
@@ -39,7 +19,7 @@ Nemoj pokušavati da pitaš sva pitanja sa ove liste. (Poštuj vreme sagovornika
 Imaj na umu da se stvari menjaju, reorganizovanje se često dešava.
 Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje efikasno. CI/CD ne znači da je vreme do instalacije ili deploymenta kratko.
 
-# Pozicija
+## Pozicija
 
 - Kakav je plan ili raspored za dežurstva (on-call)? (koliko se plaća za dežurstvo bez intervencije a koliko za dežurstvo sa intervencijom)
 - Na kojim zadacima bih radio u jednom uobičajenom danu?
@@ -57,7 +37,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Koji stil upravljanja (menadžmenta) imaju moj neposredni menadžer i njegov menadžer?
 - Koje prilike ću imati da se razvijam na datoj poziciji?
 
-# Tehnologija
+## Tehnologija
 
 - Koji tech stack se koristi u firmi?
 - Kako koristite sors kontrolu?
@@ -79,7 +59,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Kako upravljate internim / eksternim artifaktima?
 - Kako upravljate zavisnostima?
 
-# Tim
+## Tim
 
 - Kako je posao organizovan?
 - Kako tipično izgleda komunikacija unutar tima / između timova?
@@ -101,7 +81,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Kako delite znanje?
 - Koja je veličina timova?
 
-# Potencijalni saradnici
+## Potencijalni saradnici
 
 - Od koga programeri uče?
 - Šta vam se najviše sviđa na poslu?
@@ -110,7 +90,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Koliko dugo je tu "najstariji" član tima (onaj koji je najduže tu)?
 - Ako je mali tim, da li ste imali iskustva sa nekom konfliktnom ličnošću? Kako ste rešili to?
 
-# Firma
+## Firma
 
 - Zašto zapošljavate nove ljude? (rast / novi proizvod / neki ljudi su otišli / ...)
 - Da li imate budžet za konferencije ili putovanja? Koja su pravila korišćenja tog budžeta?
@@ -132,14 +112,14 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Koje događaje tim/firma ogranizuje? Da li ih neko posećuje?
 - Zašto je firma odlučila da angažuje nekoga sa strane umesto da unapredi jednog od postojećih zaposlenih?
 
-# Društvena pitanja
+## Društvena pitanja
 
 - Koji je pogled na diverzifikovano zapošljavanje?
 - Koje su praznine u kompanijskoj kulturi? (i kakva je kultura u firmi?)
 - Kako izgleda ravnoteža između posla i privatnog života?
 - Koji je stav firme o klimatskim promenama?
 
-# Sukobi
+## Sukobi
 
 - Kako se razrešavaju razlike u mišljenjima?
 - Šta se dešava nakon otpora u odgovoru? ("ovo ne može da se završi u predviđenom roku")
@@ -148,7 +128,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Ako postoji razmimoilaženje u očekivanjima uprave i performansi programera / tima, šta se dešava?
 - Da li možete da mi kažete kako se firma izborila u nekoj toksičnoj situaciji?
 
-# Poslovanje
+## Poslovanje
 
 - Da li ste profitabilni?
 - Ako niste, koliko dugo firma može da preživi?
@@ -159,7 +139,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Koje velike izazove predviđate?
 - Koja je vaša kompetitivna prednost?
 
-# Rad na daljinu
+## Rad na daljinu
 
 - Koji je odnos radnika na daljinu i radnika iz kancelarije?
 - Da li firma obezbeđuje hardver? Koliko često ga obnavlja?
@@ -169,18 +149,18 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Koliko često moram da dolazim u kancelariju?
 - Da li su kancelarije opremljene za video pozive?
 
-# Tlocrt zgrade
+## Tlocrt zgrade
 
 - Kakav je tlocrt prostorija? (otvoreni prostor / boksovi / normalne kancelarije)
 - Da li se blizu mog tima nalaze podrška / marketing / drugi tim koji većinu vremena provodi u razgovorima?
 
-# Sve i svašta
+## Sve i svašta
 
 - Koji je najbolji a koji najgori aspekt u radu na ovoj poziciji / u ovom timu / firmi?
 - Zašto ste odabrali da radite za ovu firmu?
 - Šta vas drži u firmi?
 
-# Kompenzacija van plate
+## Kompenzacija van plate
 
 - Ako imate bonuse kako se određuju?
 - Ako imate bonuse, koji je uobičajeni procenat tokom prethodnih nekoliko godina?
@@ -188,7 +168,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Da li imate privatno zdravstveno osiguranje? Kada mogu da počnem da ga koristim?
 - Da li plaćate za preseljenje?
 
-# Slobodni dani
+## Slobodni dani
 
 - Koliko slobodnih dana nudite?
 - Da li su odsustvo zbog bolesti i odmor odvojeni? [N.B. u Srbiji ovo pitanje verovatno nema smisla]
@@ -198,7 +178,7 @@ Ako firma ima sistem za praćenje bagova, to ne znači da je njihovo rešavanje 
 - Kakav je stav ili politika firme o neplaćenom odsustvu?
 - Kakav je stav ili politika firme o dugoročnom neplaćenom odsustvu (sabatikal)?
 
-# Drugi resursi
+## Drugi resursi
 
 Pronađi inspiraciju za još pitanja na sledećim linkovima na engleskom jeziku:
 
@@ -206,7 +186,7 @@ Pronađi inspiraciju za još pitanja na sledećim linkovima na engleskom jeziku:
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) autor Džulija Evans (Julia Evans)
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) autor Piter Mekhejl (Peter Mekhaeil)
 
-# Licenca
+## Licenca
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

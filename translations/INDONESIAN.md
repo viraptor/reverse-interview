@@ -7,22 +7,6 @@ Saya juga memperhatikan betapa sedikitnya pertanyaan yang ditanyakan oleh orang 
 
 Jika anda menanyakan hal yang tidak berada pada daftar ini, silahkan kirim *Pull Request* anda.
 
-Terjemahan:
-
-- [Arab](https://github.com/sherifsaleh/reverse-interview/blob/master/translations/ARABIC.md)
-- [Katalonia](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Mandarin [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [Inggris](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [Prancis](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [Jerman](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Itali](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Korea](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Portugis (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russia](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanyol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turki](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnam](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Penggunaan yang diharapkan
 
@@ -35,7 +19,7 @@ Pastinya jangan mencoba untuk menanyakan segala hal yang ada di daftar. (Hargai 
 Ingat bahwa segala hal cenderung tidak pasti, re-organisasi sering terjadi.
 Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan penggunaan *CI/CD* tidak berarti waktu anda untuk menyerahkan pendek.
 
-# Peranan
+## Peranan
 
 - Apa rencana/jadwal *on-call*nya? (apa bayaran untuk siap siaga dan saat dipanggil)
 - Pekerjaan apa yang perlu dilakukan sehari hari?
@@ -54,7 +38,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Bagaimana saya berkembang dalam posisi baru saya / apa peluang yang ditawarkan?
 
 
-# Teknologi
+## Teknologi
 
 - Apa sususan teknologi yang biasa diterapkan di perusahaan?
 - Bagaimana cara anda menggunakan *source control*?
@@ -76,7 +60,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Bagaimana anda mengatur artefak internal / eksternal?
 - Bagaimana anda mengatur *dependencies*?
     
-# The Team
+## The Team
 
 - Bagaimana pekerjaannya di organisir?
 - Bagaimana komunikasi intra/inter tim biasanya dilakukan?
@@ -98,7 +82,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Bagaimana anda berbagi ilmu?
 - Seberapa beasr timnya? 
 
-# Rekan kerja potensialku
+## Rekan kerja potensialku
 
 - Biasanya dari siapa para *developer* belajar?
 - Apa yang anda paling sukai dari bekerja disana?
@@ -106,7 +90,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Apa yang ingin kamu ubah jika bisa?
 - Seberapa lama waktu seorang anggota tim yang paling lama disana? 
 
-# The Company
+## The Company
 
 - Kenapa perusahaan melakukan proses perekrutan? (perkembangan produk / produk baru / fluktuasi / ...)
 - Apakah ada anggaran konfrensi/perjalanan dan apa aturan dalam pemakaiannya?
@@ -135,14 +119,14 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Are there any Hackathons conducted internally?
 - Does the company support open-source projects?
 
-# Permasalahan Sosial
+## Permasalahan Sosial
 
 - Bagaimana pandangan anda tentang perekrutan dari berbagai latar belakang?
 - Apa yang menurut anda menjadi kesenjangan dalam kultur perusahaan? (dan apa kultur perusahaan yang diterapkan?)
 - Apa arti dari keseimbangan kehidupan dan pekerjaan di perusahaan ini?
 - Apakah perusahaan memiliki pendirian mengenai perubahan iklim?
 
-# Konflik
+## Konflik
 
 - Bagaimana perbedaan pendapat diselesaikan?
 - Apa yang terjadi setelah penundaan projek? ("Pekerjaan tidak bisa diselesaikan pada waktu yang ditetapkan")
@@ -151,7 +135,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Saat tidak ada jarak antara ekspektasi dari manajemen dan performa dari pengembang atau tim, apa yang akan dilakukan?
 - Bisakah anda menceritakan kisah tentang keadaan *toxic* dan bagaimana perusahaan menanganinya?
 
-# Aspek Bisnis
+## Aspek Bisnis
 
 - Apakah anda memiliki laba bersih?
 - Jika tidak, berapa lama dananya akan bertahan?
@@ -162,7 +146,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Apa tantangan terbesar yang akan datang?
 - Apa yang anda kenali sebagai keunggulan kompetitif? 
 
-# Bekerja jarak jauh
+## Bekerja jarak jauh
 
 - Bagaimana rasio antara perkerja jarak jauh dan pekerja kantor?
 - Apakah perusahaan memnyediakan *hardware* dan bagaimana jadwal pembaruannya?
@@ -172,18 +156,18 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Seberapa sering kunjungan kantor diharapkan?
 - Apakah ruang pertemuan kantor selalu siap untuk konferensi video?
 
-# Membangun tata ruang
+## Membangun tata ruang
 
 - Bagaimana tata ruang kantornya? (terbuka / ruang terpisah / kantor terpisah)
 - Apakah ada bantuan / pemasaran / tim *call-heavy* lainnya yang dekat dengan tim baru saya?
 
-# Tangkap semua
+## Tangkap semua
 
 - Apa aspek terbaik dan terburuk dalam posisi pekerjaan / tim / perusahaan ini?
 - Apa yang membuat anda tertarik untuk bekerja pada perusahaan ini?
 - Apa yang membuatmu tetap bertahan pada perusahaan?
 
-# Kompensasi
+## Kompensasi
 
 - Jika anda memiliki bonus, bagaimana bonus itu ditentukan?
 - Jika anda memiliki bonus, bagaimana persentase tipikal bonus selama beberapa tahun terakhir?
@@ -192,7 +176,7 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Apakah anda membayar untuk relokasi?
 
 
-# Waktu cuti
+## Waktu cuti
 
 - Seberapa banyak cuti berbayar (*paid time off*) yang ditawarkan?
 - Apakah jatah waktu sakit dan waktu liburan terpisah atau disamakan?
@@ -202,14 +186,14 @@ Memiliki sistem pelacak *Bug* tidak menjamin penanganan *Bug* lebih efisien dan 
 - Bagaimana kebijakan dalam cuti tak berbayar?
 - Bagaimana kebijakan dalam *sabbatical leave*?   
 
-# Sumber lain
+## Sumber lain
 
 Temukan lebih banyak inspirasi untuk pertanyaan di:
 
   - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
 
-# Lisensi
+## Lisensi
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
