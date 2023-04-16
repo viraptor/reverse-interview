@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Reverse interview
 
 This is a list of questions which may be interesting to a tech job applicant.
@@ -11,30 +6,6 @@ It was started as my personal list of questions, which grew over time to include
 I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
 
 If you asked something not listed here, send in a PR.
-
-Translations:
-
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Bulgarian](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Serbian [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Cyrillic](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Ukrainian](https://github.com/viraptor/reverse-interview/blob/master/translations/UKRAINIAN.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
 ## Expected usage
 
