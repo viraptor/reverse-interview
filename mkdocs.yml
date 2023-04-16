@@ -9,6 +9,8 @@ repo_url: https://github.com/viraptor/reverse-interview
 repo_name: "reverse-interview"
 # main directory with markdown files (default is `docs`)
 docs_dir: translations
+# relative path to the markdown files on github
+edit_uri: blob/master/translations/
 
 nav:
   - English: "README.md"
@@ -49,6 +51,13 @@ theme:
     - navigation.tracking
     # keep all sections in the navigation expanded by default
     - navigation.expand
+    # add icon and link to the document on gihub for each page
+    - content.action.edit
+  icon:
+    # icon for the git repository link on the top-right
+    repo: fontawesome/brands/github
+    # icon for the view of the current page in the repository
+    edit: material/eye
   palette:
     # light mode
     - media: "(prefers-color-scheme: light)"
