@@ -1,0 +1,62 @@
+# RECOMMENDATION: set up the JSON schema as described in https://squidfunk.github.io/mkdocs-material/creating-your-site/#minimal-configuration
+# this will provide auto-completion and pop-up annotations of invividual parameters.
+# This configuration is heavily based on https://github.com/copier-org/copier/blob/master/mkdocs.yml
+site_name: "Reverse interview questions"
+# to be validated and filled according to the place where you push the repository
+# the git repo link in the header
+repo_url: https://github.com/viraptor/reverse-interview
+# the title to use for the git repo link
+repo_name: "reverse-interview"
+
+docs_dir: translations
+
+# nav:
+#   - Interview questions: "ENGLISH.md"
+
+theme:
+  name: material
+  # icon:
+  #   repo: fontawesome/brands/gitlab
+  features:
+    # enables annotations, see https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#code-annotations
+    - content.code.annotate
+    # for navigation features see https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+    - navigation.top
+    - navigation.tracking
+  palette:
+    # light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      # main theme color
+      primary: deep orange
+      # the color to change to for a hover on an interactive element
+      accent: amber
+      # definition of the  header icon for this mode
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      # main theme color
+      primary: deep orange
+      # the color to change to for a hover on an interactive element
+      accent: amber
+      # definition of the  header icon for this mode
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+# use a long list of recommended extensions from https://squidfunk.github.io/mkdocs-material/setup/extensions/?h=pymdownx#recommended-configuration
+markdown_extensions:
+  # Python Markdown
+  - admonition
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.tilde
