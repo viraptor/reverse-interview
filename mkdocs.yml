@@ -7,7 +7,7 @@ site_name: "Reverse interview questions"
 repo_url: https://github.com/viraptor/reverse-interview
 # the title to use for the git repo link
 repo_name: "reverse-interview"
-
+# main directory with markdown files (default is `docs`)
 docs_dir: translations
 
 # nav:
