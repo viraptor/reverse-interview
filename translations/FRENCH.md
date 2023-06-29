@@ -8,13 +8,13 @@ J'ai aussi remarqué le peu de questions posées par les personnes que j'ai inte
 ## Utilisation prévue
    
 - Notez les questions qui vous intéressent plus particulièrement
-- Retirez celles pour lequelles les réponses existent en ligne
+- Retirez celles pour lesquelles les réponses existent en ligne
 - Posez les questions
 
 N'essayez pas de poser toutes les questions de la liste. Respectez le temps de votre intervieweur·se et faites preuve d'initiative en cherchant des réponses par vous même si elles existent déjà en ligne.
 
 Rappelez-vous que les choses ont tendance à être fluides, les réorganisations se produisent souvent.
-Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace et de l'intégration continue ne signifie pas que votre temps de livraison est nécessairement court. 
+Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace et l'intégration continue ne signifie pas que votre temps de livraison est nécessairement court. 
 
 # Le rôle
 
@@ -26,7 +26,7 @@ Avoir un système de suivi des bogues ne rend pas la gestion des bogues efficace
 
 # Tech
 
-- Quelles est la stack utilisée dans l'entreprise ?
+- Quelle est la stack utilisée dans l'entreprise ?
 - Quelle est votre plateforme de gestion de versions ?
 - Comment testez-vous le code ?
 - Comment suivez-vous les bogues ?
