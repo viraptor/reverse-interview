@@ -188,6 +188,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
+- If you grant stock options to employee, then what percentage of the company do the options offered represent? What is the vesting schedule?
 - Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 - Are there medical benefits and if so, when do they start?
 - Do you pay for relocation?
