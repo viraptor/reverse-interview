@@ -29,6 +29,7 @@
 - [Французькою](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [Хінді](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
 - [Японською](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
+- [голландський](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Очікуване використання
 

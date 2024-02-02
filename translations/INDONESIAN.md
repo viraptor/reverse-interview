@@ -23,6 +23,7 @@ Terjemahan:
 - [Spanyol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Turki](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [Vietnam](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [Belanda](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Penggunaan yang diharapkan
 

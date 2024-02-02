@@ -27,6 +27,8 @@ Prevodi:
 - [španski](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [turski](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [vijetnamski](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [holandski](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
+
 
 ## Očekivana upotreba ove liste
 

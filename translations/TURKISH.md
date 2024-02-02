@@ -25,6 +25,8 @@ Eğer siz burada listelenmeyen bir şey sorduysanız, lütfen bir PR ile gönder
 - [İspanyolca](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Vietnamca](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 - [Bulgarca](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
+- [Flemenkçe](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
+
 
 ## Beklenen Kullanım
 
