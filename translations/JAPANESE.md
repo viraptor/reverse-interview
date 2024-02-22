@@ -78,6 +78,7 @@
 - 技術的な目標とビジネス的な目標のバランスはどのようにとるのですか？
 - 知識の共有はどのようにしていますか？
 - チームの規模はどのくらいですか？
+- 各チームに委任されたサービスやプロジェクトはどうですか？
 
 # 同僚 (Your Potential Coworkers)
 
@@ -178,10 +179,11 @@
 
 # 参考文献 (Other resources)
 
-Find more inspiration for questions in:
+質問へのインスピレーションを見つけてください:
 
 - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
 - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
+- [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
 # License
 
