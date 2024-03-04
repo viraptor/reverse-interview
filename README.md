@@ -135,6 +135,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Does the company support open-source projects?
 - What kind of social events does the team/company host and are these attended by everyone?
 - Why did the company decide to hire an outsider over promoting an internal employee? 
+- Is the company willing to assist overseas job applicants in applying for work visas?
 
 # Social issues
 
