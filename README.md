@@ -199,3 +199,17 @@
 - पालकांची सुट्टी धोरण काय आहे?
 - न चुकता रजा धोरण काय आहे?
 - विश्रांतीची रजा धोरण काय आहे?
+
+# इतर संसाधने
+
+प्रश्नांसाठी अधिक प्रेरणा मिळवण्यासाठी खालील लेखांचा संदर्भ घ्या:
+
+  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) - जोएल स्पॉलस्की यांनी लिहिलेले
+  - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) - जूलिया इव्हान्स यांनी लिहिलेले
+  - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) - पीटर मेक्हाइल यांनी तयार केलेली
+
+# परवाना
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+हे कार्य [क्रिएटिव्ह कॉमन्स अॅट्रिब्युशन-शेअरअलाइक 4.0 आंतरराष्ट्रीय परवाना](https://creativecommons.org/licenses/by-sa/4.0/) अंतर्गत परवानाधारक आहे.
