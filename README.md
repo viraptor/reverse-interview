@@ -1,218 +1,170 @@
-# Reverse interview
+# रिव्हर्स इंटरव्ह्यू
 
-This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
-I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
+हा एक प्रश्नांचा संग्रह आहे जो तंत्रज्ञानाच्या नोकरीसाठी अर्जदारांना आवडू शकतो. हे मुद्दे कोणत्याही विशिष्ट क्रमाने नाहीत आणि अनेक कदाचित दिलेल्या पदासाठी किंवा कामाच्या प्रकारासाठी लागू होणार नाहीत. हे माझ्या वैयक्तिक प्रश्नांच्या यादीसारखे सुरू झाले होते, ज्यामध्ये हळूहळू मला पाहायला आवडणाऱ्या गोष्टी आणि टाळायच्या धोकादायक गोष्टी समाविष्ट झाल्या. मी देखील हे लक्षात घेतले आहे की मी मुलाखत घेतलेल्या लोकांकडून किती कमी प्रश्न विचारले जातात आणि मला वाटते की ती संधी गमावली गेली.
 
-If you asked something not listed here, send in a PR.
+जर तुम्ही इथे नमूद केलेल्या यादीतील काही विचारले नसेल, तर PR पाठवा.
 
-Translations:
+अनुवाद:
 
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Bulgarian](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
-- [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- Serbian [Latin](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [Cyrillic](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Ukrainian](https://github.com/viraptor/reverse-interview/blob/master/translations/UKRAINIAN.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [अरेबिक](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
+- [बल्गेरियन](https://github.com/viraptor/reverse-interview/blob/master/translations/BULGARIAN-Cyrillic.md)
+- [कॅटलान](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
+- चिनी [सोपे](https://github.com/yifeikong/reverse-interview-zh) / [पारंपारिक](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
+- [इंग्रजी](https://github.com/viraptor/reverse-interview/blob/master/README.md)
+- [फ्रेंच](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
+- [जर्मन](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
+- [हिंदी](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [इंडोनेशियन](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
+- [इटालियन](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
+- [जपानी](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
+- [कोरियन](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [फारसी](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
+- [पोलिश](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
+- [पोर्तुगीज (ब्राझिलियन)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
+- [रशियन](https://github.com/kix/reverse-interview/blob/master/README.md)
+- सर्बियन [लॅटिन](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Latin.md) / [सिरिलिक](https://github.com/viraptor/reverse-interview/blob/master/translations/SERBIAN-Cyrillic.md)
+- [स्पॅनिश](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [तुर्की](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
+- [युक्रेनियन](https://github.com/viraptor/reverse-interview/blob/master/translations/UKRAINIAN.md)
+- [व्हिएतनामी](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
 
-## Expected usage
+## अपेक्षित वापर
 
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
+- तुमच्यासाठी विशेषतः कोणते प्रश्न रोचक आहेत ते तपासा
+- कोणती उत्तरे तुम्ही स्वतः ऑनलाइन शोधू शकता ते तपासा
+- अन्यथा विचार करा
 
-Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
+यादीतील सर्व काही विचारण्याचा प्रयत्न करू नका. (मुलाखत घेणाऱ्याच्या वेळेचा सन्मान करा आणि जर उत्तरे आधीच प्रकाशित झाली असतील तर स्वतःहून ती शोधून दाखवा).
 
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
+लक्षात ठेवा की गोष्टी प्रवाही असतात, पुनर्संस्था वारंवार होते. बग ट्रॅकिंग सिस्टम असणे म्हणजे बग हाताळणी कार्यक्षम होईल असे नाही आणि CI/CD असणे म्हणजे तुमचा वेळ कमी असणे आवश्यक नाही.
 
-# The Role
+# भूमिका
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- Are there any specific goals for me?
-- What's the junior/senior balance of the team? (and are there plans to change it)
-- What does the onboarding look like?
-- How much freedom for decision making do individual developers have?
-- What are the expected/core work hours?
-- What is your definition of success for this role?
-- What do you expect me to accomplish in the first 1 month/3 months?
-- How will you evaluate my performance at the end of the trial period?
-- What does a typical day/week look like in this role?
-- Do you have any concerns about my application?
-- Tell me about who I would be working most closely with.
-- What management style does my immediate manager and their manager have? (from micro- to macro-)
-- How can I develop in my new role / what opportunities are offered?
+- ऑन-कॉल योजना/वेळापत्रक काय आहे? (स्टँडबाय आणि कॉल-आउटसाठी पगार किती आहे)
+- मी नेहमीच्या दिवशी कोणती कामे करणार आहे?
+- माझ्यासाठी कोणते विशिष्ट ध्येय आहेत का?
+- टीममधील ज्युनियर/सीनियर यांचे संतुलन काय आहे? (आणि ते बदलण्याची योजना आहे का)
+- ऑनबोर्डिंग कसे दिसते?
+- वैयक्तिक विकसकांना निर्णय घेण्याचे किती स्वातंत्र्य आहे?
+- अपेक्षित/मूलभूत कामाचे तास काय आहेत?
+- या भूमिकेसाठी यशाची तुमची व्याख्या काय आहे?
+- पहिल्या 1 महिना/3 महिन्यांत तुम्ही मला काय साध्य करण्याची अपेक्षा करता?
+- चाचणी कालावधीच्या शेवटी तुम्ही माझ्या कामगिरीचे मूल्यांकन कसे कराल?
+- या भूमिकेत एक सामान्य दिवस/आठवडा कसा दिसतो?
+- माझ्या अर्जाबद्दल तुम्हाला काही चिंता आहे का?
+- मी ज्या व्यक्तींसोबत काम करेन त्याबद्दल मला सांगा.
+- माझा त्वरित व्यवस्थापक आणि त्यांचा व्यवस्थापक कोणत्या व्यवस्थापन शैलीचा अवलंब करतो? (मायक्रो ते मॅक्रो पर्यंत)
+- मी माझ्या नवीन भूमिकेत कसे विकसित होऊ शकतो / कोणत्या संधी देण्यात आल्या आहेत?
 
-# Tech
+# तंत्रज्ञान
 
-- What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you monitor projects?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
-- Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
-- Do you have some higher level documentation? (ER diagrams, database schema)
-- Do you employ static code analysis?
-- How do you manage internal / external artifacts?
-- How do you manage dependencies?
+- कंपनीत वापरलेले सामान्य स्टॅक काय आहेत?
+- तुम्ही सोर्स कंट्रोल कसे वापरता?
+- तुम्ही कोडची चाचणी कशी करता?
+- तुम्ही बग कसे ट्रॅक करता?
+- तुम्ही प्रकल्पांचे निरीक्षण कसे करता?
+- तुम्ही बदल एकत्रित आणि तैनात कसे करता? ते CI/CD आहे का?
+- तुमचा पायाभूत संरचना सेटअप आवृत्ती नियंत्रण अंतर्गत आहे / कोड म्हणून उपलब्ध आहे?
+- नियोजनापासून पूर्ण झालेल्या कामापर्यंत कार्यप्रवाह कसा आहे?
+- आपत्ती पुनर्प्राप्तीची तयारी कशी करता?
+- मानकीकृत विकास वातावरण आहे का? ते अंमलात आणले आहे का?
+- उत्पादनासाठी नवीन स्थानिक चाचणी वातावरण सेट करण्यास किती वेळ लागतो? (मिनिटे / तास / दिवस)
+- कोड किंवा अवलंबित्वातील सुरक्षा समस्यांना प्रतिसाद देण्यास किती वेळ लागतो?
+- सर्व विकसकांना त्यांच्या संगणकांचे स्थानिक प्रशासक प्रवेश मिळण्याची परवानगी आहे का?
+- तुमचे तांत्रिक तत्त्वज्ञान किंवा दृष्टीकोन काय आहे ते मला सांगा.
+- तुमच्याकडे तुमच्या कोडसाठी विकसक दस्तऐवजीकरण आहे का? ग्राहकांसाठी स्वतंत्र दस्तऐवजीकरण आहे का?
+- तुमच्याकडे काही उच्चस्तरीय दस्तऐवजीकरण आहे का? (ER आकृती, डेटाबेस योजना)
+- तुम्ही स्थिर कोड विश्लेषण वापरता का?
+- तुम्ही अंतर्गत / बाह्य वस्तू कशा व्यवस्थापित करता?
+- तुम्ही अवलंबित्व कसे व्यवस्थापित करता?
 
-# The Team
+# टीम
 
-- How is the work organised?
-- How does the intra/inter-team communication typically work?
-- Do you use any tools for project organization? What is your experience with them?
-- How are differences of opinions resolved?
-- Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team misses a release target?
-- What kind of meetings happen every week?
-- Would there be a regular 1-on-1 with my manager?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
-- What are some ongoing challenges the team is experiencing that you are yet to resolve?
-- How do you track progress?
-- How are expectations and goals set, and who does the setting?
-- What does a code review look like here?
-- Walk me through a typical sprint on this team
-- How do you balance technical vs business goals?
-- How do you share knowledge?
-- How big is each team?
-- How are services and projects delegated to each team?
+- कामाचे आयोजन कसे केले जाते?
+- टीममधील/टीममधील संवाद सामान्यतः कसा कार्य करतो?
+- तुम्ही प्रकल्प संघटनेसाठी कोणती साधने वापरता? त्यांच्याशी तुमचा अनुभव काय आहे?
+- मते मतभेद कसे सोडवले जातात?
+- प्राधान्ये / वेळापत्रक कोण सेट करतो?
+- पुशबॅक झाल्यानंतर काय होते? ("हे अंदाजित वेळेत केले जाऊ शकत नाही")
+- जेव्हा टीम रिलीज लक्ष्य गमावते तेव्हा काय होते?
+- दर आठवड्याला कोणत्या प्रकारच्या बैठका होतात?
+- माझ्या व्यवस्थापकासोबत नियमित 1-ऑन-1 असतील का?
+- उत्पादन/सेवा वेळापत्रक काय आहे? (n-साप्ताहिक रिलीझ / सतत तैनाती / एकाधिक रिलीझ स्ट्रीम / ...)
+- उत्पादनाच्या घटना घडल्यावर काय होते? निष्कलंक विश्लेषणाची संस्कृती आहे का?
+- तुमच्या अनुभवत असलेल्या काही सततच्या आव्हानांबद्दल सांगा जी तुम्ही अजूनपर्यंत सोडवली नाहीत?
+- प्रगती कशी ट्रॅक केली जाते?
+- अपेक्षा आणि ध्येय कशी सेट केली जातात आणि ती कोण सेट करतो?
+- येथे कोड पुनरावलोकन कसे दिसते?
+- टीममधील सामान्य स्प्रिंटमध्ये मला घ्या
+- तांत्रिक विरुद्ध व्यवसाय ध्येये तुम्ह
 
-# Your Potential Coworkers
+ी कशी संतुलित करता? ("विकासात्मक काम नाही")
+- तुम्ही पूर्व-निर्मिती कल्पनांचे / मागण्या / आवश्यकता कशा सुलभ करता?
+- तुम्हाला गेल्या काही महिन्यांत कोणती कौशल्ये शिकण्याची/संपादन करण्याची संधी मिळाली आहे?
 
-- Who do developers tend to learn from?
-- What do you like best about working there?
-- What do you like least?
-- What would you change if you could?
-- How long has the longest team member been there?
-- If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
+# उत्पादने आणि प्रकल्प
 
-# The Company
+- सध्या कोणते प्रकल्प आहेत? (विकसित / देखभाल केली जात आहे)
+- आपण काय करीत आहात याचा व्यावसायिक दृष्टिकोन काय आहे?
+- प्रकल्पाने नुकतीच नाटकीय दिशा बदलली आहे का?
+- माझ्या कामाचे यश कसे मोजले जाईल?
+- कोणत्या तृतीय-पक्ष सेवा किंवा एपीआय वापरले जात आहेत?
+- सध्या कोणत्या धोरणात्मक भागीदाऱ्या/करारांवर काम केले जात आहे?
+- कोणत्या नवीन उपक्रमांसाठी संघाने नुकतेच बांधिलकी केली आहे?
 
-- Why is the company hiring? (product growth / new product / fluctuation / ...)
-- Is there a conference/travel budget and what are the rules to use it?
-- What's the promotion process? How are requirements / expectations communicated?
-- What is the performance review process like?
-- Is there a separate tech and management career path?
-- Are there any company-wide resources for learning available, like ebooks subscriptions or online courses?
-- Is there a budget for getting certifications?
-- What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
-- Where do you see the company in the next 5/10 years? 
-- What does clean code mean to the majority of developers here?
-- When is the last time you noticed someone growing here, and in what way were they growing?
-- What does it mean to be successful here, and how do you measure success?
-- Is there a Sports / Team building Activity?
-- Are there any Hackathons conducted internally?
-- Does the company support open-source projects?
-- What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee? 
-- Is the company willing to assist overseas job applicants in applying for work visas?
+# कंपनी
 
-# Social issues
+- तुम्ही येथे का काम करता? तुम्हाला अजूनही काय टिकून ठेवते?
+- तुमच्याकडे समर्पित लोक ऑप्स आहे का?
+- तंत्रज्ञानाबद्दल कंपनीचा काय दृष्टिकोन आहे? (उदा. उदयोन्मुख तंत्रज्ञानाचा अवलंब करणे बनाम स्थापित पद्धती)
+- कामकाजाची वेळ बदलली आहे का?
+- पगाराच्या पातळीवर समानता राखली जाते याची खात्री कशी केली जाते?
+- कंपनीने गेल्या काही वर्षांत कोणते बदल केले आहेत?
+- तुमची पातळी किंवा भूमिका बदलल्यास मला नोकरी टिकवून ठेवण्यासाठी कोणत्या प्रकारची पायाभूत सुविधा मिळेल?
+- तुम्हाला कोणत्या व्यवसायाचा अभिमान आहे?
+- मागील वर्षी कंपनी कशी परिपूर्ण झाली? पुढील वर्षासाठी योजना काय आहेत?
+- काय वापरले जाते आणि कोणते उपक्रम यशस्वी होण्यासाठी अवलंबले जात आहेत?
+- गेल्या काही वर्षांत संघटनात्मक परिवर्तनाचे उदाहरण द्या.
+- कंपनी ग्राहकांचे पुनरावलोकन कसे करते?
+- या पदावरील काम कंपनीच्या व्यवसाय धोरणाशी कसे जोडलेले आहे?
+- कार्यसंघ कर्मचार्‍यांच्या टिकवून ठेवण्याच्या पातळीचा अभिमान बाळगतो का? आपण सामान्यतः त्यांची काळजी कशी घेता?
+- तुमच्याकडे गेटकीपर आहेत का?
+- अल्प-मुदतीच्या आकांक्षांसह कंपनीची दीर्घकालीन धोरणे संतुलित करण्यात मदत करण्यासाठी आपण कोणते विशिष्ट उपक्रम वापरता?
 
-- What's the status of / view on diverse hiring?
-- What do you think are the gaps in the company culture? (and what is the company culture?)
-- What does work-life balance mean here?
-- Does the company have a stance regarding climate change?
+# विकास
 
-# Conflict
+- प्रत्येकाला विकासाच्या संधी मिळतील याची खात्री कशी केली जाते?
+- मी व्यक्तिशः व्यावसायिक किंवा इतर कोणतेही कौशल्य कसे विकसित करू शकेन?
+- नवीन भूमिका किंवा संघांमध्ये स्थानांतरणाचे समर्थन करण्यासाठी कोणती धोरणे/साधने वापरली जातात?
+- मला हे काम करण्यासाठी काय शिकावे लागेल?
+- कंपनी नवीन तंत्रज्ञानात किंवा संघटना कौशल्ये विकसित करण्यात कशी गुंतवणूक करते? (उदा. आंतर-कार्यसंघ विशिष्ट शिक्षण उपक्रम, आतिथ्य तज्ञ)
+- माझ्या संघात विकासाच्या संधींचे साधन कसे वाढवायचे?
+- कोणत्याही क्षेत्रात तज्ञ होण्यासाठी कंपनी कशी मदत करते?
 
-- How are differences of opinions resolved?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team is under pressure and commits to work over their capacity / velocity?
-- If someone identifies areas of improvement in process / technology / etc, what happens?
-- When there is a gap between expectations from management and performance of an engineer or team, what happens?
-- Could you tell me a story about a toxic situation and how the company dealt with it?
+# फायदे
 
-# The Business
+- तुम्ही कोणती आर्थिक/अ-मौल्यवान फायदे ऑफर करता?
+- शेअर्सचे पर्याय / इक्विटी कशी कार्य करते?
+- बोनस योजना कशी कार्य करते?
+- तुम्ही निवृत्तीची योजना कशी कराल?
+- तुम्ही कोणत्या निरोगी उपक्रमांना पाठिंबा देता?
+- पगार कसा उचलला जातो?
+- कंपनीच्या प्रगतीची मोजणी कोणती आहे?
+- कौटुंबिक/इतर नातेसंबंधांसाठी कामाच्या तासांची लवचिकता आहे का?
+- जसे: तुम्ही सध्या कार्यालयात आहात, संकरित किंवा कधीही संपूर्णपणे दुरून?
+- कंपनीत जास्त प्रवास होण्याची अपेक्षा आहे का? (हे पदावर अवलंबून असू शकते)
+- तुम्ही मला दररोज कोणती उत्पादने वापरण्याची अपेक्षा करता?
+- प्रवासाला पगार दिला जातो का?
+- पाळीव प्राणी आणण्याची परवानगी आहे का?
 
-- Are you profitable?
-- If not, how long is your runway?
-- Where does the funding come from and who influences the high level plan/direction?
-- How do you make money?
-- What's preventing you from making more money?
-- What is the company's growth plan for the next 1 year? 5 years?
-- What are the big challenges you see coming up?
-- What have you identified as your competitive advantage?
+# संक्षिप्त यादी
 
-# Remote Work
-
-- What's the ratio of remote to office workers?
-- Does the company provide hardware and what's the refresh schedule?
-- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
-- Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- Is there a budget for co-working space or internet access?
-- How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
-
-# Building Layout
-
-- What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
-
-# Catch all
-
-- What's the best and what's the worst aspect of working in this role / team / company?
-- What got you to choose to work for the company initially?
-- What keeps you at the company?
-
-# Compensation
-
-- If you have a bonus scheme, then how are bonuses determined?
-- If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
-- Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
-- Are there medical benefits and if so, when do they start?
-- Do you pay for relocation?
-
-# Time Off
-
-- How much Paid Time Off (PTO) is offered?
-- Are sick time and vacation time separate or do they come from the same pool?
-- Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
-- What is the roll over policy is there for PTO?
-- What is the parental leave policy?
-- What is the policy on unpaid leave?
-- What is the policy for sabbatical leave?
-
-# Other resources
-
-Find more inspiration for questions in:
-
-  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
-  - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
-  - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
-
-# License
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+- मला यामध्ये तपशील देऊ शकता का? (पदाचे वर्णन, मुख्य प्रकल्प)
+- तुमच्याकडे सामान्य ऑन-कॉल शेड्यूल आहे का? (कशासाठी)
+- पहिल्या आठवड्याच्या सुरुवातीस काम करणारे अनेक संघ
+- चालू असलेल्या प्रकल्पांचा प्रकार
+- यशाची व्याख्या आणि मोजमाप कसे केले जाते?
+- मी कशा प्रकारे नियमित सुधारणा करू शकेन?
+- गॅप वर्षे परंतु सतत प्रगती
+- फायदा/बोनस प्रणाली
+- वेतन शेड्यूलिंग आणि समीक्षा
