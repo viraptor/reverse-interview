@@ -21,6 +21,7 @@ Translations:
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Japanese](https://github.com/viraptor/reverse-interview/blob/master/translations/JAPANESE.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+- [Marathi](https://github.com/Pratik-Khose/reverse-interview/blob/master/translations/Marathi.md)
 - [Persian](https://github.com/Kaaveh/reverse-interview/blob/master/translations/PERSIAN.md)
 - [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
