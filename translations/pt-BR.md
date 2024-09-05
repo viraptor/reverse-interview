@@ -11,6 +11,7 @@ Traduções:
 - [Coreano](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Russo](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Espanhol](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Holandês](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Uso esperado
 

@@ -18,7 +18,7 @@
 - [रूसी](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [स्पेनिश](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [हिंदी](https://github.com/viraptor/reverse-interview/blob/master/translations/Hindi.md)
-
+- [डच](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## अपेक्षित उपयोग
 

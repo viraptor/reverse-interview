@@ -18,6 +18,7 @@ Wenn du Fragen hast, die nicht hier gelistet sind, sende einen PR.
 - [Portugiesisch (Brazilianisch)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
 - [Russisch](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanisch](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
+- [Niederländisch](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Bevorzugte Anwendung
 

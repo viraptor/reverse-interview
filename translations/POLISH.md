@@ -25,6 +25,7 @@ Tłumaczenia:
 - [hiszpański](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [turecki](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [wietnamski](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [Holenderski](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Użycie
 

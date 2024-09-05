@@ -27,6 +27,7 @@
 - [шпански](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [турски](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
 - [вијетнамски](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
+- [холандски](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Очекивана употреба ове листе
 

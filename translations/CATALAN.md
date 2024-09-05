@@ -16,6 +16,7 @@ Traduccions:
 - [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
 - [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
 - [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
+- [Dutch](https://github.com/viraptor/reverse-interview/blob/master/translations/DUTCH.md)
 
 ## Com utilitzar aquesta llista
 
