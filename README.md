@@ -93,6 +93,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
 - What kind of meetings happen every week?
+- Would there be an [individual development plan](https://github.com/luistak/idp-guideline)?
 - Would there be a regular 1-on-1 with my manager?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
