@@ -64,7 +64,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Tech
 
 - What are the usual stacks used at the company?
-- How do you use source control?
+- How do you use source control? Is there an enforced branching strategy?
 - How do you test code?
 - How do you track bugs?
 - How do you monitor projects?
