@@ -82,6 +82,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you employ static code analysis?
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
+- Do you track and discuss architectural decisions? Do you use Architectural Design Records?
+- Do you track code complexity metrics? If yes, which ones and why?
+- Do you know which parts of your codebase are hotspots, e.g. the files that change often? How risky are those, and how likely it is for me to encounter one during my onboarding?
 
 # The Team
 
